@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="meiyin.mapper.AuthenticationMapper" >
+  <resultMap id="BaseResultMap" type="meiyin.domain.Authentication" >
+    <id column="id" property="id" jdbcType="BIGINT" />
+    <result column="account_id" property="accountId" jdbcType="INTEGER" />
+    <result column="auth_type" property="authType" jdbcType="VARCHAR" />
+    <result column="auth_credential" property="authCredential" jdbcType="VARCHAR" />
+  </resultMap>
+  <sql id="Example_Where_Clause" >
+    <where >
+      <foreach collection="oredCriteria" item="criteria" separator="or" >
+        <if test="criteria.valid" >
+          <trim prefix="(" suffix=")" prefixOverrides="and" >
+            <foreach collection="criteria.criteria" item="criterion" >
+              <choose >
+                <when test="criterion.noValue" >
+                  and ${criterion.condition}
+                </when>
+                <when test="criterion.singleValue" >
+                  and ${criterion.condition} #{criterion.value}
+                </when>
+                <when test="criterion.betweenValue" >
+                  and ${criterion.condition} #{criterion.value} and #{criterion.secondValue}
+                </when>
+                <when test="criterion.listValue" >
+                  and ${criterion.condition}
+                  <foreach collection="criterion.value" item="listItem" open="(" close=")" separator="," >
+                    #{listItem}
+                  </foreach>
+                </when>
+              </choose>
+            </foreach>
+          </trim>
+        </if>
+      </foreach>
+    </where>
+  </sql>
+  <sql id="Update_By_Example_Where_Clause" >
+    <where >
+      <foreach collection="example.oredCriteria" item="criteria" separator="or" >
+        <if test="criteria.valid" >
+          <trim prefix="(" suffix=")" prefixOverrides="and" >
+            <foreach collection="criteria.criteria" item="criterion" >
+              <choose >
+                <when test="criterion.noValue" >
+                  and ${criterion.condition}
+                </when>
+                <when test="criterion.singleValue" >
+                  and ${criterion.condition} #{criterion.value}
+                </when>
+                <when test="criterion.betweenValue" >
+                  and ${criterion.condition} #{criterion.value} and #{criterion.secondValue}
+                </when>
+                <when test="criterion.listValue" >
+                  and ${criterion.condition}
+                  <foreach collection="criterion.value" item="listItem" open="(" close=")" separator="," >
+                    #{listItem}
+                  </foreach>
+                </when>
+              </choose>
+            </foreach>
+          </trim>
+        </if>
+      </foreach>
+    </where>
+  </sql>
+  <sql id="Base_Column_List" >
+    id, account_id, auth_type, auth_credential
+  </sql>
+  <select id="selectByExample" resultMap="BaseResultMap" parameterType="meiyin.domain.AuthenticationExample" >
+    select
+    <if test="distinct" >
+      distinct
+    </if>
+    <include refid="Base_Column_List" />
+    from authentication
+    <if test="_parameter != null" >
+      <include refid="Example_Where_Clause" />
+    </if>
+    <if test="orderByClause != null" >
+      order by ${orderByClause}
+    </if>
+  </select>
+  <select id="selectByPrimaryKey" resultMap="BaseResultMap" parameterType="java.lang.Long" >
+    select 
+    <include refid="Base_Column_List" />
+    from authentication
+    where id = #{id,jdbcType=BIGINT}
+  </select>
+  <delete id="deleteByPrimaryKey" parameterType="java.lang.Long" >
+    delete from authentication
+    where id = #{id,jdbcType=BIGINT}
+  </delete>
+  <delete id="deleteByExample" parameterType="meiyin.domain.AuthenticationExample" >
+    delete from authentication
+    <if test="_parameter != null" >
+      <include refid="Example_Where_Clause" />
+    </if>
+  </delete>
+  <insert id="insert" parameterType="meiyin.domain.Authentication" >
+    insert into authentication (id, account_id, auth_type, 
+      auth_credential)
+    values (#{id,jdbcType=BIGINT}, #{accountId,jdbcType=INTEGER}, #{authType,jdbcType=VARCHAR}, 
+      #{authCredential,jdbcType=VARCHAR})
+  </insert>
+  <insert id="insertSelective" parameterType="meiyin.domain.Authentication" >
+    insert into authentication
+    <trim prefix="(" suffix=")" suffixOverrides="," >
+      <if test="id != null" >
+        id,
+      </if>
+      <if test="accountId != null" >
+        account_id,
+      </if>
+      <if test="authType != null" >
+        auth_type,
+      </if>
+      <if test="authCredential != null" >
+        auth_credential,
+      </if>
+    </trim>
+    <trim prefix="values (" suffix=")" suffixOverrides="," >
+      <if test="id != null" >
+        #{id,jdbcType=BIGINT},
+      </if>
+      <if test="accountId != null" >
+        #{accountId,jdbcType=INTEGER},
+      </if>
+      <if test="authType != null" >
+        #{authType,jdbcType=VARCHAR},
+      </if>
+      <if test="authCredential != null" >
+        #{authCredential,jdbcType=VARCHAR},
+      </if>
+    </trim>
+  </insert>
+  <select id="countByExample" parameterType="meiyin.domain.AuthenticationExample" resultType="java.lang.Integer" >
+    select count(*) from authentication
+    <if test="_parameter != null" >
+      <include refid="Example_Where_Clause" />
+    </if>
+  </select>
+  <update id="updateByExampleSelective" parameterType="map" >
+    update authentication
+    <set >
+      <if test="record.id != null" >
+        id = #{record.id,jdbcType=BIGINT},
+      </if>
+      <if test="record.accountId != null" >
+        account_id = #{record.accountId,jdbcType=INTEGER},
+      </if>
+      <if test="record.authType != null" >
+        auth_type = #{record.authType,jdbcType=VARCHAR},
+      </if>
+      <if test="record.authCredential != null" >
+        auth_credential = #{record.authCredential,jdbcType=VARCHAR},
+      </if>
+    </set>
+    <if test="_parameter != null" >
+      <include refid="Update_By_Example_Where_Clause" />
+    </if>
+  </update>
+  <update id="updateByExample" parameterType="map" >
+    update authentication
+    set id = #{record.id,jdbcType=BIGINT},
+      account_id = #{record.accountId,jdbcType=INTEGER},
+      auth_type = #{record.authType,jdbcType=VARCHAR},
+      auth_credential = #{record.authCredential,jdbcType=VARCHAR}
+    <if test="_parameter != null" >
+      <include refid="Update_By_Example_Where_Clause" />
+    </if>
+  </update>
+  <update id="updateByPrimaryKeySelective" parameterType="meiyin.domain.Authentication" >
+    update authentication
+    <set >
+      <if test="accountId != null" >
+        account_id = #{accountId,jdbcType=INTEGER},
+      </if>
+      <if test="authType != null" >
+        auth_type = #{authType,jdbcType=VARCHAR},
+      </if>
+      <if test="authCredential != null" >
+        auth_credential = #{authCredential,jdbcType=VARCHAR},
+      </if>
+    </set>
+    where id = #{id,jdbcType=BIGINT}
+  </update>
+  <update id="updateByPrimaryKey" parameterType="meiyin.domain.Authentication" >
+    update authentication
+    set account_id = #{accountId,jdbcType=INTEGER},
+      auth_type = #{authType,jdbcType=VARCHAR},
+      auth_credential = #{authCredential,jdbcType=VARCHAR}
+    where id = #{id,jdbcType=BIGINT}
+  </update>
+  
+  
+    <select id="checkAccount" parameterType="String" resultType="hashMap">
+	  
+		SELECT
+		authentication.account_id
+		FROM
+		authentication
+		WHERE
+		authentication.account_id = #{phone_number};
+		
+ </select>
+ 	<insert id="adduser" parameterType="map">
+ 	 insert into authentication (account_id, auth_type)
+   	 values ( #{phone_number},
+   	 		 #{authType}
+     )
+ 	
+ 	</insert>
+</mapper>

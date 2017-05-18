@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="meiyin.mapper.SuiteMapper" >
+  <resultMap id="BaseResultMap" type="meiyin.domain.Suite" >
+    <id column="suite_id" property="suiteId" jdbcType="BIGINT" />
+    <result column="cname" property="cname" jdbcType="VARCHAR" />
+    <result column="ename" property="ename" jdbcType="VARCHAR" />
+    <result column="cover_pic_id" property="coverPicId" jdbcType="BIGINT" />
+    <result column="text_id" property="textId" jdbcType="INTEGER" />
+    <result column="updated_time" property="updatedTime" jdbcType="DATE" />
+  </resultMap>
+  <sql id="Example_Where_Clause" >
+    <where >
+      <foreach collection="oredCriteria" item="criteria" separator="or" >
+        <if test="criteria.valid" >
+          <trim prefix="(" suffix=")" prefixOverrides="and" >
+            <foreach collection="criteria.criteria" item="criterion" >
+              <choose >
+                <when test="criterion.noValue" >
+                  and ${criterion.condition}
+                </when>
+                <when test="criterion.singleValue" >
+                  and ${criterion.condition} #{criterion.value}
+                </when>
+                <when test="criterion.betweenValue" >
+                  and ${criterion.condition} #{criterion.value} and #{criterion.secondValue}
+                </when>
+                <when test="criterion.listValue" >
+                  and ${criterion.condition}
+                  <foreach collection="criterion.value" item="listItem" open="(" close=")" separator="," >
+                    #{listItem}
+                  </foreach>
+                </when>
+              </choose>
+            </foreach>
+          </trim>
+        </if>
+      </foreach>
+    </where>
+  </sql>
+  <sql id="Update_By_Example_Where_Clause" >
+    <where >
+      <foreach collection="example.oredCriteria" item="criteria" separator="or" >
+        <if test="criteria.valid" >
+          <trim prefix="(" suffix=")" prefixOverrides="and" >
+            <foreach collection="criteria.criteria" item="criterion" >
+              <choose >
+                <when test="criterion.noValue" >
+                  and ${criterion.condition}
+                </when>
+                <when test="criterion.singleValue" >
+                  and ${criterion.condition} #{criterion.value}
+                </when>
+                <when test="criterion.betweenValue" >
+                  and ${criterion.condition} #{criterion.value} and #{criterion.secondValue}
+                </when>
+                <when test="criterion.listValue" >
+                  and ${criterion.condition}
+                  <foreach collection="criterion.value" item="listItem" open="(" close=")" separator="," >
+                    #{listItem}
+                  </foreach>
+                </when>
+              </choose>
+            </foreach>
+          </trim>
+        </if>
+      </foreach>
+    </where>
+  </sql>
+  <sql id="Base_Column_List" >
+    suite_id, cname, ename, cover_pic_id, text_id, updated_time
+  </sql>
+  <select id="selectByExample" resultMap="BaseResultMap" parameterType="meiyin.domain.SuiteExample" >
+    select
+    <if test="distinct" >
+      distinct
+    </if>
+    <include refid="Base_Column_List" />
+    from suite
+    <if test="_parameter != null" >
+      <include refid="Example_Where_Clause" />
+    </if>
+    <if test="orderByClause != null" >
+      order by ${orderByClause}
+    </if>
+  </select>
+  <select id="selectByPrimaryKey" resultMap="BaseResultMap" parameterType="java.lang.Long" >
+    select 
+    <include refid="Base_Column_List" />
+    from suite
+    where suite_id = #{suiteId,jdbcType=BIGINT}
+  </select>
+  <delete id="deleteByPrimaryKey" parameterType="java.lang.Long" >
+    delete from suite
+    where suite_id = #{suiteId,jdbcType=BIGINT}
+  </delete>
+  <delete id="deleteByExample" parameterType="meiyin.domain.SuiteExample" >
+    delete from suite
+    <if test="_parameter != null" >
+      <include refid="Example_Where_Clause" />
+    </if>
+  </delete>
+  <insert id="insert" parameterType="meiyin.domain.Suite" >
+    insert into suite (suite_id, cname, ename, 
+      cover_pic_id, text_id, updated_time
+      )
+    values (#{suiteId,jdbcType=BIGINT}, #{cname,jdbcType=VARCHAR}, #{ename,jdbcType=VARCHAR}, 
+      #{coverPicId,jdbcType=BIGINT}, #{textId,jdbcType=INTEGER}, #{updatedTime,jdbcType=DATE}
+      )
+  </insert>
+  <insert id="insertSelective" parameterType="meiyin.domain.Suite" >
+    insert into suite
+    <trim prefix="(" suffix=")" suffixOverrides="," >
+      <if test="suiteId != null" >
+        suite_id,
+      </if>
+      <if test="cname != null" >
+        cname,
+      </if>
+      <if test="ename != null" >
+        ename,
+      </if>
+      <if test="coverPicId != null" >
+        cover_pic_id,
+      </if>
+      <if test="textId != null" >
+        text_id,
+      </if>
+      <if test="updatedTime != null" >
+        updated_time,
+      </if>
+    </trim>
+    <trim prefix="values (" suffix=")" suffixOverrides="," >
+      <if test="suiteId != null" >
+        #{suiteId,jdbcType=BIGINT},
+      </if>
+      <if test="cname != null" >
+        #{cname,jdbcType=VARCHAR},
+      </if>
+      <if test="ename != null" >
+        #{ename,jdbcType=VARCHAR},
+      </if>
+      <if test="coverPicId != null" >
+        #{coverPicId,jdbcType=BIGINT},
+      </if>
+      <if test="textId != null" >
+        #{textId,jdbcType=INTEGER},
+      </if>
+      <if test="updatedTime != null" >
+        #{updatedTime,jdbcType=DATE},
+      </if>
+    </trim>
+  </insert>
+  <select id="countByExample" parameterType="meiyin.domain.SuiteExample" resultType="java.lang.Integer" >
+    select count(*) from suite
+    <if test="_parameter != null" >
+      <include refid="Example_Where_Clause" />
+    </if>
+  </select>
+  <update id="updateByExampleSelective" parameterType="map" >
+    update suite
+    <set >
+      <if test="record.suiteId != null" >
+        suite_id = #{record.suiteId,jdbcType=BIGINT},
+      </if>
+      <if test="record.cname != null" >
+        cname = #{record.cname,jdbcType=VARCHAR},
+      </if>
+      <if test="record.ename != null" >
+        ename = #{record.ename,jdbcType=VARCHAR},
+      </if>
+      <if test="record.coverPicId != null" >
+        cover_pic_id = #{record.coverPicId,jdbcType=BIGINT},
+      </if>
+      <if test="record.textId != null" >
+        text_id = #{record.textId,jdbcType=INTEGER},
+      </if>
+      <if test="record.updatedTime != null" >
+        updated_time = #{record.updatedTime,jdbcType=DATE},
+      </if>
+    </set>
+    <if test="_parameter != null" >
+      <include refid="Update_By_Example_Where_Clause" />
+    </if>
+  </update>
+  <update id="updateByExample" parameterType="map" >
+    update suite
+    set suite_id = #{record.suiteId,jdbcType=BIGINT},
+      cname = #{record.cname,jdbcType=VARCHAR},
+      ename = #{record.ename,jdbcType=VARCHAR},
+      cover_pic_id = #{record.coverPicId,jdbcType=BIGINT},
+      text_id = #{record.textId,jdbcType=INTEGER},
+      updated_time = #{record.updatedTime,jdbcType=DATE}
+    <if test="_parameter != null" >
+      <include refid="Update_By_Example_Where_Clause" />
+    </if>
+  </update>
+  <update id="updateByPrimaryKeySelective" parameterType="meiyin.domain.Suite" >
+    update suite
+    <set >
+      <if test="cname != null" >
+        cname = #{cname,jdbcType=VARCHAR},
+      </if>
+      <if test="ename != null" >
+        ename = #{ename,jdbcType=VARCHAR},
+      </if>
+      <if test="coverPicId != null" >
+        cover_pic_id = #{coverPicId,jdbcType=BIGINT},
+      </if>
+      <if test="textId != null" >
+        text_id = #{textId,jdbcType=INTEGER},
+      </if>
+      <if test="updatedTime != null" >
+        updated_time = #{updatedTime,jdbcType=DATE},
+      </if>
+    </set>
+    where suite_id = #{suiteId,jdbcType=BIGINT}
+  </update>
+  <update id="updateByPrimaryKey" parameterType="meiyin.domain.Suite" >
+    update suite
+    set cname = #{cname,jdbcType=VARCHAR},
+      ename = #{ename,jdbcType=VARCHAR},
+      cover_pic_id = #{coverPicId,jdbcType=BIGINT},
+      text_id = #{textId,jdbcType=INTEGER},
+      updated_time = #{updatedTime,jdbcType=DATE}
+    where suite_id = #{suiteId,jdbcType=BIGINT}
+  </update>
+</mapper>

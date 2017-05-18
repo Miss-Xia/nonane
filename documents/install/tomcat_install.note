@@ -1,0 +1,1 @@
+change JAVA_HOME in tomcat.conf to be the one for jdk1.7.0

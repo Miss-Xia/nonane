@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="meiyin.mapper.ReportMapper" >
+  <resultMap id="BaseResultMap" type="meiyin.domain.Report" >
+    <id column="id" property="id" jdbcType="BIGINT" />
+    <result column="sample_id" property="sampleId" jdbcType="BIGINT" />
+    <result column="account_id" property="accountId" jdbcType="INTEGER" />
+    <result column="consignor_id" property="consignorId" jdbcType="BIGINT" />
+    <result column="producer_id" property="producerId" jdbcType="BIGINT" />
+    <result column="auditor_id" property="auditorId" jdbcType="BIGINT" />
+    <result column="suite_id" property="suiteId" jdbcType="BIGINT" />
+    <result column="update_time" property="updateTime" jdbcType="DATE" />
+    <result column="access_code" property="accessCode" jdbcType="VARCHAR" />
+    <result column="consigned_time" property="consignedTime" jdbcType="DATE" />
+  </resultMap>
+  <sql id="Example_Where_Clause" >
+    <where >
+      <foreach collection="oredCriteria" item="criteria" separator="or" >
+        <if test="criteria.valid" >
+          <trim prefix="(" suffix=")" prefixOverrides="and" >
+            <foreach collection="criteria.criteria" item="criterion" >
+              <choose >
+                <when test="criterion.noValue" >
+                  and ${criterion.condition}
+                </when>
+                <when test="criterion.singleValue" >
+                  and ${criterion.condition} #{criterion.value}
+                </when>
+                <when test="criterion.betweenValue" >
+                  and ${criterion.condition} #{criterion.value} and #{criterion.secondValue}
+                </when>
+                <when test="criterion.listValue" >
+                  and ${criterion.condition}
+                  <foreach collection="criterion.value" item="listItem" open="(" close=")" separator="," >
+                    #{listItem}
+                  </foreach>
+                </when>
+              </choose>
+            </foreach>
+          </trim>
+        </if>
+      </foreach>
+    </where>
+  </sql>
+  <sql id="Update_By_Example_Where_Clause" >
+    <where >
+      <foreach collection="example.oredCriteria" item="criteria" separator="or" >
+        <if test="criteria.valid" >
+          <trim prefix="(" suffix=")" prefixOverrides="and" >
+            <foreach collection="criteria.criteria" item="criterion" >
+              <choose >
+                <when test="criterion.noValue" >
+                  and ${criterion.condition}
+                </when>
+                <when test="criterion.singleValue" >
+                  and ${criterion.condition} #{criterion.value}
+                </when>
+                <when test="criterion.betweenValue" >
+                  and ${criterion.condition} #{criterion.value} and #{criterion.secondValue}
+                </when>
+                <when test="criterion.listValue" >
+                  and ${criterion.condition}
+                  <foreach collection="criterion.value" item="listItem" open="(" close=")" separator="," >
+                    #{listItem}
+                  </foreach>
+                </when>
+              </choose>
+            </foreach>
+          </trim>
+        </if>
+      </foreach>
+    </where>
+  </sql>
+  <sql id="Base_Column_List" >
+    id, sample_id, account_id, consignor_id, producer_id, auditor_id, suite_id, update_time, 
+    access_code, consigned_time
+  </sql>
+  <select id="selectByExample" resultMap="BaseResultMap" parameterType="meiyin.domain.ReportExample" >
+    select
+    <if test="distinct" >
+      distinct
+    </if>
+    <include refid="Base_Column_List" />
+    from report
+    <if test="_parameter != null" >
+      <include refid="Example_Where_Clause" />
+    </if>
+    <if test="orderByClause != null" >
+      order by ${orderByClause}
+    </if>
+  </select>
+  <select id="selectByPrimaryKey" resultMap="BaseResultMap" parameterType="java.lang.Long" >
+    select 
+    <include refid="Base_Column_List" />
+    from report
+    where id = #{id,jdbcType=BIGINT}
+  </select>
+  <delete id="deleteByPrimaryKey" parameterType="java.lang.Long" >
+    delete from report
+    where id = #{id,jdbcType=BIGINT}
+  </delete>
+  <delete id="deleteByExample" parameterType="meiyin.domain.ReportExample" >
+    delete from report
+    <if test="_parameter != null" >
+      <include refid="Example_Where_Clause" />
+    </if>
+  </delete>
+  <insert id="insert" parameterType="meiyin.domain.Report" >
+    insert into report (id, sample_id, account_id, 
+      consignor_id, producer_id, auditor_id, 
+      suite_id, update_time, access_code, 
+      consigned_time)
+    values (#{id,jdbcType=BIGINT}, #{sampleId,jdbcType=BIGINT}, #{accountId,jdbcType=INTEGER}, 
+      #{consignorId,jdbcType=BIGINT}, #{producerId,jdbcType=BIGINT}, #{auditorId,jdbcType=BIGINT}, 
+      #{suiteId,jdbcType=BIGINT}, #{updateTime,jdbcType=DATE}, #{accessCode,jdbcType=VARCHAR}, 
+      #{consignedTime,jdbcType=DATE})
+  </insert>
+  <insert id="insertSelective" parameterType="meiyin.domain.Report" >
+    insert into report
+    <trim prefix="(" suffix=")" suffixOverrides="," >
+      <if test="id != null" >
+        id,
+      </if>
+      <if test="sampleId != null" >
+        sample_id,
+      </if>
+      <if test="accountId != null" >
+        account_id,
+      </if>
+      <if test="consignorId != null" >
+        consignor_id,
+      </if>
+      <if test="producerId != null" >
+        producer_id,
+      </if>
+      <if test="auditorId != null" >
+        auditor_id,
+      </if>
+      <if test="suiteId != null" >
+        suite_id,
+      </if>
+      <if test="updateTime != null" >
+        update_time,
+      </if>
+      <if test="accessCode != null" >
+        access_code,
+      </if>
+      <if test="consignedTime != null" >
+        consigned_time,
+      </if>
+    </trim>
+    <trim prefix="values (" suffix=")" suffixOverrides="," >
+      <if test="id != null" >
+        #{id,jdbcType=BIGINT},
+      </if>
+      <if test="sampleId != null" >
+        #{sampleId,jdbcType=BIGINT},
+      </if>
+      <if test="accountId != null" >
+        #{accountId,jdbcType=INTEGER},
+      </if>
+      <if test="consignorId != null" >
+        #{consignorId,jdbcType=BIGINT},
+      </if>
+      <if test="producerId != null" >
+        #{producerId,jdbcType=BIGINT},
+      </if>
+      <if test="auditorId != null" >
+        #{auditorId,jdbcType=BIGINT},
+      </if>
+      <if test="suiteId != null" >
+        #{suiteId,jdbcType=BIGINT},
+      </if>
+      <if test="updateTime != null" >
+        #{updateTime,jdbcType=DATE},
+      </if>
+      <if test="accessCode != null" >
+        #{accessCode,jdbcType=VARCHAR},
+      </if>
+      <if test="consignedTime != null" >
+        #{consignedTime,jdbcType=DATE},
+      </if>
+    </trim>
+  </insert>
+  <select id="countByExample" parameterType="meiyin.domain.ReportExample" resultType="java.lang.Integer" >
+    select count(*) from report
+    <if test="_parameter != null" >
+      <include refid="Example_Where_Clause" />
+    </if>
+  </select>
+  <update id="updateByExampleSelective" parameterType="map" >
+    update report
+    <set >
+      <if test="record.id != null" >
+        id = #{record.id,jdbcType=BIGINT},
+      </if>
+      <if test="record.sampleId != null" >
+        sample_id = #{record.sampleId,jdbcType=BIGINT},
+      </if>
+      <if test="record.accountId != null" >
+        account_id = #{record.accountId,jdbcType=INTEGER},
+      </if>
+      <if test="record.consignorId != null" >
+        consignor_id = #{record.consignorId,jdbcType=BIGINT},
+      </if>
+      <if test="record.producerId != null" >
+        producer_id = #{record.producerId,jdbcType=BIGINT},
+      </if>
+      <if test="record.auditorId != null" >
+        auditor_id = #{record.auditorId,jdbcType=BIGINT},
+      </if>
+      <if test="record.suiteId != null" >
+        suite_id = #{record.suiteId,jdbcType=BIGINT},
+      </if>
+      <if test="record.updateTime != null" >
+        update_time = #{record.updateTime,jdbcType=DATE},
+      </if>
+      <if test="record.accessCode != null" >
+        access_code = #{record.accessCode,jdbcType=VARCHAR},
+      </if>
+      <if test="record.consignedTime != null" >
+        consigned_time = #{record.consignedTime,jdbcType=DATE},
+      </if>
+    </set>
+    <if test="_parameter != null" >
+      <include refid="Update_By_Example_Where_Clause" />
+    </if>
+  </update>
+  <update id="updateByExample" parameterType="map" >
+    update report
+    set id = #{record.id,jdbcType=BIGINT},
+      sample_id = #{record.sampleId,jdbcType=BIGINT},
+      account_id = #{record.accountId,jdbcType=INTEGER},
+      consignor_id = #{record.consignorId,jdbcType=BIGINT},
+      producer_id = #{record.producerId,jdbcType=BIGINT},
+      auditor_id = #{record.auditorId,jdbcType=BIGINT},
+      suite_id = #{record.suiteId,jdbcType=BIGINT},
+      update_time = #{record.updateTime,jdbcType=DATE},
+      access_code = #{record.accessCode,jdbcType=VARCHAR},
+      consigned_time = #{record.consignedTime,jdbcType=DATE}
+    <if test="_parameter != null" >
+      <include refid="Update_By_Example_Where_Clause" />
+    </if>
+  </update>
+  <update id="updateByPrimaryKeySelective" parameterType="meiyin.domain.Report" >
+    update report
+    <set >
+      <if test="sampleId != null" >
+        sample_id = #{sampleId,jdbcType=BIGINT},
+      </if>
+      <if test="accountId != null" >
+        account_id = #{accountId,jdbcType=INTEGER},
+      </if>
+      <if test="consignorId != null" >
+        consignor_id = #{consignorId,jdbcType=BIGINT},
+      </if>
+      <if test="producerId != null" >
+        producer_id = #{producerId,jdbcType=BIGINT},
+      </if>
+      <if test="auditorId != null" >
+        auditor_id = #{auditorId,jdbcType=BIGINT},
+      </if>
+      <if test="suiteId != null" >
+        suite_id = #{suiteId,jdbcType=BIGINT},
+      </if>
+      <if test="updateTime != null" >
+        update_time = #{updateTime,jdbcType=DATE},
+      </if>
+      <if test="accessCode != null" >
+        access_code = #{accessCode,jdbcType=VARCHAR},
+      </if>
+      <if test="consignedTime != null" >
+        consigned_time = #{consignedTime,jdbcType=DATE},
+      </if>
+    </set>
+    where id = #{id,jdbcType=BIGINT}
+  </update>
+  <update id="updateByPrimaryKey" parameterType="meiyin.domain.Report" >
+    update report
+    set sample_id = #{sampleId,jdbcType=BIGINT},
+      account_id = #{accountId,jdbcType=INTEGER},
+      consignor_id = #{consignorId,jdbcType=BIGINT},
+      producer_id = #{producerId,jdbcType=BIGINT},
+      auditor_id = #{auditorId,jdbcType=BIGINT},
+      suite_id = #{suiteId,jdbcType=BIGINT},
+      update_time = #{updateTime,jdbcType=DATE},
+      access_code = #{accessCode,jdbcType=VARCHAR},
+      consigned_time = #{consignedTime,jdbcType=DATE}
+    where id = #{id,jdbcType=BIGINT}
+  </update>
+  
+  
+  
+  <!-- 自定义方法 -->
+ <!-- 检测报告列表 -->
+  <select id="getExamList" parameterType="integer" resultType="hashMap"  > 
+	SELECT
+		r.id  report_id,
+		u.name  username,
+		c.name  examAddress,
+		DATE_FORMAT(s.sampleing_time,"%Y-%m-%d")  examTime,
+		st.cover_pic_id
+	FROM
+		report  r LEFT JOIN  sample s ON  r.sample_id =  s.id 
+		LEFT JOIN suite st ON r.suite_id =  st.suite_id  
+		LEFT JOIN consignor c ON  r.consignor_id =  c.id 
+		LEFT JOIN `user` u ON s.user_id =  u.id 
+		
+	WHERE	
+		r.account_id=#{accountId};
+   </select>
+   
+   
+	 <!-- 根据报告id得到报告详情和样本信息 -->
+   <select id="getReport" parameterType="Long" resultType="hashMap" >
+	  SELECT
+		report.suite_id,
+		
+		DATE_FORMAT(report.update_time,"%Y-%m-%d") update_time,
+		`user`.NAME AS name,
+		`user`.portrait_id,
+		`user`.gender,
+		
+		DATE_FORMAT(`user`.birdthday,"%Y-%m-%d") birthday,
+		
+		sample.serial,
+		sample_type.`type`,
+		
+		DATE_FORMAT(sample.reception_time,"%Y-%m-%d") reception_time,
+		DATE_FORMAT(sample.sampleing_time,"%Y-%m-%d") sampling_time,
+		suite.cname
+		FROM
+		report LEFT JOIN suite ON suite.suite_id =  report.suite_id
+		LEFT JOIN sample ON report.sample_id =  sample.id
+		LEFT JOIN sample_type ON sample.type_id =  sample_type.id 
+		LEFT JOIN `user` ON sample.user_id =  `user`.id
+		WHERE
+		report.id =  #{reportId}
+	  
+ </select>
+  
+   
+   <select id="getItemList" parameterType="Long" resultType="hashMap" >
+  		SELECT
+			item.`name`,
+			item.pic_id ,
+			item.item_id 
+		FROM
+			suite_item LEFT JOIN item ON
+			suite_item.item_id = item.item_id
+			
+		WHERE
+			suite_item.suite_id = #{suite_id};
+			
+    </select> 
+   
+     
+    <select id="getItemDesc" parameterType="Long" resultType="hashMap" >
+		SELECT
+			item.frequency ,
+			long_text.content 
+			FROM
+			long_text LEFT JOIN item
+			ON item.desc_id =  long_text.text_id
+			WHERE
+			item.item_id = #{item_id};   	
+			
+			    
+    </select>
+    
+    <!-- snp检测结果 -->
+    <select id="getSNP" parameterType="InSNP" resultType="hashMap">
+		SELECT snp.id,
+			snp.frequency,
+			snp.gene_code,
+			snp.gene_point,
+			snp.gene_serial,
+			effect.effect,
+			item_snp.desc_id
+			FROM snp LEFT JOIN report_snp ON report_snp.snp_id=snp.id 
+			LEFT JOIN item_snp ON item_snp.snp_id=snp.id 
+			LEFT JOIN effect ON item_snp.effect_id =  effect.effect_id 
+			WHERE item_id=#{itemId}
+			AND 
+			report_snp.report_id= #{reportId};
+
+	</select>
+	
+    <!-- 结果解读 -->
+    <resultMap type="meiyin.domain.LongText" id="result">
+    	<result column="des" property="content"/>
+    	<collection property="references" ofType="Reference">
+    	<result column="content" property="content"/>
+    	<result column="md5_hash" property="md5Hash"/>
+    </collection>
+    
+    
+    </resultMap>
+    <select id="getResult" parameterType="Integer" resultMap="result">
+
+				
+		SELECT
+		long_text.content des,
+		reference.content,
+		reference.md5_hash
+		FROM
+		long_text
+		 LEFT JOIN text_ref  ON text_ref.text_id =long_text.text_id
+		LEFT JOIN reference ON text_ref.ref_id =  reference.ref_id
+		WHERE
+		long_text.text_id =#{text_id}
+				
+			
+	</select>
+    
+    
+    <!-- 预防建议 -->					
+    
+   
+    <select id="getItemAdvice" parameterType="Long" resultType="hashMap">
+    
+		SELECT
+			precaution.category,
+			long_text.content
+			FROM
+			long_text LEFT JOIN  precaution_advice ON precaution_advice.advice_id =  long_text.text_id 
+			LEFT JOIN precaution ON precaution_advice.category_id =  precaution.id
+			LEFT JOIN item_precaution_advice  ON item_precaution_advice.advice_id =  precaution_advice.id
+			WHERE
+			item_precaution_advice.item_id = #{item_id}
+
+	 </select>
+   
+	 	<select id="getItemName" parameterType="Long" resultType="hashMap">
+			SELECT
+				item.name
+				FROM
+				item
+				WHERE
+				item.item_id =  #{item_id}
+		</select> 
+
+
+
+     <select id="getRoportItem" parameterType="Long" resultType="hashMap">
+	
+		SELECT
+			item.item_id,
+			item.name,
+			item.pic_id
+			FROM
+			item LEFT JOIN suite_item ON suite_item.item_id =  item.item_id
+			LEFT JOIN suite ON suite.suite_id =  suite_item.suite_id
+			LEFT JOIN  report  ON   report.suite_id =  suite.suite_id
+			WHERE report.id = #{reportId}
+			
+	 </select>
+	 
+	 <!--个性化建议  -->
+	<select id="getPA" parameterType="String" resultType="OutAdvice">
+	
+	
+	SELECT
+		custom.custom,
+		long_text.content advice
+		FROM
+		long_text LEFT JOIN custom_advice ON custom_advice.advice_id =  long_text.text_id
+		LEFT JOIN custom ON custom_advice.custom_id =  custom.id
+		LEFT JOIN suite_custom_advice ON custom_advice.id =  suite_custom_advice.advice_id
+		LEFT JOIN item ON suite_custom_advice.item_id=item.item_id
+		WHERE 
+		item.name=#{item}
+	  	
+	
+	 </select>
+	 
+	<select id="getSuitPA" parameterType="Long" resultType="OutAdvice">
+
+		SELECT
+			long_text.content advice,
+			custom.custom 
+			FROM
+			report LEFT JOIN suite ON report.suite_id=suite.suite_id
+			LEFT JOIN suite_ca ON suite.suite_id=suite_ca.suite_id
+			LEFT JOIN custom_advice ON suite_ca.ca_id=custom_advice.id
+			LEFT JOIN long_text ON custom_advice.advice_id=long_text.text_id
+			LEFT JOIN custom ON custom_advice.custom_id=custom.id
+			WHERE report.id= #{reportId}
+			
+			
+	 </select>
+	
+	<select id="getRiskLevel" parameterType="String" resultType="hashMap">
+		SELECT
+			risk_level.level,
+			risk_level.pic_id
+			FROM
+			risk_level
+			WHERE
+			risk_level.level = #{risk}
+
+		</select>
+	<select id="getItemRisk" parameterType="InRisk" resultType="hashMap">
+		SELECT
+			report_meta.meta_value
+			FROM
+			report_meta
+			WHERE
+			report_meta.meta_key = #{meta_key}
+			 AND
+			report_meta.report_id = #{reportId}
+	</select>
+	<select id="getItemRiskDetial" parameterType="Long" resultType="hashMap">
+		SELECT * FROM report_meta 
+			WHERE 
+			report_id=#{reportId} 
+			AND 
+			meta_key LIKE 'risk_level_of_item_named_%' 
+			AND 
+			meta_value IN ('高','较高')
+			
+	</select>
+	<select id="getVoiceid" parameterType="Long" resultType="hashMap">
+		SELECT id FROM voice WHERE item_id=#{id}
+		</select>
+	<select id="getVoice" parameterType="Long" resultType="hashMap">
+		SELECT uri FROM voice WHERE id=#{id}
+		</select>
+
+	
+</mapper>

@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org"
+	xmlns:sec="http://www.thymeleaf.org/thymeleaf-extras-springsecurity4">
+<head>
+	<title>背景知识介绍</title>
+	<meta charset="utf-8"/>
+	<meta name="viewport" content="width=device-width,initial-scale=1.0,user-scalable=yes,minimum-scale=1.0,maximum-scale=1.0"/>
+	<meta name="apple-mobile-web-app-capable" content="yes"/>
+	<meta name="format-detection" content="telephone=no"/>
+	<meta name="apple-mobile-web-app-status-bar-style" content="black"/>
+	<script type="text/javascript" th:src="@{/asset/js/jquery-1.11.3.js}"></script>
+	<script type="text/javascript" th:src="@{/asset/js/bootstrap.js}"></script>
+	<link rel="stylesheet" type="text/css" th:href="@{/asset/css/style01.css}"/>
+	<script type="text/javascript" th:src="@{/asset/js/button01.js}"></script>
+</head>
+
+<body>
+	<div class="container">
+		 <div class="row">
+		 	<div class="col-md-4 col-md-pull-4 col-xs-12 ">
+				<ul class="left">
+					<li><a id="al1" href="#" class="on" onclick="show(1)">什么是基因</a></li>	
+					<li><a id="al3" href="#" onclick="show(3)">什么是SNP</a></li>
+					<li><a id="al5" href="#" onclick="show(5)">癌症风险评估的意义</a></li>	
+				</ul>
+			</div>
+			<div class="col-md-8 col-md-push-8 col-xs-12">
+				<ul class="right">
+					<li><a id="al2" href="#" onclick="show(2)">基因与人类疾病的关系</a></li>
+					<li><a id="al4" href="#" onclick="show(4)">什么是疾病易感性</a></li>
+					<li><a id="al6" href="#" onclick="show(6)">风险高的人群需要做什么</a></li>
+				</ul>
+			</div>
+		</div>
+		<div id="content1" class="content activecontent">
+			<div class="image">
+				<img th:src="@{/asset/img/ha1.png}"/>
+			</div>
+			<p>基因是携带有一定遗传信息的 DNA 序列,它控制着人类生命活动,与人类的生、老、病、死息息相关;它决定了人 类的相貌、肤色、体质、疾病易感性等个体差异,被誉为人类的生命之书。基因通过复制把遗传信息传递给下一代,使后 代出现与亲代相似的性状,它也是决定生命健康的内在因素。
+			</p>
+		</div>
+		<div id="content2" class="content hiddencontent">
+			<div class="image">
+				<img th:src="@{/asset/img/ha2.jpg}"/>
+			</div>
+			<p>现代医学认为,疾病是由先天的基因和后天的外界因素共同作用的结果。正常情况下基因通过编码合成蛋白质参与人的生长发育过程,在某些情况下基因发生了变化,不能发挥其正常功能,导致人体机能紊乱,与外界因素叠加,就会引发疾病。</p>
+		</div>
+		<div id="content3" class="content hiddencontent">
+			<div class="image">
+				<img th:src="@{/asset/img/ha3.jpg}"/>
+			</div>
+			<p>SNP(Single Nucleotide Polymorphism)即单核苷酸多态性,是指基因上发生的单个核苷酸的变异形成的遗传标记, 属于最常见的一种可遗传的变异。它在人类基因组中广泛存在,平均 500 到 1000 个碱基对中就有 1 个 SNP,总数高达 300 万个之多。</p>
+		</div>
+		<div id="content4" class="content hiddencontent">
+			<div class="image">
+				<img th:src="@{/asset/img/ha4.jpg}"/>
+			</div>
+			<p>疾病易感性是指由遗传因素决定的个体患病风险。每个人的遗传背景基本是不相同的,因此每个人的疾病易感性也是基本不相同的。在一定的环境条件下,疾病易感性的高低等于患该疾病几率的高低。</p>
+		</div>
+		<div id="content5" class="content hiddencontent">
+			<div class="image">
+				<img th:src="@{/asset/img/ha5.jpg}"/>
+			</div>
+			<p>癌症风险评估是一种运用分子生物学手段,检测和分析人体是否携带某种癌症易感基因的特定突变,科学预测受检测者是否有患某种癌症的风险,从而为受检者提供相应的健康指导,以便有针对性地开展癌症预防的检测方法。进行癌症易感基因检测,能从生命根本的角度做到早发现、早诊断、早治疗,以提高人类寿命。</p>
+		</div>
+		<div id="content6" class="content hiddencontent">
+			<div class="image">
+				<img th:src="@{/asset/img/ha6.jpg}"/>
+			</div>
+			<p>该检测并非临床诊断,检测出风险高的也不必过于紧张,可以从以下几方面着手,避免疾病的发生: 
+			1)养成良好的生活习惯,例如注意饮食习惯、不吸烟、不喝酒、减少熬夜,避免接触化学物质或其他的污染源等等; 
+			2)进行有针对性的定期体检,以便及早诊断,及时治疗;
+			3)适当搭配一些营养保健食品或药品来保养;
+			4)当出现疾病相关的早期症状时,请及时就医。</p>
+		</div>
+	</div>
+</body>
+</html>
