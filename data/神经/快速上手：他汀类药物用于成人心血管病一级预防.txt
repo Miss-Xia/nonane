@@ -1,0 +1,17 @@
+快速上手：他汀类药物用于成人心血管病一级预防
+心血管疾病是目前世界人民健康的「头号杀手」。即使在目前诊疗手段如此发达的今天，美国成人死亡人数仍有 1/3 是源于心血管疾病，因此心血管疾病的一级预防显得尤为重要。他汀类药物近几年因循证医学证据充足，越来越受到心血管界的重视，在心血管疾病治疗中起到举足轻重的作用。本文总结和摘录美国医学会最新关于他汀类药物用于成人心血管病一级预防的建议，供大家共同学习。
+表 1 他汀类药物用于成人心血管病一级预防的临床建议
+注：LDL-C：low-density lipoprotein cholesterol；HDL-C：high-density lipoprotein cholesterol；*此类人群因 10 年内心血管事件风险＜10%，他汀类药物使用获益小，因此临床医生需与患者讨论心血管事件风险、他汀类药物使用的预期获益和不良反应，如患者更重视他汀类药物潜在预期获益并接受终生服用，则可使用该类药；#见于 2013 年 ACC/AHA 心血管风险评估指南，但该计算方法主要针对白种人和非裔美国人，不适用于亚洲人种，并且该计算器经其他研究发现存在高估风险情况，需联系临床酌情使用，近期我国已发表符合国人的 10 年心血管病风险评估方法（见参考文献 3），但目前尚无便于临床使用的风险评估计算器
+表 2 他汀类药物常用剂量总结
+注：Bid 为每天 2 次
+参考文献
+[1] Bibbins-Domingo K, Grossman DC, Curry SJ, et al. Statin Use for the Primary Prevention of Cardiovascular Disease in Adults: US Preventive Services Task Force Recommendation Statement. JAMA. 2016, 316(19): 1997-2007.
+[2] Goff DC Jr, Lloyd-Jones DM, Bennett G, et al. 2013 ACC/AHA guideline on the assessment of cardiovascular risk: a report of the American College of Cardiology/American Heart Association Task Force on Practice Guidelines. J Am Coll Cardiol. 2014, 63(25 Pt B): 2935-2959.
+[3] XL Yang, JC Chen, JX Li, et al. Risk stratification of atherosclerotic cardiovascular disease in Chinese adults. Chronic Diseases and Translational Medicine. 2016, 2(2): 102–109.
+推荐阅读：
+1.
+重磅发布：中国成人血脂异常防治指南（2016 年修订版）（点此查看）
+2.
+老年患者血脂调整：他汀类药物利弊如何（点此查看）
+3.
+长城会 2016：糖尿病人群中的降脂治疗—他汀类还是贝特类？（点此查看）

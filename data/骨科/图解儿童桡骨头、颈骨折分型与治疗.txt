@@ -1,0 +1,105 @@
+图解儿童桡骨头、颈骨折分型与治疗
+解剖与流行病学
+桡骨近端的骨骺与干骺端在儿童期还没有完全闭合，承受外力能力较弱，相对桡骨头骨折，桡骨颈骨折更好发于儿童。因为有较厚的软骨帽，90% 桡骨近端骨折为颈部和干骺端，很少涉及桡骨头。桡骨头、颈部骨折占肘部骨折的 5% 至 8.5%，通常有伴生骨折，包括鹰嘴、冠突和肱骨内上髁骨折。
+临床表现
+通常的临床表现有疼痛，压痛，肘关节横径肿胀与前臂旋转受限（旋前或旋后）。畸形通常不是一个典型体征，除非合并相关损伤（例如肘关节脱位，尺桡骨骨干骨折）。
+常用分型的历史沿革
+1. Judet 分型（成角、移位）
+1962 年 Judet 和同事根据 X 线片测量桡骨头骨骺或桡骨颈成角移位的严重程度制定 Judet 分型。
+Type I：0 度或水平移位；
+Type II：<30 度，移位< 横径的 1/2；
+Type III：30~60 度，移位> 横径的 1/2；
+Type IV：60~90 度，完全移位。
+2. Salter-Harris 分型（骨骺损伤程度分型）
+1963 年 Salter 和 Harris 根据受伤机制及预后，将骺板损伤分型，该分型对判断骨折严重程度，指导治疗与判断预后经典且实用，下面是两种记忆方法。
+（1）图示记忆法
+（2）字母记忆法
+①SEPARATED（骺板分离） （the bone and the growth plate have come apart）– but it actually looks normal on x-ray（you can only tell on physical exam）。
+②Fracture ABOVE（骺板上骨折） the growth plate。
+③Fracture LOWER （骺板下骨折）（below）the growth plate – fracture extends to the articular surface。
+④Fracture THROUGH （贯通骺板）the growth plate。
+⑤Fracture ERASING（骺板挤压）/compressing/squashing the growth plate。
+3. Chambers 分型（损伤机制分型）
+在 Jeffery 分型的基础上，结合 Salter-Harris 分型并加以综合和补充，确定为 Chambers 分型，进一步阐述了骨折损伤的机制和解剖特点，完善相关的分型。Chambers 分型根据骨折平面所在位置把外翻型骨折分为 3 个亚型：
+A 型：桡骨近端骺板 Salter-HarrisⅠ、Ⅱ型损伤；
+B 型：桡骨近端骺板 Salter-HarrisⅣ型损伤；
+C 型：桡骨近端干骺端骨折。
+骨折合并肘关节脱位：
+D 型：复位时损伤；
+E 型：脱位时损伤 。
+3. O'Brien 分型（成角分型）
+1965 年，O'Brien 根据桡骨头骺向外下倾斜角度大小分为三级：倾斜<30°为轻度移位，30°～60°为中度移位，倾斜>60°为重度移位。目前临床上主要通过桡骨头颈骨折的移位倾斜角度来确定 O'Brien 分型，进而指导临床采用保守复位抑或手术切开复位。
+4. Steele-Graham 分型（成角、移位）
+1992 年，Steele 和 Graham 将骨折的成角和移位相结合，把儿童桡骨颈骨折的严重程度分为四级：1 级成角 0°～30°，移位 ≥ 10%；2 级成角 30°～60°，移位>10% 而 ≤ 50%；3 级成角 61°～90°，移位>50% 而 ≤ 90%；4 级成角>90°，移位>90%。该骨折分型通过移位和成角的程度来判断骨折严重程度，对于判断预后，指导治疗和后期的功能锻炼具有重要作用。
+5. AO 分型（解剖结构分型）
+Judet 分型虽广泛运用，但不可靠，AO 分型对干骺端、骺板损伤进行区分，分为 a 无移位骨折；b 至 50% 移位骨折；c 超过 50% 移位骨折；d 涉及骺板（Salter-Harris I or II 型骨折）或干骺端骨折
+儿童桡骨头、颈部骨折的影像学检查
+在分类损伤之前，正确的影像学检查是避免漏诊、误诊的关键！
+1. X 线片
+虽然桡骨颈有高达 12 度的外翻角，但是桡骨头应该在每个角度均指向肱骨小头，且在桡骨干与肱骨小头的中心连线上。
+2. 造影
+桡骨头骨化中心尚未显示或显示不清的骨折，常常需要利用造影显示。
+经外侧入路进行肘关节造影术的进针点及进针方向，解剖标志 1- 肱骨外侧髁，2- 桡骨头，3- 尺骨鹰嘴
+6 岁患者发生 Monteggia 骨折，肘关节造影术术中前后位透视可见经闭合复位后的桡骨颈骨折（白色箭头）和尺骨鹰嘴骨折
+7 岁患者发生桡骨颈移位性骨折，肘关节造影术术中前后位透视可见关节线，并可帮助骨折获得满意复位（造影相关文字及图片摘引：Nowicki 关节造影术在小儿骨科的应用.林超文译）
+3. CT、MRI
+偶尔我们需要利用 CT 或 MRI。
+发生此类损伤，怎样告诉家长？墨尔本皇家儿童医院的健教指南，是一个很好的简便参考。
+The Royal Children's Hospital Melbourne
+治疗的选择
+早期：临床上喜欢按照 O'Brien 分型，指导临床。
+1. 小于 30 度，无需复位，石膏固定三周。
+小于 30 度成角或者闭合复位后仍残留 30 度以内的成角、3 mm 以内的移位都是可接受的，屈肘 90 度，前臂中立位固定 3 周。
+2. 30~60 度 的中度成角，急诊室试行清醒镇静下闭合复位。
+（1）Esmarch 复位法
+1871 年德国军医总外科医生 Esmarch 发表以他名字命名的绷带
+将 Esmarch 绷带从远向近侧紧紧缠绕。软组织可协助桡骨头复位。
+桡骨颈骨折患儿利用 Esmarch 绷带法闭合复位成功
+（2）常用的 Patterson 技术，理论易懂、技术易掌握。
+（3）Israeli 技术
+被推崇的 Israeli 技术，如获得最大限度的前臂旋转活动度，可衡量骨折复位是否满意，其接受性指标比 X 线片表现更为重要，但这个观点目前缺乏文献的支持。摘自《小儿骨科规避要略》。
+强调推挤桡骨干的哥伦巴斯技术
+哥伦巴斯（Ohio）技术。Neher 和 Torch 描述了此闭合复位方法，需2人将桡骨头复位回桡骨干。复位时维持内翻应力，将桡骨干推向外侧，将桡骨头复位回桡骨干
+上述方法，单一使用，也可以联合运用（在闭合撬拨复位时仍然可以联合运用）。
+3. 大于 60 度，手术室内复位，闭合仍不成功，尽可能经皮闭合复位，做好必要时性切开复位准备。
+（1）Wallace 法
+与哥伦巴斯技术都强调将桡骨干推向外侧。
+（2）克氏针撬拨技术
+摘自:《小儿骨折外伤 日本骨科新标准图谱》
+顺行固定：
+逆行固定：
+虽然不推荐贯通肱骨小头与桡骨头，有时候可能比较容易获得稳定。
+（下图摘自湖南省儿童医院伍江雁医生课件图片）
+如果可能，只需要固定几周的克氏针放在非关节面的安全区域更好，Caputo 和他的同事推荐用桡骨茎突与 Lister 结节对应的这个近端范围为内植入物的安全区域（图示中虚线为 Smith 安全区，实线为 Caputo 安全区）。
+除了上述安全区的注意外，另外更应警惕损伤神经   图片摘自《小儿骨科规避要略》
+（3）Metaizeau 技术
+可以单独使用，也可结合经皮撬拨技术与闭合复位的方法联合运用
+详细图解如下：
+ESIN 复位骨折而且稳定骨折
+有时候需要接受切开复位
+摘自：《小儿骨折外伤 日本骨科新标准图谱》
+下面这是一个比较极端的例子，120 天的陈旧儿童桡骨颈骨折切开复位，同样获得满意的结果。
+2 年后的 X 线片
+2 年后 MRI 未发现桡骨头坏死
+Timothy 等 1998 年提出儿童桡骨颈路线图更具实用性！
+路线图
+分享笔者科室近期的一例典型病例
+8 岁女孩桡骨颈骨折。
+接近 90 度（>30 度）成角的桡骨颈骨折，仍首先尝试 Patterson 与 Israeli 法等闭合复位方法.
+难推动倒斜下的桡骨颈，闭合复位失败，2.0 克氏针扁头经皮撬拨骨折断端，克氏针钝头复位骨折。
+取出复克氏针，已经比较稳定，正位片示桡骨近端对位对线良好，但侧位片看见桡骨近端仍有轻微向后、外移位趋势，存在潜在不稳定。
+1.5 克氏针固定阻挡移位，避免向后外移位趋势（术后正、侧位 X 线片及置针的肘部外观）。
+很显然我们按红箭头走了 Timothy 的路线图。
+作者：广西中医药大学第三附属医院柳州市中医院   王小芃   周建飞
+参考的部分相关书目：
+参考文献：
+1. Rockwood CA, Wilkins KE, King RE. Fractures in children. Philadelphia: Lippincott; 1991:728–51.
+2. Tachdjian MO. Pediatric orthopedics. Philadelphia: WB Saunders; 1972.
+3. Rang M. Children’s fractures. Philadelphia: JB Lippincott; 1974.
+4. D’souza S, Vaishya R, Klenerman L. Management of radial neck fractures in children: a retrospective analysis of one hundred patients. J Pediatr Orthop 1993;13:232–8.
+5. Jeffery CC. Fractures of the head of the radius in children. J Bone Joint Surg Br 1950;32:314–24.
+6. 谢志勇, 谭为, 李旭. 儿童桡骨颈骨折的治疗策略及研究进展 [J]. 中国矫形外科杂志, 2015, 23(10):912-916.
+7. Waters PM, Stewart SL. Radial neck fracture nonunion in children. J Pediatr Orthop 2001;21:570–6.
+8. Metaizeau JP, Lascombes P, Lemelle JL, Finlayson D, Prevot J. Reduction and fixation of displaced radial neck fractures by closed intramedullary pinning. J Pediatr Orthop 1993;13:355–60.
+9.Radial neck fractures in children Bryan Hsi Ming Tan,1 Arjandas Mahadev2 Journal of Orthopaedic Surgery 2011;19(2):209-12
+10.Radial head and neck fractures in children L. Fuentes-Salgueroa, F.J. Downey-Carmonab, Á. Tatay-Díazb, R. Moreno-Domínguezb,D.M. Farrington-Ruedab, M.E. Macías-Morenob, J.J. Quintana-del Olmob Rev Esp Cir Ortop Traumatol. 2012;56(4):300---305

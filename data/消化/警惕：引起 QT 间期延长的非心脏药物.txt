@@ -1,0 +1,49 @@
+警惕：引起 QT 间期延长的非心脏药物
+非心律失常药物导致心脏猝死的问题涉及到多种临床常用药物及多个相关科室，如消化、儿科、肿瘤、精神甚至皮肤等。这些药物产生如此严重不良反应的机制如何？怎样才能预防？如果出现这种情况，怎样处理？
+心脏药物的致心律失常性
+心脏猝死事件绝大多数与室性心律失常有关，目前临床常用的 4 类抗心律失常药物（Vaughan Williams 分类法）主要是阻断三种离子通道（钠、钾及钙）延长动作电位时程及不应期（QT 间期）起到减少或终止心律失常的作用，不应期形成的过程如图 1 所示。
+图 1. 当刺激达阈电位时，钠通道激活迅速内流，膜电位上升达 0 mV 以上钠通道关闭/失活，钠通道于复极膜电位下降至 -60～80 mV 复活形成不应期，-90 mV 进入静息关闭/备用状态形成兴奋期
+与室性心律失常相关的药物的主要有Ⅰ类和 Ⅲ 类 , 但是，自抗心律失常药物开始临床应用起近数十年来，始终缺乏足够的安全性，即同时存在致心律失常作用：
+（1）延长动作电位时程间接延长有效不应期：主要以 Ⅲ 类为主，国内主要以索他洛尔、伊布利特为代表，为特异性钾通道（IKr 通道，hERG ，human ether-a-go-go related gene）阻断剂，延长动作电位时程和有效不应期。
+但因其延长 QT/QTc 导致尖端扭转性室性心动过速（TdP），尤其是在心动过缓或者长间歇时更容易发生，TdP 往往因心率很快 QT 间期缩短而自行终止，患者经常以反复晕厥就诊，一部分患者可演变成心室纤颤甚至猝死，临床应用时需严密 QT/QTc 监测，发作时心电图及细胞电生理机制如图 2 所示[1,2]，此类最为常见。
+图 2 尖端扭转型室性心动过速（TDP）发生机制：A 患者服用索他洛尔引起 QT 间期延长导致 R-on-T 室性期前收缩及 TDP 发作。B：冠状动脉灌注兔左心室跨膜动作电位：同时记录从心外膜（Epi）、心内膜（Endo）及跨壁心电图（ECG），索他洛尔显著延长心内膜 QT/QTc 间期并诱导 2 期早期后除极（EAD）产生 R-on-T 室性期前收缩引发 TDP
+（2）直接抑制动作电位 0 相内向除极离子流药物： 主要是Ⅰc 类，如氟卡尼、普罗帕酮等，由于其强大的快钠通道阻断作用，可使传导延缓、QRS 波增宽进而促使折返性心律失常如室性心动过速的产生导致患者猝死发生[3]，此类不多见。
+非心脏药物致心律失常性
+在欧美国家，QT/QTc 延长导致潜在致命性心律失常风险增加已成为几乎所有治疗领域药物退出市场的最主要原因之一，目前心脏安全性是各类新药上市前必须评价的重要指标。
+如果非心脏药物同时对心脏离子通道尤其是 IKr 通道产生作用，就可能引发恶性心律失常，如喹诺酮类及大环内脂类抗生素可以抑制心室肌细胞钾通道，延长 QT/QTc 触发早后除极及 TdP 发生，而三环类抗抑郁药阻断钠离子通道延长 QRS 间期使得心电图呈典型 Brugada 综合征，这些主要与易感患者相关。目前发现主要常见引起 TdP 的药物有以下几类 [4，5]：
+（1）抗菌药：红霉素、克拉霉素、莫西沙星、氟康唑、酮康唑等；
+（2）抗精神病药：氯丙嗪、奋乃静、氟哌啶醇、奥氮平等；
+（3）抗抑郁药：阿米替林、西酞普兰、氟西汀、丙咪嗪、洛夫帕明；
+（4）胃肠动力药：如西沙比利；
+（5）止吐剂：多潘立酮、格拉司琼、昂丹司琼；
+（6）抗疟药：奎宁、氯喹；
+（7）抗组织胺药：阿司咪唑、特非那定；
+（8）
+抗肿瘤药物致心律失常性
+2016 年 8 月 28 日，首个全面的《癌症治疗与心血管毒性的实用指南》在 2016 ESC 大会临床指南专场正式发布[6]。16%～36% 接受抗肿瘤治疗的患者可发生心律失常，肿瘤相关性心律失常包括室上性（最常见的是房颤）、室性、房室传导阻滞等，其中，抗肿瘤治疗可导致 QT 间期延长诱发的 Tdp 因其高恶性度尤其得到大家的关注，此次指南「聚焦 QT 间期」：
+a. 三氧化二砷：平均 QT 间期延长 35.4ms，QTc 延长>60ms 发生率 35%，QTc>500ms 发生率 25%～60%，Tdp 发生率高达 2.5%；
+b. 蒽环类药物阿霉素：平均延长 QT 间期 14ms，QTc 延长>60ms 发生率 11%～14%，其他详见：http://eurheartj.oxfordjournals.org/content/early/2016/08/24/eurheartj.ehw211.long。
+（9）其他：美沙酮、抗逆转录病毒药物（如：膦甲酸）、甘草制剂、蛋白激酶抑制剂（索拉非尼，舒尼替尼）等。
+临床处理策略
+非心脏药物致 QT 间期延长及 TdP 发生率低，但如果发生均是恶性事件，QTc 每增加 10ms，进展为 TdP 风险增加 5%～7%，当>500ms 时，TdP 增加显著，需要考虑必要的干预措施[5]  。因此，规避相关风险首先应当熟知这些药物，其次控制引起 QT/QTc 延长的危险因素：
+（1）可变因素：电解质紊乱、甲状腺功能减退及应用导致 QT 间期延长药物如Ⅰa 和Ⅲ类抗心律失常药物；
+（2）不可变因素：心源性猝死家族史（先天性长 QT 综合征）、晕厥史、基线 QT 延长、女性、老年人、心脏疾病、肾功能不全、肝功能损伤等。
+临床用药时特别注意：
+（1）充分认识及评估患者基础疾病状况，明确是否为 QT/QTc 延长、严重心动过缓或失代偿期心力衰竭患者；
+（2）及时发现并纠正触发因素如低钾和/或低镁血症、心肌缺血、饥饿和急性酒精中毒/戒断等应激状态；
+（3）慎重将红霉素、克拉霉素、莫西沙星等与复方甘草合用，如联合应用注意 ECG 和 QT/QTc 变化，适量补充钾剂；当三环类抗抑郁药与可延长 QT/QTc 的其他药物如抗组胺药物、抗精神病药物及胃肠动力药物合用时尤其需要注意。
+对于肿瘤患者重点强调随访与预防并重原则[6]：
+a. 对所有患者，启动抗肿瘤治疗前均需采集 12 导联心电图，测量其 QT/QTc；
+b. 对 QT 间期延长、已知心脏疾病、合用可致 QT 间期延长药物、心动过缓、甲状腺功能异常及电解质紊乱患者，抗肿瘤治疗期间需密切随访 12 导联心电图；
+c. 对治疗期间 QTc>500ms、QTc 延长超过 60ms 或新发心律失常患者，应考虑中止或调整抗肿瘤治疗方案；
+d. 对药物致 QT/QTc 延长患者，需避免低钾血症、显著心动过缓；
+e. 使用潜在 QT/QTc 延长作用的化疗药物时，其它致 QT 间期延长药物应予最小剂量。
+如果发生尖端扭转性室性心动过速，可由心内科医生进行治疗：（1）停止药物：QT/QT>500ms 严密观察或减量，QT/QTc>550ms 停止用药；（2）静脉注射镁剂无论是否合并低镁血症；（3）纠正低钾血症至 4.5～5.5 mmol/L 水平； (4) 临时起搏或异丙肾上腺素提高心室率缩 QT 间期是最有效措施； (5) 对于难治性 Tdp，可尝试给予晚钠电流阻断剂美西律，有时可以收到难以预料的良好效果。
+更多精彩内容，请打开手机微信，搜索并关注「心血管时间」，每天 5 分钟，修炼心血管医学达人。
+参考文献：
+[1]  H. R. Lu, G. X. Yan, and D. J. Gallacher. A new biomarker--index of cardiac electrophysiological balance (iCEB)--plays an important role in drug-induced cardiac arrhythmias: beyond QT-prolongation and Torsades de Pointes (TdPs). J.Pharmacol.Toxicol.Methods 68 (2):250-259, 2013.
+[2] Y. G. Yap and A. J. Camm, 「Drug induced QT prolongation and torsades de pointes,」 Heart, vol. 89, no. 11, pp. 1363–1372.
+[3] T. Liu, M. Traebert, H. Ju, W. Suter, D. Guo, P. Hoffmann, P. R. Kowey, and G. X. Yan. Differentiating electrophysiological effects and cardiac safety of drugs based on the electrocardiogram: a blinded validation. Heart Rhythm. 9 (10):1706-1715, 2012.
+[4] E14 Clinical Evaluation of QT/QTc Interval Prolongation and Proarrhythmic Potential for Non-Antiarrhythmic Drugs. Current Step 4 version dated 12 May 2005.
+[5] Barbara. J. Drew, M. J. Ackerman, M. Funk, W. B. Gibler, P. Kligfield, V. Menon, G. J. Philippides, D. M. Roden, and W. Zareba. Prevention of torsade de pointes in hospital settings: a scientific statement from the American Heart Association and the American College of Cardiology Foundation. Circulation 121 (8):1047-1060, 2010.
+[6] J. L. Zamorano, P. Lancellotti, Munoz D. Rodriguez,et al.2016 ESC Position Paper on cancer treatments and cardiovascular toxicity developed under the auspices of the ESC Committee for Practice Guidelines: The Task Force for cancer treatments and cardiovascular toxicity of the European Society of Cardiology (ESC). Eur.J.Heart Fail., 2016.

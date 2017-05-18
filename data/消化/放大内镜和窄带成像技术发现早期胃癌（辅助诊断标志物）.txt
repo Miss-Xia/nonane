@@ -1,0 +1,28 @@
+放大内镜和窄带成像技术发现早期胃癌（辅助诊断标志物）
+VS 系统为 ME+NBI 诊断的理论基础，除此之外，我们还可在镜下观察到常见或少见的辅助诊断标志物，掌握「它们」有助于临床作出正确的判断。
+白色不透光物质（WOS）
+WOS（White opaque substance）为表浅隆起病变的黏膜表面存在白色不透光物质，可影响对微血管结构的评估，其本质为微小脂滴的沉积。WOS 在腺瘤和分化型早癌中均可发现，腺瘤中为规则 WOS（粗大、高密度、规则、对称的网格状、迷宫状或斑点状）（图 1），而分化型早癌为不规则 WOS（纤细、低密度、不规则网格状、迷宫状或斑点状）（图 2），未分化早癌不可见（图 3）。
+图 1 腺瘤 WOS。A 白光镜下所见白色调 0-IIa 型病变；B ME+NBI：密布分布的规则、对称网状 WOS 覆盖黏膜表面，MV 表型因此不可见
+图 2 分化型管状腺癌不规则 WOS。A 白光镜下可见红色 0-IIa 病变；B ME+NBI：可见不规则 WOS
+图 3 未分化早癌 WOS（-）。A 白光镜下可见胃体下有一白色 0-IIc 病变；B 癌灶上 WOS（-）。病理证实为黏膜内印戒细胞癌
+白色球状物（WGA）
+WGA（White globe appearance）为最近 2 年新发现的辅助诊断标志物。WGA 为 ME+NBI 检查时上皮下的一类小的白色球形状病变，中间亮周围稍暗，凸显球形结构，并可见其覆上皮之微血管。WGA 为少见标记物，更多见于癌灶。文献报道 20% 癌性病变可见，而在非癌病变中比例为 0%～2.5%。
+WGA 好发于癌灶边缘区域，与白色球状物联系比较紧密的一种病理表现，称之为管腔坏死碎屑（IND， intraglandular Necrotic Debris），为扩张腺体内的含坏死上皮碎屑的嗜酸物质，特征为胞浆空泡化和黑色胞核（图 4）。
+图 4 WGA 的镜下表现，如黄色箭头所示，白色箭头为 DL。B.HE 可见癌灶上皮下的蚕豆形 IND，对应内镜下所见 WGA；C 为 B 的放大观察
+上皮环内血管（VEC）
+乳头状腺癌为胃内腺癌的一种亚型，尽管为分化型癌，但恶性程度比常见管状腺癌高，预后也差。临床上，依靠常规胃镜辨识乳头状癌较为困难。ME 下可观察此类癌的独特 MV 表型即 VEC（vessels within epithelial circle），为环形 MCE 包绕形成的环形 IP 上皮范围内血管。而癌灶的 MS 表型中可见 MCE 排列有序，呈圆形或椭圆形，构成 IP 较背景黏膜大，为规则 MS（图 5）。
+为方便读者鉴别与理解，图 6 展示了 VEC（-）早癌镜下表现，图 7 则说明了镜下表现与病理表现的对应关系。近年来，有关 VEC（-）的研究结果表明：22.9% VEC（+）乳头状腺癌伴未分化成分，25.7%VEC（+）乳头状早期胃腺癌有黏膜下层浸润（图 8），因此，实施内镜下切除前要仔细判定范围与浸润深度。
+图 5A 白光镜下见疑似早癌病变（0-IIa）。B ME+NBI 示：DL（+），MCE 构成环形中间区域（IP）内可见 VEC；C MCE 形态被勾勒出，可以看出 VEC 位于 IP 内，VEC（+）
+图 6A 白光镜下见疑似早癌病变（0-IIa）；B ME+NBI 示：DL（+），IMVP（+），IMSP（+），VEC（-）；C MCE 形态勾勒出，为杂乱卷曲型 IP，未见环形 IP
+图 7 ME+NBI 下观察到 VEC 结构与病理乳头状结构对应模式图。内镜下所见 MCE 包绕形成的环形 IP 为病理所见乳头样结构，而上皮下增生毛细血管则为镜下所见 VEC
+图 8 A 白光镜下所见 0-IIa 型疑似早癌；B ME+NBI 示：DL（+），VEC（+）；C HE 切片低倍观察（×20），乳头结构表面为癌成分，黏膜下层深层可见分化程度降低，且见大量黏液成分。D HE 切片高倍观察（×20），黏膜层深层可见印戒成分
+上皮微小侵犯（IEMI）
+IEMI（intraepithelial microinvasion）癌（IMVP）破坏性侵犯非癌上皮表层位置（表浅侵犯），一般位于癌的边缘区域。组织学上反应上皮下肿瘤挤压上皮，导致黏膜伸展、变薄（图 9）。
+图 9 A 胃体上后壁，见一 0-IIc 病变，边界不规则；B-C 对 A 中 1 的区域行放大内镜观察，有 IEMI 存在；D 为 IEMI 的相应组织学表现
+本文作者：济南军区总医院消化科 吴文明 刘晓峰 孙自勤
+参考文献
+[1].Ueo T， Yonemasu H， Yao K， et al. Histologic differentiation and mucin phenotype in white opaque substance-positive gastric neoplasias[J]. Endosc Int Open， 2015， 3（6）: E597-604.10.1055/s-0034-1393177.（PMID:26716119）
+[2].Yoshida N， Doyama H， Nakanishi H， et al. White globe appearance is a novel specific endoscopic marker for gastric cancer: A prospective study[J]. Dig Endosc， 2016， 28（1）: 59-66.10.1111/den.12519.（PMID:26227666）
+[3].Doyama H， Yoshida N， Tsuyama S， et al. The "white globe appearance"（WGA）: a novel marker for a correct diagnosis of early gastric cancer by magnifying endoscopy with narrow-band imaging（M-NBI）[J]. Endosc Int Open， 2015， 3（2）: E120-124.10.1055/s-0034-1391026.（PMID:26135651）
+[4].Kanemitsu T， Yao K， Nagahama T， et al. The vessels within epithelial circle（VEC）pattern as visualized by magnifying endoscopy with narrow-band imaging（ME-NBI）is a useful marker for the diagnosis of papillary adenocarcinoma: a case-controlled study[J]. Gastric Cancer， 2014， 17（3）: 469-477.10.1007/s10120-013-0295-1.（PMID:24037102）
+[5].Yao K. Zoom  Gastroscopy Magnifying Endoscopy in the Stomach Springer， 2009.

@@ -1,0 +1,110 @@
+淀粉酶和脂肪酶：缘自何方？尘归何处？
+急性胰腺炎是一种常见且较为严重的急腹症，其发病迅猛，病死率高。急性期胰腺炎和其他急腹症较难鉴别，且重型胰腺炎发病率逐渐增多，因而急性胰腺炎的及时准确诊断尤为重要 [1]。急性胰腺炎临床症状多有典型的腹痛、恶心、血清淀粉酶和脂肪酶水平升高 [2]。
+每一天都有很多的淀粉酶和脂肪酶测定用于评估腹痛患者，甚至是常规生化检查的一部分。血清淀粉酶是临床应用最广泛的急性胰腺炎酶学诊断指标之一，优点是技术简单，容易获得，灵敏度高。
+脂肪酶存在于胰腺腺泡内，当患者发生胰腺炎时，腺泡出现损伤并致使脂肪酶进入血液循环从而导致血清中脂肪酶含量升高 [3]。脂肪酶作为胰腺组织分泌的消化酶，在胰腺疾病的特异性较淀粉酶高，可作为胰腺疾病的主要辅助诊断指标 [4-5]。
+然而在平常实际工作中，我们经常会遇到急性胰腺炎患者，有的血清淀粉酶升高而脂肪酶活性不升高；有的脂肪酶活性升高而血清淀粉酶不升高；有的淀粉酶和/或脂肪酶升高却不被诊断为急性胰腺炎……所有这些叫检验人员和临床医师无所适从，因为解释这些测试结果可能非常困难。
+血清淀粉酶和/或脂肪酶正常，能诊断急性胰腺炎吗？
+胰腺急性炎症和自身消化导致淀粉酶和脂肪酶的释放，血液中的水平升高。出于这个原因，在急性腹痛患者血清淀粉酶和脂肪水平正常通常会排除急性胰腺炎的诊断，诊断急性胰腺炎脂肪酶阴性预测值非常高（≥ 95%）[6]。然而，由于多种原因，胰腺炎的诊断却可能极具挑战性。急性胰腺炎时，患者可表现为正常的血清淀粉酶和脂肪酶 [7-8]，实在是令人大跌眼镜。
+根据一些学者研究发现 [9-10]，19%-32% 的急性胰腺炎患者有正常的血清淀粉酶。因此，单纯检测血清淀粉酶诊断急性胰腺炎的敏感度和特异性还是有一定的局限性。有报道指出 [11]，伴高甘油三酯急性胰腺炎患者的血尿淀粉酶水平不升高，其原因是不确定的 [12]，最有可能是某些血清因素抑制了酶的活性 [13]。
+急性酒精性胰腺炎也常常有正常的血清淀粉酶水平，单纯依靠高淀粉酶血症，对于急性酒精性胰腺炎的诊断是不合理的，应该放弃 [9]。在急性胰腺炎时正常血清淀粉酶可以见到，但正常血清脂肪酶是极其罕见的 [14-15]。Shafqet 等 [16] 报告了首例氢氯噻嗪引起的急性胰腺炎患者正常脂肪酶。
+Shah 等 [14] 认为，临床上对于急性胰腺炎的诊断，正常血清淀粉酶和脂肪酶应该被予以接受。急性胰腺炎时表现为正常的血清淀粉酶和脂肪酶可出现在高甘油三酯血症、大量胰腺坏死、胆石胰腺炎、酒精性胰腺炎及急性胰腺炎恢复期患者等疾病中 [17]。
+重症胰腺炎时由于胰腺组织大量坏死，胰腺腺泡严重破坏，淀粉酶生成很少，脂肪酶不能再分泌，导致血淀粉酶/脂肪酶反而可能不高。正如肝衰竭时转氨酶进行性下降一样。一个正常血清淀粉酶和/或脂肪酶水平并不能排除急性胰腺炎的诊断 [18]。
+面对腹痛和正常血清淀粉酶和/或脂肪酶水平的患者，少数临床医生特别是在无法施用造影剂与成像（如急性肾损伤）相对禁忌的情况下，患者可被误诊，导致灾难性的后果。Arvind K Mathur 等 [19] 指出：血清淀粉酶和脂肪酶虽然是一个重要的诊断工具，不应被用作诊断或排除急性胰腺炎的唯一因素。
+总而言之，急性胰腺炎患者血清淀粉酶和/或脂肪酶测定结果可以表现为假正常。Coffey 等人 [20] 研究了 125 例急性胰腺炎确定该诊断率，血清脂肪酶为 93%、CT  为 67%、血清淀粉酶为 54%、超声为 27%。
+我们应该认识到，急性胰腺炎患者出现正常血清淀粉酶和/或脂肪是可以发生的现象。如果患者没有禁忌症的话，这时应该对患者静脉注射造影进行腹部 CT 扫描，以免造成胰腺炎漏诊。急性胰腺炎的诊断是在生化检查和影像学检查结合基础之上的。
+血清淀粉酶和/或脂肪酶升高，能诊断胰腺炎吗？
+血清淀粉酶和脂肪酶水平受多种因素的影响。在肾功能正常者，12.2% 的脂肪酶和 7.7% 淀粉酶水平升高。2 型糖尿病患者中，近 25% 有脂肪酶和/或淀粉酶水平升高而无急性胰腺炎的症状。临床医生在 2 型糖尿病患者评估腹部症状时，必须把这些数据考虑进去 [21]。
+Gullo's 综合征患者淀粉酶和/或脂肪酶慢性升高 [22]。IBD 患者（克罗恩病和溃疡性结肠炎）血清脂肪酶和淀粉酶升高，通常没有胰腺炎的临床症状 [23]。相关研究表明 [22] 胰腺炎时脂肪酶活性升高多与淀粉酶并行，但不同的是，由于脂肪酶的半衰期较淀粉酶长，从而导致脂肪酶的升高持续时间更长，升高的程度更大。那么，血清淀粉酶和/或脂肪酶升高，能诊断胰腺炎吗？
+美国梅奥诊所内科的 Quinn  等 [24] 报道了一例以上腹痛伴血清淀粉酶和血清脂肪酶升高为主要临床症状的病例，究其原因，竟不是急性胰腺炎，而是侵袭性纤维瘤病（硬纤维瘤）。除急性胰腺炎外其他急腹症，淀粉酶和脂肪酶也可升高，一般升高在２倍正常值上限以内 [25]。对急性胰腺炎来说，血清淀粉酶和脂肪酶的测试非常普遍。然而这些测试的解释可能是很困难的，因为非胰腺条件下血清淀粉酶和脂肪酶也可以升高 [26]。
+目前对于非胰腺疾病如巨淀粉酶血症、腮腺炎和某些肿瘤所导致的胰酶水平升高也没有明确的推荐意见。由于血清淀粉酶和脂肪酶对急性胰腺炎诊断特异性不高，有关研究显示，以３倍正常值上限作为诊断急性胰腺炎的 cut off 值，可提高淀粉酶和脂肪酶的特异性 [27-28]。血清淀粉酶及脂肪酶测定用于诊断急性胰腺炎时，临界值的选择多以超过参考值上限的 3 倍以上为诊断标准 [29]。
+急性胰腺炎亚特兰大分级在 2012 年修订后的标准进行了修订，规定急性胰腺炎的诊断需要：腹痛、持续急性发作、严重上腹疼痛常放射到背部、血清脂肪酶或淀粉酶的活性比正常值上限大至少三倍、或 CT，MRI 胰腺炎症或水肿或腹超声迹象 [28]。这些目前的指南确认阳性成像、腹痛足以进行急性胰腺炎的诊断，甚至在没有淀粉酶和脂肪酶升高的情况下。Yadav 等人 [30] 得出的结论是：并不能仅仅根据淀粉酶或者脂肪酶的升高诊断急性胰腺炎，即使上述胰酶水平大于正常值上限 3 倍也不行。
+总而言之，血清淀粉酶和/或脂肪酶升高，是不能能诊断胰腺炎的，必须要结合腹部影像学检查来诊断。如果临床症状及腹部影像学检查均符合急性胰腺炎的诊断标准，那么不一定要进行血清淀粉酶和/或脂肪酶检查。
+淀粉酶正常，脂肪酶升高，能诊断胰腺炎吗？
+在人体内，血清脂肪酶主要来源于胰腺的分泌。其他器官，包括食管、胃、十二指肠、空回肠、结肠、心脏、肝脏和舌等也可以分泌脂肪酶 [31]。因此当上述部位出现相应病变时将亦有可能引起血清脂肪酶增加。单独的脂肪酶升高是由于以下原因所导致的：肾功能不全、恶性肿瘤导致的非胰源性脂肪水解酶、急性胆囊炎、食道炎、血液送达延迟、脂血、无腹痛的亚临床胰腺炎 [32-35]。脂肪酶虽然曾经一度被认为比血清淀粉酶的更可靠的测试，是诊断急性胰腺炎特异的指标 [36-37]，然而其非特异性升高几乎与淀粉酶同样多。
+我们在实际工作中时常遇到脂肪酶升高但是不伴有淀粉酶升高的情况。急性胰腺炎非胰腺因素导致的腹痛病例中淀粉酶正常者并不少见。1987 年，Stein 等 [38] 报告了一例非何杰金淋巴瘤病人脂肪酶显著升高而淀粉酶正常的病人，作者证明了血清脂肪酶活性增加的原因是高亲和力的免疫球蛋白 G 存在。Muñoz-Perez et 等 [39] 报告了一例胰腺癌并有广泛腹部转移的病人脂肪酶持续升高，提出了脂肪酶升高而淀粉酶正常可能是恶性肿瘤的一种早期生化表现。
+Donnelly 等 [40] 报告了一种与胰腺炎高淀粉酶血症或临床表现无关的脂肪酶活性持续升高可能肿瘤原因所致，肿瘤本身直接生成脂肪酶。Okumura 等 [41] 报道了一例巨脂肪酶引起的淀粉酶正常而脂肪酶升高的病例。美国纽约医学院 Manjuck 等 [42] 进行的前瞻性研究表明，40% 的 ICU 患者在被收入 ICU 时血清脂肪酶水平升高。据报道，仅伴有脂肪酶升高的胰腺炎患者占急性胰腺炎患者的 32%[43]，作者同时指出如果淀粉酶正常，脂肪酶升高不能作为胰腺炎的诊断依据。在慢性胰腺炎或胰腺癌患者中脂肪酶测试不是非常有用的诊断工具 [44]。脂肪酶也被用来诊断腹膜炎、肠梗塞和胰腺囊肿 [45]。
+总而言之，多种因素可引起淀粉酶正常而脂肪酶升高，并不能说患者有急性胰腺炎。因此，单独的脂肪酶升高可以解释为非胰源性脂肪水解酶类被释放进入血液循环。由于非胰源性水解脂肪酶的干扰，亚临床胰腺炎等都会导致腹痛或不伴腹痛的病人淀粉酶正常而脂肪酶升高。
+另一种原因也可能是由于淀粉酶较脂肪酶半衰期短，出现腹痛症状后实验室评估延迟导致淀粉酶正常而脂肪酶升高。了解以上这些知识将有助于检验医师对检查结果恰当的解释并有助于临床医生在患者脂肪酶显著升高时进行决策和治疗。当患者淀粉酶正常而脂肪酶升高时，如要确诊急性胰腺炎，需对患者进行血清同工酶、螺旋式 CT 扫描、ERCP、经皮超声检查、超声内镜、胰腺外分泌功能和胰腺组织学检查的详细测试。
+淀粉酶升高，脂肪酶正常，能诊断胰腺炎吗？
+临床上测定淀粉酶主要用于胰腺疾病和唾液腺疾病如腮腺炎的诊断。目前已知很多上皮组织，如阴道黏膜、卵巢﹑肠道、输卵管﹑前列腺﹑乳腺和肺可生成和储存唾液淀粉酶。
+因此当上述部位出现相应病变时将亦有可能引起血清淀粉酶增加。血清淀粉酶增高常见于各类胰腺疾病，还可出现在一些胰外疾病，如肠梗阻、胃十二指肠溃疡穿孔、巨淀粉酶血症、肠系膜梗塞、异位妊娠破裂、流行性腮腺炎和消化道溃疡穿孔等，亦能导致淀粉酶不同程度的升高。所以，在临床工作中应根据临床表现，在确诊急性胰腺炎时升高的淀粉酶需要结合其他检查结果进行综合分析，才能得出正确诊断。
+十二指肠球部溃疡穿孔时可见血和 (或) 尿淀粉酶升高 [46]。大叶型肺炎及肺癌患者的血和 (或) 尿淀粉酶升高，原因可能是炎症损伤肺组织导致淀粉酶释放增加或肿瘤本身可产生淀粉酶所致 [47]。在酸中毒时使血液中有过多的唾液型淀粉酶的存在 [48]，故尿毒症时可能会出现血淀粉酶的升高。少数肺癌及乳腺癌等也可见血淀粉酶增高 [49]。
+在某些特殊情况下，体内会出现一类特殊亚型的淀粉酶-巨淀粉酶（Macroamylase）。巨淀粉酶血症最常见的临床特征是持续性的高淀粉酶血症，但没有临床相关症状，脂肪酶和尿淀粉酶活性均正常。研究发现，186 例患者中 11% 有巨淀粉酶，无症状的慢性胰腺炎和高淀粉酶血症首先考虑巨淀粉酶 [50]。此时应检测血清淀粉酶同工酶以排除巨淀粉酶引起的高淀粉酶血症 [51]。巨淀粉酶血症一般无需治疗，但由于其高淀粉酶的特征有时会引起临床的误判，甚至导致一系列昂贵而无效的检查甚至治疗。
+总而言之，高淀粉酶血症是临床上经常遇到的情况，导致高淀粉酶血症的病因非常复杂，并非仅限于胰腺和唾液腺疾病，多种因素可能引起淀粉酶非特异性升高。检验人员在对检查结果进行解释时应持谨慎态度。值得警惕的是，有时其他疾病可能会被误诊为胰腺炎，而患者则被禁食并接受不必要而且还有一定风险的静脉营养或者鼻-空肠营养支持。
+因此，临床工作中遇到高淀粉酶血症而无胰腺炎临床表现和胰腺形态学改变时，有条件时应作淀粉酶同工酶分析，区分胰源性和非胰源性淀粉酶升高，以避免不必要的过度检查和治疗。这不仅导致医疗资源不必要的浪费，而且也会对患者造成身心伤害。
+淀粉酶诊断胰腺炎，纯属多余吗？
+血清淀粉酶和脂肪酶被认为是急性胰腺炎诊断重要的测试。急性胰腺炎初次发病，血清淀粉酶超过 3 至 6 个小时迅速增加，以 10-12 小时的半衰期，持续升高 3 至 5 天 [52]，并经肾排泄。血清脂肪酶水平在 4 至 8 小时开始升高，在 24 小时内达到峰值并保持升高一到两周 [6]。
+血清脂肪酶不像淀粉酶，血清脂肪酶是由肾脏再吸收，因此保持升高 1 至 2 周 [53-54]。脂肪酶的主要优点是患者的延迟呈现 [55]。  血清淀粉酶容易获得，灵敏度高，并且技术简单被吹捧为淀粉酶检测的优点。血清淀粉酶诊断急性胰腺炎不是合适的，因为特异性较差。血清脂肪酶被发现是比血清淀粉酶（95% 比 79%）更敏感 [10]。急性胰腺炎患者 18.8% 没有血清淀粉酶升高，而只有 2.9% 血清脂肪酶没有升高。作者得出的结论是血清脂肪酶是比血清淀粉酶更准确的生物标志物 [56]。
+2005 年英国急性胰腺炎诊疗指南和 2006 年美国急性胰腺炎诊疗指南也都认为血清脂肪酶作为急性胰腺炎诊断依据的准确性要超过血清淀粉酶 [57]。
+对于淀粉酶和脂肪酶两者谁更靠谱，各家所持的观点不一。有人提出同时检测两者以提高敏感度和特异性。有观点指出：淀粉酶和脂肪酶联合测定诊断急性胰腺炎有利于提高首诊的灵敏度、特异度和准确度 [58]，另外，许多研究表明，血清淀粉酶对急性胰腺炎诊断的敏感性和特异性不足，提示同时测定淀粉酶和脂肪酶水平，以提高急性胰腺炎的诊断准确率 [59]
+。血清淀粉酶和脂肪酶一起测定将提高急性胰腺炎诊断的准确性 [60]。在不太明朗的情况下，无论是淀粉酶和脂肪酶的同时测量，也应考虑，虽然很多作者怀疑这种做法提高了诊断准确性。然而，有观点认为，淀粉酶和脂肪酶同时检测估计不会改善准确性。Gomez 等 [61] 指出：单独确定血清脂肪酶水平足以诊断急性胰腺炎，如果单独地测量，可以取得实质性的节约。诊断急性胰腺炎，脂肪酶就足够了，淀粉酶纯属多余。06 年出版的美国重症胰腺炎诊疗指南中也曾提到：同时检测血清淀粉酶和脂肪酶往往无必要 [12]。
+总而言之，急性胰腺炎的诊断，血清脂肪酶敏感性较高，优于淀粉酶检测；两者联合检测与脂肪酶单项检测的敏感性无明显差异，且造成资源浪费；目前影像学检查是诊断急性胰腺炎的金标准，但价格昂贵，检查时接触放射线，不能移动，有一定的局限性。血清脂肪酶可减少对影像学检查的依赖，节约费用，减少患者辐射。因此，血清脂肪酶可作为诊断急性胰腺炎的首选实验室检查。
+结论
+评价急性胰腺炎理想的试验应具备能准确确定急性胰腺炎的诊断、能早期评估其严重性并确定病因。可当今并没有符合所有这些标准的检验项目。目前并没有可以被认可为「金标准」的急性胰腺炎严重程度的诊断和评估试验。血清胰蛋白酶原激活肽和胰蛋白酶原 2 是胰腺炎更具体的早期标志物，但价格昂贵，而且不容易获得 [62]。
+对于急性胰腺炎的诊断，血清淀粉酶和脂肪酶仍然是重要的试验。淀粉酶和脂肪酶是诊断胰腺炎的筛查手段，作用毋庸置疑。急性胰腺炎除高淀粉酶和脂肪酶外，往往同时伴有急性上腹痛，B 超、CT 和磁共振检查有胰腺肿胀、胰周渗液等影像学特征。如单纯高淀粉酶和脂肪酶不伴有上腹痛和胰腺影像学改变不能轻易诊断急性胰腺炎。
+血清淀粉酶和脂肪酶正常，也不能轻易否定急性胰腺炎的诊断，需认真检查分析。急性胰腺炎的诊断不能仅依赖淀粉酶和脂肪酶，需要结合症状和影像学检查。
+本文作者：张晓宁，河北省南皮县人民医院副主任技师；丁香园论坛检验版荣誉版主
+本文由作者独家授权丁香园发布
+参考文献
+[1]Talukdar R,Vege SS.Recentdevelopments in acute pancreatitis.Clin Gastroenterol Hepatol.2009,7(11Suppl):S3-S9.
+[2]Whitcomb DC.Clinical practice. Acutepancreatitis.N Engl J Med.2006,354(20):2142-2150
+[3]Kurt Ö,Demirci H,Ozturk K,etal.Severe serum amylase elevation, with only chronic kidney disease.Ren Fail.2015,37(5):915.
+[4]Ventrucci M,Pezzilli R,Gullo L,etal.Role of serum pancreatic enzyme assays in diagnosis of pancreaticdisease.Dig Dis Sci.1989,34(1):39-45.
+[5]Kolars JC,Ellis CJ,LevittMD.Comparison of serum amylase pancreatic isoamylase and lipase in patientswith hyperamylasemia.Dig Dis Sci.1984,29(4):289-293.
+[6]Cartier T, Sogni P, Perruche F,et al.Normallipase serum level in acute pancreatitis: a case report.Emerg Med J.2006,23(9):701–702.
+[7]Limon O,Sahin E,Kantar FU,et al.A rareentity in ED:Normal lipase level in acute pancreatitis.Turk J Emerg Med.2016,16(1):32-34.
+[8]Mayersak JS,Viviano CJ,BabiarzJW.Computed axial tomography pancreatitis:an atypical asymptomaticpostoperative disease without serum or urinary enzyme evaluation.Wis Med J.1997,96:25-28.
+[9]Spechler SJ,Dalton JW,Robbins AH,GerzofSG,Stern JS,et al.Prevalence of normal serum amylase levels in patients withacute alcoholic pancreatitis.Dig Dis Sci.1983,28: 865-869.
+[10]Orebaugh SL.Normal amylase levels inthe presentation of acute pancreatitis.Am J Emerg Med.1994,12:21-24.
+[11]Ohmoto K,Neishi Y,Miyake I,YamamotoS.Severe acute pancreatitis associated with hyperlipidemia:report of two casesand review of the literature in Japan.Hepatogastroenterology.1999,46(29):2986-2990.
+[12]Banks PA,Freeman ML.PracticeParameters Committee of the American College of Gastroenterology.Practiceguidelines in acute pancreatitis.Am J Gastroenterol.2006,101(10):2379-2400.
+[13]Fallat RW,Vester JW,GlueckCJ.Suppression of amylase activity by hypertriglyceridemia. JAMA.1973,225:1331.
+[14] Shah AM, Eddi R, Kothari ST, et al.Acute Pancreatitis with Normal Serum Lipase: A Case Series. JOP. J Pancreas(Online) 2010,11:369-372.
+[15]Khan FY,Matar I.Chylous ascitessecondary to hyperlipidemic pancreatitis with normal serum amylase and lipase.World J Gastroenterol.2007,13(3): 480-482.
+[16]Shafqet MA,Brown TV,Sharma R.Normallipase drug-induced pancreatitis:a novel finding.Am J Emerg Med.2015,33(3):476.e5-6.
+[17]Murphy MJ,Sheng X,MacDonald TM,WeiL.Hypertriglyceridemia and acute pancreatitis. JAMA Intern Med.2013,173(2):162-164.
+[18]Tietz NW,Shuey DF.Lipase in serum--theelusive enzyme:an overview.Clin Chem.1993. 39(5):746-756.
+[19]Arvind K Mathur,AngelaWhitaker,HemchandKolli1,et al.Acute Pancreatitis with Normal Serum Lipase andAmylase:A Rare Presentation.JOP.J Pancreas (Online)2016,17(1):98-101.
+[20]Coffey MJ, Nightingale S, Ooi CY.Diagnosingacute pancreatitis in children: what is the diagnostic yield and concordancefor serum pancreatic enzymes and imaging within 96 hours of presentation?Pancreatology.2014, 14:251-256.
+[21]Steinberg WM,Nauck MA,Zinman B,etal.LEADER 3--lipase and amylase activity in subjects with type 2 diabetes:baseline data from over 9000 subjects in the LEADERTrial.Pancreas.2014,43(8):1223-1231.
+[22]Lionetti E,Francavilla R,Leonardi S,etal.Two rare cases of benign hyperlipasemia in children.World J Clin Cases.2014,2(1):16-19.
+[23]Bokemeyer B.Asymptomatic elevationof serum lipase and amylase in conjunction withCrohn's disease and ulcerativecolitis.Z Gastroenterol.2002,40(1):5-10.
+[24]Quinn KP,Tabibian JH,SweetserS.Sixty-Year-Old Man With Acute Epigastric Pain and Increased Serum Lipase Level.ClinGastroenterol Hepatol.2015,13(9):A23-24.
+[25]Gumaste VV,Roditis N,Mehta D,DavePB.Serum lipase levels in nonpancreatic abdominal pain versus acutepancreatitis.Am J Gastroenterol.1993,88(12):2051-2055.
+[26]Chase CW,Barker DE,Russell WL,BurnsRP.Serum amylase and lipase in the evaluationof acute abdominal pain. Am Surg1996,62:1028.
+[27]Banks PA,Bollen TL,Dervenis C,etal.Classification of acute pancreatitis--2012:revision of the Atlantaclassification and definitions by international consensus.Gut.2013,62(1):102-111.
+[28]Hofmeyr S,Meyer C,Warren BL.Serumlipase should be the laboratory test of choice for suspected acutepancreatitis.S Afr J Surg.2014,52(3):72-75.
+[29]Lankisch PG, Burchard-Reckert S,Lehnick D.Underestimation of acute pancreatitis:patients with only a smallincrease in amylase/lipase levels can also have or develop severe acutepancreatitis.Gut.1999,44(4):542-544.
+[30]Yadav D,Nair S,Norkus EP,PitchumoniCS.Nonspecific hyperamylasemia and hyperlipasemia in diabetic ketoacidosis:incidence and correlation with biochemical abnormalities.Am JGastroenterol.2000,95(11):3123-3128.
+[31]Chase CW,Barker DE,Russell WL,BurnsRP.Serum amylase and lipase in the evaluationof acute abdominal pain.Am Surg.1996,62(12):1028-1033.
+[32]Lott JA,Patel ST,Sawhney AK.etal.Assays of serum lipase: analytical and clinical considerations.Clin Chem.1986,32(7):1290-1302.
+[33]Clavien PA,Robert J,Meyer P.etal.Acute pancreatitis and normoamylasemia. Not an uncommon combination.AnnSurg.1989,210(5):614-620.
+[34]Lott JA, Lu CJ.Lipase isoforms andamylase isoenzymes: assays and application in thediagnosis of acutepancreatitis.Clin Chem.1991,37(3):361-368.
+[35]Tetrault GA.Lipase activity in serummeasured with Ektachem is often increased in nonpancreatic disorders.Clin Chem.1991,37(3):447-451.
+[36]Gomella LG HS.Laboratory Diagnosis:Chemistry, Immunology,Serology.Gomella LG HS, editor.Clinician's Pocket Reference:The ScutMonkey.11ed.New York:McGraw-Hill;2007.
+[37]Smotkin J,Tenner S.Laboratory diagnostic tests in acutepancreatitis.Journal of clinical gastroenterology.2002,34(4):459-462.
+[38]Stein W,Bohner J,Bahlinger M.Macrolipase--a new member of the family of immunoglobulin-linked enzymes.J Clin ChemClin Biochem.1987,25(12):837-843.
+[39]Muñoz-Perez M,Sarrion-PelousD,Jimenez-Jimenez J,et al.Chronic increased serum lipase in a patient withsuspected pancreatic adenocarcinoma.Clin Chem.1997,43(1):191-193.
+[40]Donnelly JG,Ooi DS,Burns BF,etal.Chronic increased serum lipase without evidence ofpancreatitis:tumor-derivedlipase?Clin Chem.1996,42(3):462-464.
+[41]Okumura Y,Tamba J,Shintani Y,et al.Macrolipasemia in Crohn'sdisease. Pancreas.1998,16(2):205-210.
+[42]Manjuck J,Zein J,Carpati C,Astiz M.Clinicalsignificance of increased lipase levels on admission to the ICU.Chest.2005,127(1):246-250.
+[43]Frank B,Gottlieb K.Amylasenormal,lipase elevated:is it pancreatitis? A case series and review of theliterature.Am J Gastroenterol.1999,94(2):463-469.
+[44]Yadav D,Agarwal N,Pitchumoni CS.A critical evaluation oflaboratory tests in acute pancreatitis.Am J Gastroenterol.2002,97(6):1309-1318.
+[45]Williamson MA,Snyder LM,Wallach JB.Wallach's interpretation ofdiagnostic tests.9th ed.Philadelphia:Wolters Kluwer/Lippincott Williams &Wilkins Health;2011.
+[46]Pieper-Bigelow C,Strocchi A,LevittMD.Where does serum amylase come from and where does it go?Gastroenterol ClinNorth Am. 1990,19(4):793-810.
+[47]Berk JE,Shimamura J,FridhandlerL.Amylase changes in disorders of the lung.Gastroenterology.1978,74(6):1313-1317.
+[48]Bastani B,Mifflin TE,Lovell MA.etal.Serum amylases in chronic and end-stage renal failure:effects of mode oftherapy,race,diabetes and peritonitis.Am J Nephrol.1987,7(4):292-299.
+[49]Takamizawa J,Kuze S,Kyokane T,etal.A case of pancreatic metastasis from breast cancer during multimodalitytherapy.Gan To Kagaku Ryoho.2011,38(2):301-303.
+[50]Gubergrits N,Golubova O,LukashevichG,et al.Elevated serum amylase in patients with chronic pancreatitis: acuteattack or macroamylasemia? Pancreatology.2014,14(2):114-116.
+[51]Headley AJ,Blechman AN.Diagnosis ofmacroamylasemia in a pregnant patient.J Natl Med Assoc.2008,100(11):1359-1361.
+[52]Clavien PA,Robert J,Meyer P,etal.Acute pancreatitis and normoamylasemia.Not an uncommon combination.Ann Surg.1989,210:614-620.
+[53]Shah AM,Eddi R,Kothari ST,etal.Acute pancreatitis with normal serum lipase:a case series.JOP.2010,11:369-372.
+[54]Sternby B,O'Brien JF,ZinsmeisterAR,DiMagno EP.What is the best biochemical test todiagnose acute pancreatitis?A prospective clinical study. Mayo Clin Proc.1996,71:1138-1144.
+[55]Al-Bahrani AZ,Ammori BJ.Clinicallaboratory assessment of acute pancreatitis.Clin Chim Acta.2005,362(1-2):26-48.
+[56]Smith RC,Southwell-Keely J,ChesherD.Should serum pancreatic lipase replace serum amylase as a biomarker of acutepancreatitis? ANZ J Surg.2005,75(6):399-404.
+[57]Working Party of the British Societyof Gastroenterology; Association of Surgeons of Great Britain and Ireland;PancreaticSociety of Great Britain and Ireland;Association of Upper GI Surgeons of GreatBritain and Ireland.UK guidelines for the management of acute pancreatitis.Gut.2005,54Suppl3:iii1-9.
+[58]Frank B,Gottlieb K.Amylase normal,lipase elevated: is it pancreatitis? A case series and review of theliterature.Am J Gastroenterol.1999,94(2):463-469.
+[59]Keim V,Teich N,Fiedler F.et al.Acomparison of lipase and amylase in the diagnosis of acute pancreatitis inpatients with abdominal pain.Pancreas.1998,16(1):45-49.
+[60]Lifton LJ,Slickers KA,Pragay DA,KatzLA.Pancreatitis and lipase.A reevaluation with afive-minute turbidimetriclipase determination.JAMA.1974,229(1):47-50.
+[61]Gomez D,Addison A,De Rosa A.etal.Retrospective study of patients with acute pancreatitis: is serum amylasestill required?BMJ Open.2012,21;2(5).pii:e001471.
+[62]Kylänpää-Bäck M,KemppainenE,Puolakkainen P,et al.Reliable screening for acute pancreatitis with rapid urinetrypsinogen-2 test strip.Br J Surg.2000,87:49-52.

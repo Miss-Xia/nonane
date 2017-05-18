@@ -1,0 +1,29 @@
+视神经脊髓炎谱系病
+jQuery(document).ready(function(){
+    		jQuery("#a").srcollChange({drt:'left',auto:11});
+    	});
+全超，女，博士，复旦大学附属华山医院神经内科副主任医师。
+华山医院视神经脊髓炎专业组成员，上海市医学会神经内科分会青年委员，上海市医学会神经免疫学组委员，上海市免疫学会神经免疫专委会委员兼常务秘书，中国研究型医院学会青年委员。
+常年工作在神经科临床第一线，专注于中枢神经系统脱髓鞘疾病、尤其是视神经脊髓炎和多发性硬化的临床与科研工作。先后参与倍泰龙、
+AVONEX
+、特立氟胺等多发性硬化治疗药物的国际多中心药物临床研究。主持视神经脊髓炎相关的
+“
+国家自然科学基金
+”
+，复旦大学脑科学研究院临床基础结合课题和复旦大学青年教师科研提升项目。
+2015
+年赴德国杜塞尔多夫大学附属医院多发性硬化和视神经脊髓炎研究中心研修，师从前
+ECTRIMS
+主席
+Hans-Peter Hartung
+教授。目前主要研究成果发表在
+Multiple Sclerosis Journal
+，
+Journal of Clinical Microbiology
+，
+Journal of Neuroimmunology
+，
+Multiple Sclerosis and Related Disorders
+上。
+上一张
+下一张

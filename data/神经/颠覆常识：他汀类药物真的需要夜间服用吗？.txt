@@ -1,0 +1,37 @@
+颠覆常识：他汀类药物真的需要夜间服用吗？
+他汀类药物在神经科和心内科可谓是遍地开花。调控血脂、降低心脑血管疾病的发病率是它们的本职，同时又有着各种神奇的兼职：抗氧化、减轻炎症、抑制心室重构、改善 COPD 结局、降低胰腺炎发病率，甚至降低痴呆和认知障碍的风险 [1]，多才多艺。
+2014 年中国缺血性卒中/TIA 二级预防指南指出，「对于非心源性缺血性脑卒中/TIA 患者，无论是否伴有其他动脉粥样硬化证据，均推荐给予高强度他汀类药物长期治疗，以减少脑卒中和心血管事件风险」[2]。所谓「高强度他汀治疗」是指阿托伐他汀 40-80 mg/d 或瑞舒伐他汀 20-40 mg/d，由此可见他汀们在神经科使用面之广、量之大。
+但据了解，从小诊所到大三甲，从心内科到神经科，绝大多数医生都习惯给予他汀们夜间服用；只要有它们出现的地方，便顺手勾上 qn。这么做究竟有没有道理呢？
+为什么需要夜间服用？
+这就要从他汀的药理作用讲起。人体内胆固醇合成是个超级复杂的工程，简单说分三阶段：甲羟戊酸的合成、鲨烯的合成、胆固醇的合成。其中第一阶段如下：
+乙酰 CoA 经过 3 步酶促反应合成甲羟戊酸（胆固醇的前体），其中 HMG-CoA 还原酶是关键酶，也是整个胆固醇合成的关键酶。而他汀类药物正是一种选择性、竞争性的 HMG-CoA 还原酶抑制剂，它们通过竞争性抑制 HMG-CoA 还原酶来抑制整个胆固醇的合成。
+胆固醇的合成主要在肝，而肝 HMG-CoA 还原酶自有其个性；它有昼夜节律，活性在中午最低，半夜最高。所以人体内胆固醇的合成也有节律性，中午最少，半夜最多。
+如果夜间服用他汀，血浆消除半衰期在数个小时，半夜时正好到达血药浓度高峰（Cmax），可以起到最佳效果。这方面已经有多项研究，对于辛伐他汀 [3, 4]、洛伐他汀 [5]、普伐他汀 [6]、西立伐他汀 [7] 等，晚上给药较早晨给药，药效均在不同程度上更优（总胆固醇或 LDL-C 降低幅度更大）。
+但值得注意的是，有研究又发现对于氟伐他汀缓释剂型 [8, 9]、辛伐他汀控释剂型 [10] 来说，早晚给药药效并无显著差异。
+由此可见，问题的关键在半衰期。
+对于短半衰期的药物，比如辛伐他汀、氟伐他汀、洛伐他汀，与早晨服用相比，夜间服用确实可以起到更好的效果，这也就是从前要求他汀夜间服用的依据了。但对缓释片和控释片剂型的他汀来说，早晚服药当然也就不会有差异了。
+为什么不需要夜间服用？
+然而，时过境迁，如今的舞台中央早已不属于他们了，而是新一代他汀：阿托伐他汀和瑞舒伐他汀的天下。
+新开发的他汀，活性更强，作用更持久，比如阿托伐他汀，半衰期长达 14 个小时，其代谢物也有强大的活性，使得药效半衰期进一步延长至 20-30 h。同样，瑞舒伐他汀的半衰期也长达 19 个小时。
+研究发现，对于阿托伐他汀和瑞舒伐他汀，早晨和夜间服药之间，药效并无差异 [11, 12]。有意思的是，阿托伐他汀夜间给药反而血药浓度还更低，Cmax 比早晨给药低 30%，这可能与夜间胃肠道活动弱而吸收少，或是夜间代谢速度更快有关。当然如上所述，尽管 Cmax 更低，总的药效却是一致的。
+可见，阿托伐他汀和瑞舒伐他汀并不需要夜间服用。事实上，仔细查看这两种药品说明书，上面都已经特意说明了「可以任意时间给药，且不受进食影响」。
+结论
+短半衰期的他汀，如辛伐他汀、氟伐他汀、洛伐他汀，确实夜间服用药效更佳。但对于缓释或控释剂型，以及新一代阿托伐他汀和瑞舒伐他汀，均不需要夜间服用，完全可以在早晨和其他药物一起服用，以免增加不必要的麻烦。
+最后，用一张表来搞定各类他汀的临床及药学特点：
+相关数据来源自 UpToDate 临床决策数据库，感谢中国药科大学陈阳博士及其所在的实验室在药代动力学理论方面的帮助和支持。
+欢迎投稿 | shenll@dxy.cn
+参考文献：
+[1]. Desai, C.S., S.S. Martin and R.S. Blumenthal, Non-cardiovascular effects associated with statins. BMJ, 2014. 349: p. g3743.
+[2]. 中华医学会神经病学分会与中华医学会神经病学分会脑血管病学组, 中国缺血性脑卒中和短暂性脑缺血发作二级预防指南 2014. 中华神经科杂志, 2015. 48(4): 第 258-273 页.
+[3]. Lund, T.M., et al., Effect of morning versus evening intake of simvastatin on the serum cholesterol level in patients with coronary artery disease. Am J Cardiol, 2002. 90(7): p. 784-6.
+[4]. Wallace, A., D. Chinn and G. Rubin, Taking simvastatin in the morning compared with in the evening: randomised controlled trial. BMJ, 2003. 327(7418): p. 788.
+[5]. Illingworth, D.R., Comparative efficacy of once versus twice daily mevinolin in the therapy of familial hypercholesterolemia. Clin Pharmacol Ther, 1986. 40(3): p. 338-43.
+[6]. Hunninghake, D.B., et al., Efficacy and safety of pravastatin in patients with primary hypercholesterolemia. II. Once-daily versus twice-daily dosing. Atherosclerosis, 1990. 85(2-3): p. 219-27.
+[7]. Muck, W., et al., Pharmacokinetics of cerivastatin when administered under fasted and fed conditions in the morning or evening. Int J Clin Pharmacol Ther, 2000. 38(6): p. 298-303.
+[8]. Scharnagl, H., et al., Efficacy and safety of fluvastatin-extended release in hypercholesterolemic patients: morning administration is equivalent to evening administration. Cardiology, 2006. 106(4): p. 241-8.
+[9]. Fauler, G., et al., Time-of-intake (morning versus evening) of extended-release fluvastatin in hyperlipemic patients is without influence on the pharmacodynamics (mevalonic acid excretion) and pharmacokinetics. Int J Clin Pharmacol Ther, 2007. 45(6): p. 328-34.
+[10]. Yi, Y.J., et al., Comparison of the efficacy and safety profile of morning administration of controlled-release simvastatin versus evening administration of immediate-release simvastatin in chronic kidney disease patients with dyslipidemia. Clin Ther, 2014. 36(8): p. 1182-90.
+[11]. Cilla, D.J., et al., Pharmacodynamic effects and pharmacokinetics of atorvastatin after administration to normocholesterolemic subjects in the morning and evening. J Clin Pharmacol, 1996. 36(7): p. 604-9.
+[12]. Martin, P.D., P.D. Mitchell and D.W. Schneck, Pharmacodynamic effects and pharmacokinetics of a new HMG-CoA reductase inhibitor, rosuvastatin, after morning or evening administration in healthy volunteers. Br J Clin Pharmacol, 2002. 54(5): p. 472-7.
+[13]. 查锡良. 生物化学（第七版）. 北京：人民卫生出版社，2013.
+[14]. UpToDate 临床决策数据库 www.uptodate.com

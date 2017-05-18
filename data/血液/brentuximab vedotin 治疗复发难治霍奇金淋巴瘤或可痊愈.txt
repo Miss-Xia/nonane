@@ -1,0 +1,9 @@
+brentuximab vedotin 治疗复发难治霍奇金淋巴瘤或可痊愈
+Brentuximab vedotin 是一种抗体-药物偶联物，可靶向表达 CD30 的肿瘤细胞发挥杀伤作用。已有 2 期临床试验显示 Brentuximab vedotin 疗效显著，应用于复发/难治（RR）霍奇金淋巴瘤（HL）患者获得了较好的 3 年疾病控制率（3-year disease control）。
+美国希望之城国家医疗中心 Chen 博士等报道了 Brentuximab vedotin 治疗自体造血干细胞移植失败后 R/R HL 患者 5 年生存率和持续疗效的结果，文章发表于近期的 Blood 杂志。
+研究者予患者门诊静注 brentuximab vedotin 1.8 mg/kg，注射时间超过 30 分钟，每 3 周 1 次，最多进行 16 周期。临床反应由独立中心回顾研究和恶性淋巴瘤疗效标准修订版评估（Revised Response Criteria for Malignant Lymphoma）。
+疗效持续时间为首次肿瘤缓解（完全缓解 ，CR 或部分缓解，PR）至肿瘤进展和任何原因的死亡，无进展生存（PFS） 为治疗开始至肿瘤进展或死亡。总体生存（OS）为从治疗开始至任何原因死亡的日期。
+随访 5 年，全部患者人群 102 例 OS 率为 41%，PFS 为 22%。34 例达到 CR 的患者的 OS 和 PFS 率分别为 64% 和 52%。中位 OS 和 PFS 在 CR 患者中未达到， 13 例（占  CR 患者的 38% ）仍在随访当中，并在研究结束时处于缓解状态。13 例患者中 4 例接受过巩固异基因造血干细胞移植，9 例（占全部患者的 9%）仍处于 CR，且在接受 brentuximab vedotin 后未接受其他抗肿瘤治疗。（图 1）
+图 1 5 年随访结果总结
+外周神经病（PN）为最常见的副作用，与 brentuximab vedotin 治疗的累积相关。56 例发生 PN 的患者，49 （88%）例得到痊愈或缓解，其中 41 （73%）例达到完全痊愈，14 （14%）达到缓解。
+上述结果提示 brentuximab vedotin 单药治疗 R/R HL 达 CR 患者可获得长期的疾病控制乃至痊愈。

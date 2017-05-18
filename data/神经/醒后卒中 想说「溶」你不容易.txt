@@ -1,0 +1,60 @@
+醒后卒中 想说「溶」你不容易
+早在 20 多年前，美国 FDA 就已经批准 rt-PA 作为急性缺血性卒中的首要治疗方法。但遗憾的是，由于 rt-PA 溶栓对时间窗的要求十分严格，大部分病人无法接受这一治疗。醒后卒中病人因为发病时间未知，长久以来更是与溶栓无缘。
+都说对于卒中病人，时间就是大脑，难道对于每年数以百万计的醒后卒中病人，要白白放弃拯救大脑的机会吗？当然不！近年来关于醒后卒中的研究如火如荼，今天我们就来了解一下，醒后卒中的「前世今生」。
+什么是醒后卒中？
+醒后卒中指患者在睡眠时没有新发卒中症状，但觉醒后患者本人或目击者发现其出现了卒中的症状，英文名 wake-up stroke 或许更好理解。
+醒后卒中的病因众说纷纭。
+早在 1998 年，Lago A 在 Stroke 杂志发表观点认为，有心肌梗死病史的病人更容易在晨起发生卒中
+[1]
+。
+2007 年 Michel 、Odier 等人对 813 名缺血性卒中患者进行预后分析，其中 127 为醒后卒中，686 为非醒后卒中，虽然醒后卒中和非醒后卒中患者的临床和影像学表现凡乎一致，但肥胖患者出院３个月随访时的死亡率较髙，而且３个月后醒后卒中的功能预后比非醒后卒中更差
+[2]
+。
+在亚洲，日本学者 Elliot 等人在 2010 年对醒后卒中患者进行研究，他们认为高血压病史和吸烟史同样是醒后卒中的危险因素
+[3]
+。
+然而在我国，2015 年有一项对 506 位卒中患者进行的单因素分析显示，甘油三酯、空腹血糖、房颤病史都不是醒后卒中发病的预测因素
+[4]
+。
+关于醒后卒中的预后，20 年间依然未有定论。
+2005 年，加拿大一项多中心大规模调查显示，醒后卒中患者与发病时间明确的患者在死亡率上无显著差异，但醒后卒中患者功能转归不佳
+[5]
+；随后，韩国学者 Beom Joon Kim 在 Stroke 发表的研究提示，醒后卒中患者的初始 NIHSS 评分显著高于与之相当的非 WUS 患者。应答分析显示，WUS 患者更有可能出现「不良转归」， 在 mRS 评分的分布上，功能性依赖趋势增加 [6]。
+如何确定醒后卒中发病时间？
+是否对醒后卒中病人进行溶栓的核心问题是如何快速准确地判断发病时间，关于这个问题，学者们的步伐已经由假定患者睡眠时间中位数，进展到了头颅影像学检查。
+目前，核磁错配是研究热点。
+Götz Thomalla 在 Lancet Neurol 上发表研究显示，急诊 DWI-FLAIR mismatch 在识别发病 4.5 小时内的卒中患者上，敏感度 62%，特异度 78%，有 83% 的阳性预测值和 54% 阴性预测值
+[7]
+。
+而在国内，中华医学会第十七次全国神经病学学术会议上，首都宣武医院也曾有相关报道。除此之外，CTP-DWI mismatch、多模式 CT 都是溶栓决策的可选项。
+溶栓？想说爱你不容易！
+对于醒后卒中患者溶栓治疗的疗效和安全性，目前的临床证据十分有限，大部分临床研究都排除了醒后卒中患者。现有的研究大部分是小规模观察性研究报道，各家之言，不一而足。总的来说，目前研究表明，溶栓后症状性出血的发生率在 0%~33% 之间，患者良好预后的比例为 10%~50%。
+早在 2009 年，Barreto 等人在 Stroke 杂志发表了一项纳入 80 例醒后卒中患者的研究，结果显示，采用溶栓治疗的 46 例患者，其预后与发病时间在 3 小时内行溶栓治疗的患者无显著差异
+[8]
+。
+2013 年，Manawadu 的研究比较了 68 例醒后卒中溶栓患者与 336 例在 4.5 小时内溶栓卒中患者的预后，结果发现两组患者症状性出血的风险类似
+[9]
+。
+2016 年，上海市浦东区人民医院对 427 名卒中病人进行的研究显示，醒后卒中与非醒后卒中病人在溶栓安全性上并无显著差异
+[10]
+。
+实战考验
+患者中年男性，急性起病。
+11 月 12 日 5：20 醒后无明显诱因下突发右侧肢体活动不利伴麻木，伴言语不清，最后正常时间为 11 月 11 日 19:00。
+11 月 12 日 11:00 至我院急诊，急行一站式 CTA+CTP。患者急诊入院时 NIHSS 评分 5 分，排除相关禁忌，与患者家属充分沟通病情，于 12:55 予以「爱通立 42 mg」行低剂量静脉溶栓治疗。
+溶栓过程顺利，溶栓后症状有明显改善，NIHSS 评分降至 0 分，复查头颅 CT 未见出血灶。
+图 1 A. 平扫示左侧颞叶密度减低；B.CTA 示左侧大脑后动脉局部闭塞；C.CTP 提示左侧枕叶缺血性灌注异常，可见明显缺血半暗带；D. 复查 CT 未见出血灶
+该患者虽为醒后卒中，但 CTP 提示左侧枕叶缺血性灌注异常，存在明显缺血半暗带，我们依然选择对其采取溶栓治疗，患者预后良好，NIHSS 评分明显降低，24 小时复查 CT 未出现出血灶。
+这例病例告诉我们，虽然目前的研究热点是采用核磁错配来判断醒后卒中患者的发病时间和半暗带，但在临床工作中，因为一站式 CTA+CTP 的高效性和便捷性，我们仍然可以选择 CTP+CTA 作为判断患者是否进行溶栓的依据。
+回顾国外对于醒后卒中的研究我们发现，从 20 世纪末醒后卒中得到关注以来的 20 年间，研究经历了病因、预后、影像、治疗这一逐步深入的过程，目前的研究前沿仍然在于溶栓疗效及安全性的问题。相信随着各国学者研究的深入，广大醒后卒中患者将会有更好的治疗选择。
+参考文献
+[1]Lago A, Geﬀ ner D, Tembl J, Landete L, Valero C, Baquero M. Circadian variation in acute ischemic stroke: a hospital-based study. Stroke 1998; 29: 1873–75.
+[2]Michel P,Odier C,Rutgers M,et al.The Acute Stroke Registry and:Analysis of Lausanne Design and Baseline Analysis of an Ischemic Stroke Registry Including Acute Multimodal Imaging.Stroke.2010,41:2491-2498.
+[3] Elliott WJ. Circadian variation in the timing of stroke onset: a meta-analysis. Stroke 1998; 29: 992–96.
+[4] 翟明锋. 醒后卒中的病因与早期预后研究.D.2015.
+[5]Nadeau J, Fang J, Kapral MK, Silver FL. Outcome after stroke upon awakening. Can J Neurol Sci. 2005 May;32(2):232-6.
+[6] Beom Joon Kim, Seung-Hoon Lee, Chae-Won Shin, Wi-Sun Ryu, Chi Kyung Kim and Byung-Woo Yoon. Ischemic Stroke During Sleep Its Association With Worse Early FunctionalOutcome.Stroke.2011;42(7).
+[7] Götz Thomalla, Bastian Cheng, Martin Ebinger, Qing Hao,et al. DWI-FLAIR mismatch for the identiﬁ cation of patients with acute ischaemic stroke within 4·5 h of symptom onset (PRE-FLAIR): a multicentre observational study. Lancet Neurol 2011; 10: 978–86.
+[8] Barreto AD, Martin-Schild S, Hallevi H, et al. Thrombolytic therapy for patients who wake-up with stroke. Stroke 2009;40:827–832.
+[9] Manawadu D, Bodla S, Jarosz J, Keep J, Kalra L. A case-controlled comparison of thrombolysis outcomes between wake-up and known time of onset ischemic stroke patients. Stroke 2013;44:2226–2231.
+[10] Qingke Bai, Zhenguo Zhao, Paul Fu, Haijing Sui, Xiuhai Xie, Juan Chen & Juan Yang (2013) Clinical outcomes of fast MRI-based trombolysis in wake-up strokes compared to superacute ischemic strokes within 12 hours, Neurological Research, 35:5, 492-497.

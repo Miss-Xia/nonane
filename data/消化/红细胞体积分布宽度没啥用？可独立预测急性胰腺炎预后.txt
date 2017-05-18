@@ -1,0 +1,7 @@
+红细胞体积分布宽度没啥用？可独立预测急性胰腺炎预后
+红细胞体积分布宽度（Red blood cell distribution width，RDW）是血常规检查中描述红细胞大小差异程度的指标。最近几年的研究表明 RDW 可以用于许多临床实践中，譬如可以用来评估干燥综合征、系统性红斑狼疮的疾病活动度。这或许跟 RDW 与许多炎症因子如 C-反应蛋白等呈正相关关系有关。
+已有部分研究表明 RDW 可以作为急性胰腺炎的一个预后指标，但这几个研究忽视了两个重要的混杂因素，如简化急性生理学分值 I（simplified acute physiology score I，SAPSI）和连续器官衰竭评估（sequential organ failure assessment ，SOFA）。因此，RDW 是否能作为急性胰腺炎的独立预后因子尚不明确。
+近期，来自第二军医大学的研究人员通过检索一个名为 Multiparameter Intelligent Monitoring in Intensive Care II（MIMIC II，version 2.6）的大型临床研究数据库，旨在探究 RDW 与急性胰腺炎患者住院死亡率之间的关系。研究结果发表在 Clin Chem Lab Med 杂志上。
+MIMIC II 是一个公开的临床数据库，记录了 2001 年至 2008 年间到美国波士顿 Beth Israel Deaconess Medical Center 重症监护病房（Intensive Care Unit，ICU）就诊的 3 万多名患者的各种临床信息。该研究检索的四个字段分别为：ICD9，LABEVENTS，D_LABITEMS 和 ICUSTAY_DETAIL。ICD9 包含了患者的诊断信息（急性胰腺炎患者的代码 code = 577, sequence = 1）。LABEVENTS 和 D_LABITEMS 指患者所做的检查项目及实验室检查结果。ICUSTAY_DETAIL 主要记录了患者的治疗结局，如 SAPSI 和 SOFA。另外，如果患者住院期间同一项目做过多次检查，均以第一次检查结果进行分析。该研究采用 Spearman 方法分析 RDW 和 SAPSI、SOFA 之间的相关性。ROC 受试者工作曲线分析和条件 Logistic 回归分析 RDW 和住院死亡率之间的关系。
+研究共纳入 162 名急性胰腺炎患者，最终有 151 名患者查询到 RDW 的信息，均值为 14.2%（IQR 13.3%-15.2%），43 名患者的 RDW 大于 15%（参考范围上限）。研究发现，RDW 和 SAPSI、SOFA 呈正相关。17 名死亡患者的 RDW（15.0%；IQR 13.75%–16.35%）明显高于存活者（14.05%；IQR 13.20%–15.10%）。此外，RDW 还可用来预测住院死亡率，ROC 曲线下面积为 0.66。单变量 logistic 回归分析发现 RDW 和住院死亡率相关，而在校正了 SAPSI 和 SOFA 后，多变量 logistic 回归分析 RDW 和住院死亡率仍然显著相关，OR 值为 1.562（95%CI: 1.004–2.317）。
+总而言之，该研究表明 RDW 可以预测 ICU 急性胰腺炎患者的住院死亡率，可以为患者提供有价值的预后信息。

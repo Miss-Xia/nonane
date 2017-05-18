@@ -1,0 +1,31 @@
+结肠镜检：糖尿病患者的肠道准备
+有研究证实糖尿病是降低肠道准备充分率的危险因素之一，原因可能为糖尿病患者胃肠道的传输减慢。所以充足的肠道准备对于糖尿病患者具有更大的临床意义，而消化科医生也应该加强对糖尿病患者的重视。
+糖尿病影响肠道准备
+糖尿病患者肠道蠕动的障碍，导致了肠道传输减慢并产生慢性便秘。虽然其机制并不是很明确，但以往的研究表明胃肠道自主神经病变是导致肠道蠕动减慢的原因之一。
+加强糖尿病患者的肠道准备
+成功的结肠镜检查很大程度上取决于肠道准备的质量，糖尿病患者肠道准备较普通患者较难充分，并且肠道准备期间患者需要限制饮食，甚至禁止饮食，使得糖尿病患者发生低血糖时间的危险性增加，所以我们应该加强改善糖尿病患者的肠道准备方案。
+1. 药物首选聚乙二醇
+目前常用的药物为大剂量聚乙二醇电解质溶液（PEG-ELS）及小剂量磷酸钠溶液（NaP）。但有报道显示在采用磷酸钠对糖尿病患者进行肠道准备时急性肾衰的风险更高，所以建议对糖尿病患者首选聚乙二醇。
+2. 调整糖尿病患者肠道准备方案
+近期发表在 Endoscopy 上的一篇文献，采用一项综合的肠道准备方案：
+（1）护士对干预组患者进行面对面教育，给予详细的饮食指导、用药指导、并且强调肠道准备的重要性以及降糖药物的调整；
+（2）根据营养师与内镜医师共同制定的肠道准备饮食清单进行 4 天的饮食限制；（3）在行结肠镜检查 8 h 前允许服用流质饮食，即对于下午行结肠镜检查的患者，当天上午在开始服用泻药 3 个小时前可以使用早餐（大约在检查当天早晨 5～7 时左右）。
+对照组患者则接受常规书面教育，进行三天低渣饮食，在结肠镜检查前 24 小时的清流质饮食，没有调整降糖药物的特别建议。结果显示，对照组患者肠道不充分率为干预组患者的 3 倍。
+一般指导
+在检查前要充分了解患者血糖水平以及使用药物、胰岛素情况，并向患者解释可能出现的不良反应。于检查 3 天食少渣、低脂、细软饮食，不吃菜叶、菜籽，可吃豆制品、蛋、奶类及肉类等。服泻药约 1 h 后，患者可能会腹胀或不适，症状严重者，可加大间隔时间或暂停给药，直到症状消失后恢复用药，直至排出清水样便。
+在禁食期间可暂停服用降糖药物与胰岛素，尽量在上午进行肠镜检查，因只需禁食早餐，在患者肠镜检查后，即恢复原来治疗。
+小结
+糖尿病患者有较高的结直肠腺瘤或肿瘤发生率，同时其胃肠神经受损导致肠道准备质量较差，并且在肠道准备长时间的禁食过程中容易导致低血糖的发生，而使得糖尿病患者耐受结肠镜检查的能力下降。因此，消化科医生应重视并加强糖尿病患者的肠镜检查过程，给予合理的肠道准备方案及合理的肠镜检查随访间隔。
+参考文献：
+1.Larsson SC, Orsini N, Wolk A. Diabetes mellitus and risk of colorectal cancer: a meta-analysis. J Natl Cancer Inst. 2005;97:1679–1687.
+2.Elwing JE, Gao F, Davidson NO, et al. Type 2 diabetes mellitus: the impact on colorectal adenoma risk in women. Am J Gastroenterol. 2006;101:1866–1871.
+3.Bytzer P, Talley NJ, Leemon M, et al. Prevalence of gastrointestinal symptoms associated with diabetes mellitus: a population-based survey of 15,000 adults. Arch Intern Med. 2001;161:1989–1996.
+4.Kim Y H, Seo E H, Lee J S, et al. Inadequate Bowel Cleansing Efficacy of Split-dose Polyethylene Glycol for Colonoscopy in Type 2 Diabetic Patients: A Prospective and Blinded Study.[J]. Journal of Clinical Gastroenterology, 2016.
+5.Ozturk NA, Gokturk HS, Demir M, et al. The effect of autonomous neuropathy on bowel preparation in type 2 diabetes mellitus. Int J Colorectal Dis. 2009;24:1407–1412
+6. 张瑜, 李利. 糖尿病患者血糖控制程度对肠镜检查肠道清洁度的影响 [J]. 中华护理杂志, 2010, 45(12):1107-1108.
+7.Ma R C, Chow C C, Yeung V T, et al. Acute renal failure following oral sodium phosphate bowel preparation in diabetes.[J]. Diabetes Care, 2007, 30(1):182-3.
+8.Hayes A, Buffum M, Hughes J. Diabetic colon preparation comparison study.[J]. Gastroenterology Nursing the Official Journal of the Society of Gastroenterology Nurses & Associates, 2011, 34(5):377-82.
+9. Taylor C, Schubert M L. Decreased efficacy of polyethylene glycol lavage solution (Golytely) in the preparation of diabetic patients for outpatient colonoscopy: a prospective and blinded study[J]. American Journal of Gastroenterology, 2001, 96(3):710-714.
+10. Alvarez-Gonzalez M A, Flores-Le Roux J A, Seoane A, et al. Efficacy of a multifactorial strategy for bowel preparation in diabetic patients undergoing colonoscopy: a randomized trial.[J]. Endoscopy, 2016.
+11. 黄柳清, 李春联, 肖生翠. 口服清洁肠道药物前进食对肠镜检查中肠道清洁度及患者血糖和耐受力的影响 [J]. 中国实用护理杂志, 2013, 29(17):24-25.
+12. 王仕莲, 蔡先彬, 蚁静君, 等. 肠内营养素在糖尿病患者电子结肠镜检查肠道准备中的应用 [J]. 中国实用护理杂志, 2010, 26(19):45-46.

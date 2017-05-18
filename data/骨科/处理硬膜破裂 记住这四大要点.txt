@@ -1,0 +1,79 @@
+处理硬膜破裂 记住这四大要点
+概论
+硬膜破裂为脊柱外科手术的常见并发症，SRS 学会致病率和致死率数据库中其发生率为 2.9%
+[1]
+；腰椎手术中的发生率为 1% 到 17%
+[2]
+，颈椎手术中发生率 1%
+[3]
+。
+报道率不一的原因，一方面与样本数量、手术种类（初次抑或翻修）和手术技术有关，一方面与研究本身性质息息相关。回顾性研究报道的并发症率较前瞻性研究明显偏低，所以，前瞻性研究有助于准确评估硬膜破裂的危险因素
+[4]
+。
+不论颈椎还是腰椎，硬膜破裂的后果分为直接和间接两种，直接后果包括头痛、假性脑膜囊肿形成、硬膜皮下漏致蛛网膜炎、伤口延迟愈合或感染；间接后果包括延期卧床引起的肺炎、皮肤溃疡、深静脉血栓和肺栓塞、误吸
+[5]
+。
+总体而言，创伤性脊髓损伤常伴有硬膜破裂和脑脊液漏，胸腰段脊柱损伤并硬膜破裂发生率 18%~36%。颈髓不全损伤最常见，占所有脊髓损伤患者的 70%。
+硬膜破裂的危险因素
+单变量回归分析研究表明：年龄，手术类型，性别和糖尿病为硬膜破裂的危险因素。鉴于单变量分析受限于混杂因素；多变量回归分析则提示年龄，腰椎手术和翻修手术为硬膜破裂的危险因素
+[6-8]
+。
+我们从颈椎和胸腰椎分别阐述。
+1. 颈椎手术
+颈椎退变性疾病前路手术，脑脊液漏的发生率 0.5%~3%，后纵韧带骨化则高，4.3% 到 32%。危险因素为男性、前路翻修手术
+[9,10]
+。对创伤患者，硬膜损伤最常见于外伤当时。
+韩国学者 Lee 等
+[11]
+研究表明神经功能差和 MRI 黄韧带损伤可预测颈椎损伤手术脑脊液漏。该研究共纳入 134 例急性颈椎损伤的连续病例中，行前路或前后联合手术的 53 例患者。7 例（13.2%）硬膜破裂，术中脑脊液漏，男女比例 6:1，平均年龄 44.7 岁。术前美国脊柱损伤学会评分低与脑脊液漏显著相关。MRI 上黄韧带破裂与脑脊液漏相关（图 1）。
+图 1 C6~7 颈髓损伤的术前 MRI。矢状面 T2 相 MRI 示前纵韧带和椎间盘破裂（A），后纵韧带损伤（B）和黄韧带破裂（C）。术中确认该病例硬膜损伤，脑脊液漏
+2. 胸腰椎手术
+美国学者 Du 等
+[12]
+的前瞻性病例对照研究，确定了胸腰椎手术中硬膜破裂的危险因素和保护因素。该研究采用前瞻性数据库中 2010~2011 年行胸腰段或腰椎手术的 4822 例患者，硬膜破裂发生率为 4.0%（191/4822），符合条件者 182 例。167 例（91.9%）缝合修复，15 例无法修复的以 Duraseal 膜密封系统和脂肪移植覆盖。缝合与覆盖的患者，在住院时间和感染率方面无明显差异。
+多变量回归分析确定：脊柱翻修手术（风险比 4.78），椎板切除术（风险比 3.82）和高龄（风险比 1.03）为硬膜破裂的独立危险因素。融合（风险比 0.59），经椎间孔切除术（风险比 0.42）和侧方入路（风险比 0.29）为硬膜破裂的独立保护因素。
+硬膜破裂之治疗策略
+硬膜破裂的治疗策略，因硬膜破裂部位（颈椎、胸腰抑或腰椎）、大小而异。目前文献中报道不一，总体而言分为修复（缝合或补片覆盖）和不修复（维蛋白胶喷洒于损伤处）两种策略，甚至是脑室腹膜分流术以利愈合。
+无论是否修复，一般硬膜破裂术后需卧床一段时间，可能导致住院时间延长，卧床可能导致更多的术后并发症。硬膜修复的目的为包裹神经根，防渗漏的缝合以利于患者早期下地活动。预防脑脊膜突出和脑脊液漏也是首要目标。硬膜如何修复，取决于硬膜破裂的大小和位置。
+1. 不修复之依据
+韩国学者 Lee 等
+[11]
+研究中，对于颈髓损伤硬膜破裂的患者，术中的处理措施包括保留后纵韧带，使用纤维蛋白胶喷洒于损伤处，而未缝合修补。术后若引流液清亮，为脑脊液，则不管引流管多少，24 小时内拔除引流管。患者拔管后不必卧床，可使用轮椅早期活动。若伤口内脑脊液积聚，除非影响气管，观察即可。因随时间推移，脑脊液积聚会逐步消失。但是该研究病例有限且随访时间较短，采取的处理措施仅供参考。颈椎脑脊液漏的正规处理，尚待大样本的研究加以确认。
+美国学者 Adogwa 等
+[13]
+多中心、大宗病例的前瞻性研究，表明硬膜破裂不影响腰椎融合术后 2 年随访疗效。该研究共纳入 2003 年至 2010 年间，美国和加拿大多中心的 1741 例腰椎初次融合手术患者（18~70 岁之间），70 例患者发生了硬膜破裂（4%）。与对照组（1671 例）相比，术后感染、再手术或有症状的神经损害无明显统计学差异。术后 1 年和 2 年随访，患者自述的相关指标，包括腰痛，腿痛或残障指数无明显差异。
+亦有学者报道腰椎间盘切除术中硬膜破裂 10 年随访，其腰痛，腿痛和服用镇痛药的情况，与未发生者，无明显差异。
+英国学者 Grannum 等
+[14]
+病例对照研究表明：初次腰椎减压术中硬膜破裂，不缝合或可致优良的远期疗效。该研究共纳入该科室 8 年间 200 例行初次腰椎减压手术的病例，19 例（9.5%）发生硬膜破裂，其中 1 例缝合修复。硬膜破裂的大小以 0.5 cm 界定。术后平均卧床时间为 2.6 天（2~4 天）。硬膜破裂者平均随访时间为 5.1 年，未破裂者 4.9 年。术前评分类似，术后 6 月时所有反映临床疗效的评分均有明显改善。最终随访时，硬膜破裂组除 SF36 评分类似外，其余临床疗效评分均优于无破裂组。
+2. 不缝合修复之反思
+既往认为，术中硬膜破裂处理的金标准为缝合修复。其它修复方法包括以脂肪、筋膜或肌肉组织覆盖，纤维蛋白胶或胶原基质覆盖。Grannum 等的研究提供了非缝合修复硬膜破裂的长期疗效观察依据。
+诚然，硬膜破裂有时位于前方而无法缝合。缝合修复常可致神经根的狭窄或对下面的马尾神经形成套索。缝合失败率为 5%~9%，缝合产生的针眼可能将本来低压的缺损转为高压的缺损，而导致持续渗漏。
+3. 修复之依据
+传统而言，硬膜破裂后修复为金标准，尤其是对于硬膜撕裂、硬膜损伤范围大者，若不予以缝合修复，脊髓或马尾神经可从破口疝出，压力增高、嵌顿，可能导致严重的神经症状。文献中不缝合修复之依据，多为腰椎，且硬膜破裂以 0.5 cm 为界。这一点值得学界同仁关注。
+4. 修复之技术
+硬膜修复技术包括简单间断缝合、密封剂、激光组织吻合、可吸收材料、不同类型的移植物和补片。缝合技术基于手术医师的偏好，目的为严密缝合不渗漏。显微缝合角度而言，简单间断缝合技术为金标准。与连续锁定缝合相比、费时，但结果类似。
+美国学者 Dafford 等
+[5]
+的研究表明：6-0 聚丙烯缝线+水凝胶或纤维蛋白胶可有效修复硬膜破裂。该研究构建长 1 cm 的硬膜破裂模型。测试的缝线两种：5-0 surgilon 编织缝线，单丝 6-0 聚丙烯缝线。缝合技术两种：间断缝合和连续锁定缝合，针距 1~1.4 mm，外科结。封闭剂三种：密封剂 Dermabond（氰基丙烯酸正丁酯），纤维蛋白胶 Evicel（纤维蛋白 + 凝血酶），水凝胶 Duraseal。封闭剂作为 6-0 聚丙烯缝线连续缝合的辅助修复剂。
+结果显示，6-0 聚丙烯缝线比 5-0 surgilon 编织缝线泄漏流量低。连续缝合与间断缝合泄漏流量无明显差异。绝大多数情况下，渗漏见于缝线周围的针眼。水凝胶和密封剂可使渗漏区域降低 80%，而纤维蛋白胶仅 38%，而三种密封剂在渗漏率方面无显著差异。
+从而表明，6-0 聚丙烯缝线、间断或连续缝合，在修复硬膜破裂时效果最好。如果针眼有渗漏，辅以水凝胶或纤维蛋白胶可立即提高修复强度。
+小结
+1. 硬膜破裂为脊柱外科较为常见的手术并发症，发生率报道不一，与样本量和研究性质息息相关。危险因素包括：外伤、翻修手术、椎板切除术和高龄。
+2. 硬膜破裂的治疗策略，因硬膜破裂部位（颈椎、胸腰或腰椎）、大小而异。无论是否修复，一般硬膜破裂术后需卧床一段时间，可能导致住院时间延长，卧床可能导致更多的术后并发症。亦有腰椎硬膜较小的破裂不修复不影响疗效之依据。
+3. 硬膜修复的目的为包裹神经根，防渗漏的缝合以利于患者早期下地活动。预防脑脊膜突出和脑脊液漏也是首要目标。硬膜如何修复，取决于硬膜破裂的大小和位置。缝合修复以 6-0 聚丙烯缝线+封闭剂封闭效果最优。
+参考文献
+1. Sansur CA , Smith JS , Coe JD , et al. Scoliosis Research Society morbidity and mortality of adult scoliosis surgery . Spine (Phila Pa 1976) 2011;36: E593–7.
+2. Saxler G, Kramer J, Barden B, et al. The long-term clinical sequelae of incidental durotomy in lumbar disc surgery. Spine 2005;30: 2298–302.
+3. Hannallah D, Lee J, Khan M, et al. Cerebrospinal fluid leaks following cervical spine surgery. J Bone Joint Surg Am 2008;90A:1101–5.
+4. Nasser R , Yadla S , Maltenfort MG , et al. Complications in spine surgery . J Neurosurg Spine 2010;13 : 144–57.
+5. Dafford EE, Anderson PA. Comparison of dural repair techniques. Spine J. 2015 May 1;15(5):1099-105.
+6. Teli M, Lovi A, Brayda-Bruno M, et al. Higher risk of dural tears and recurrent herniation with lumbar microendoscopic discectomy. Eur Spine J 2010;19:443–50.
+7. Jankowitz BT, Atteberry DS, Gerszten PC, et al. Effect of fibrin glue on the prevention of persistent cerebral spinal fluid leakage after incidental durotomy during lumbar spinal surgery. Eur Spine J 2009; 18: 1169–74.
+8. Tafazal SI, Sell PJ. Incidental durotomy in lumbar spine surgery: incidence and management. Eur Spine J 2005; 14: 287–90.
+9. Joseph V, Kumar GS, Rajshekhar V.  Cerebrospinal fluid leak during cervical corpectomy for ossified posterior longitudinal ligament: incidence, management, and outcome. Spine 2009; 34:491–494.
+10. Mazur M, Jost GF, Schmidt MH, Bisson EF. Management of cerebrospinal fluid leaks after anterior decompression for ossification of the posterior longitudinal ligament: a review of the literature. Neurosurg Focus 2011; 30:E13.
+11. Lee SE, Chung CK, Jahng TA, Kim CH. Dural tear and resultant cerebrospinal fluid leaks after cervical spinal trauma. Eur Spine J 2014 Aug;23(8):1772-6.
+12. Du JY, Aichmair A, Kueper J, Lam C, Nguyen JT, Cammisa FP, Lebl DR. Incidental durotomy during spinal surgery: a multivariate analysis for risk factors. Spine (Phila Pa 1976) 2014 Oct 15;39(22):E1339-45.
+13. Adogwa O, Huang MI, Thompson PM, Darlington T, Cheng JS, Gokaslan ZL, Gottfried ON, Bagley CA, Anderson GD, Isaacs RE. No difference in postoperative complications, pain, and functional outcomes up to 2 years after incidental durotomy in lumbar spinal fusion: a prospective, multi-institutional, propensity-matched analysis of 1,741 patients. Spine J. 2014 Sep 1;14(9):1828-34.
+14. Grannum S, Patel MS, Attar F, Newey M. Dural tears in primary decompressive lumbar surgery. Is primary repair necessary for a good outcome? Eur Spine J. 2014 Apr;23(4):904-8.

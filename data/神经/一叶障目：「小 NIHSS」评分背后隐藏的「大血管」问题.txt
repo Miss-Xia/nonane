@@ -1,0 +1,60 @@
+一叶障目：「小 NIHSS」评分背后隐藏的「大血管」问题
+再论 NIHSS 评分看似老生常谈，实则见微知著。今日旧题新讲，缘于近日「小 NIHSS+大血管」患者扎堆涌现。提及小卒中（NIHSS ≤ 3 分），众人皆知其良好预后，双抗罢了，殊不知一叶障目，背后「暗藏杀机」--大血管闭塞犹如不定时炸弹伺机而发。这不禁让我对 NIHSS 评分预测大血管闭塞的灵敏度半信半疑。
+翻阅近十年来国内外文献，终知各家目前对 NIHSS 评分预测大血管闭塞的相关性仍存争议。统而言之，概括三点：
+1. NIHSS 评分对急性缺血性卒中大血管闭塞是否有预测价值；
+2. NIHSS 评分是否存在准确预测大血管闭塞的截断值；
+3. NIHSS 评分对预测大血管闭塞的准确性是否存在时间依赖性。
+NIHSS & 大血管闭塞相关性
+目前基本达成共识，即 NIHSS 评分对急性缺血性卒中大血管闭塞确有预测价值。
+早在 2005 年，Fischer 等学者就在 Stroke 杂志发表了一个纳入了 226 例缺血性脑卒中患者的研究，研究结论得出 NIHSS 评分与血管闭塞事件和闭塞部位显著相关。
+2013 年在 Storke 发表的一篇纳入 2152 例缺血性脑卒中患者的研究得出了进一步的结论：NIHSS 评分与前循环血管闭塞（包括大血管）有很高的相关性。
+国内学者范文平等也在一个小样本（100 例）研究中认为基线 NIHSS 评分对急性缺血性卒中患者的大血管闭塞具有一定的预测价值，尤其对于前循环大血管闭塞的预测价值较高。
+但也有不同发声，Maas 等的研究显示：虽然 NIHSS 评分对大血管闭塞的阳性预测值可以达到 0.81，但灵敏度仅有 0.48，即预示着大概有一半多的患者漏诊，这又让我在文初提及的对 NIHSS 预测大血管闭塞灵敏度的怀疑产生信心，但细嚼全文，其将大脑前动脉 A1/A2 段，基底动脉颅外段等也纳入大血管范畴，而这些血管的闭塞所引起的神经功能缺损症状并不严重。
+综上所述，针对 NIHSS 评分对急性缺血性卒中大血管闭塞的预测价值是值得肯定的。
+cut-off
+在循证医学和精准医学当道的今天，大家凡事要追求一个可以定量、最好是无限接近于「金标准」的标准。针对第二个争议，即 NIHSS 评分是否存在准确预测大血管闭塞的截断值呢？废话不多说，干货奉上！
+表 1 NIHSS 评分与大血管闭塞之间的关系
+纵观以上数个研究，对 NIHSS 评分预测大血管闭塞的截断值仍然有所出入，但有一点可以肯定的是 NIHSS 评分对于前循环大血管闭塞的预测价值高于后循环。而预测后循环的相关量表，之前我科已在神经时间发文，在此不赘述。
+时间依赖性
+表 2 NIHSS 评分与大血管闭塞之间相关性的时间依赖性
+第二个研究不仅证实了第一个研究的结论，而且还给第一个研究加以补充和拓展延伸。
+图 1 NIHSS 与大血管闭塞相关性的时间依赖性（Stroke. 2013;44:1153-1157）
+通过上述文献的分析，可以得出如下结论：
+1. NIHSS 评分完全可以作为预测缺血性脑卒中大血管闭塞的工具；
+2. NIHSS 评分在预测后循环大血管闭塞时的灵敏度较差；
+3. NIHSS 评分在预测大血管闭塞时有时间依赖性，发病超过 6 小时后的预测准确性差。
+这让我们在临床工作中有效且合理利用 NIHSS 评分量表来评估缺血性脑卒中神经功能缺损严重程度，给急性缺血性卒中治疗方案的决策提供依据。
+另辟蹊径，别有暗香
+基于 NIHSS 评分量表纷繁复杂，是否有简单高效的评估量表可以挑战 NIHSS 评分量表呢，查阅文献，发现近年来有个把研究已经进行了相关报道，于此列举一二，望能笑纳。
+表 3 各类评估量表比较
+2008 年 Bijen 等研究者设计了一个供院前和门诊使用的评估量表 Los Angeles Motor Scale（LAMS）量表（图 2），该量表纳入面瘫、上臂抬起、握力三项。
+图 2 LAMS 量表（Stroke. 2008;39:2264-2267）
+同样，在 2014 年 Stroke 杂志发表的一个纳入 654 个病例的研究中，其设计的 Rapid Arterial oCclusion Evaluation（RACE）量表（图 3），共有 5 个评估项目，分别为面瘫、上肢运动、下肢运动、凝视、失语（优势半球侧）或失用（非优势半球侧）。
+图 3 RACE 评分（Stroke. 2014;45:87-91）
+2016 年 7 月，在一项丹麦国家脑卒中中心的大样本队列研究中，其设计并验证了 Prehospital Acute Stroke Severity（PASS）量表，该量表仅仅纳入了意识水平提问、凝视和上肢肌力三项评估项目（图 4）。
+图 4 PASS 量表（Stroke. 2016;47:1772-1776）
+一个月后，即 2016 年 8 月，Stroke 杂志发表了另一个研究，该研究设计了 Field Assessment Stroke Triage for Emergency Destination（FAST-ED）量表（图 5），结论认为 FAST-ED 量表有比之前提及的 RACE 量表有更高的预测准确性。当然还有 Cincinnati Prehospital Stroke Severity（CPSS）量表、3-Item Stroke Scale（3ISS）量表等，在此不再一一枚举。
+图 5 FAST-ED 量表（Stroke. 2016;47:1997-2002）
+通过上述各个量表分析发现，有 2 个评估项目「凝视」和「意识水平提问」分外惹眼，回顾范文平等的研究，其分析得出「凝视」和「意识水平提问」为大血管闭塞的独立危险因素。再纵观 RACE 量表、PASS 量表和 FAST-ED 量表，尽管有些量表所涵盖的评估项目较少，但「凝视」、「意识水平提问」和「上肢运动」基本都予以涵盖。
+这给我们一个提示，即不管上述众多量表是否能够真正得以推广应用于临床，当我们在临床实践中，发现有合并「意识水平提问」、「凝视」和「上肢运动障碍」三项中的一项或多项时，我们需要高度怀疑可能有大血管闭塞存在。
+就算静脉溶栓已经启动，也应该尽快 CTA 或 DSA 明确血管闭塞情况，为后续的血管内开通赢取宝贵时间，切记不能为溶栓所耽误，因为大血管溶通率很低。
+小 NIHSS+大血管，保守或积极？
+再回到文中最初提及的低 NIHSS 评分合并大血管闭塞，尽管 NIHSS 评分对预测大血管闭塞有较高的灵敏度，但是仍存在漏诊，而在临床实践中我们也真真切切遇见过这样的病例，针对此，我们是按照指南所说的对于小卒中进行双抗，还是尽早溶栓或（和）启动血管内治疗呢？
+我想大多数医者倾向于尽早启用更加积极的方法，因为低 NIHSS 评分合并大血管闭塞很多时候是大血管的慢性闭塞，已经有侧枝开放，但终究因为代偿不完全而发病，这种情况下病情往往会进一步恶化。
+尽管道理如此，但我们还是需要靠数据说话，哪怕是小样本的证据也能给我们坚持血管内治疗的医者予以信心。我们来看 2014 年 J Neurol Neurosurg Psychiatry 杂志发表的关于 NIHSS 评分 ≤ 5 分合并有颈内动脉或大脑中动脉闭塞的病人中进行静脉溶栓和非静脉溶栓后的临床转归的研究。
+该研究从 5312 例样本中找到 88 例平均 NIHSS ≤ 5.47 分合并有劲内动脉或大脑中动脉闭塞的病例，其中 47 例（53.4%）未进行静脉溶栓或任何一种血管内治疗，41 例（46.6%）给予了静脉溶栓或（和）血管内治疗。
+研究数据表明非静脉溶栓或血管内治疗组在 24 小时后神经功能加重者达到 22.7%，溶栓或血管内治疗组 24 小时后神经功能加重者为 10.3%。住院期间非静脉溶栓或血管内治疗组神经功能加重者达到 33.3%，溶栓或血管内治疗组神经功能加重者为 12.5%，而 3 个月后分别为 41.4% 和 15%，同时溶栓发生症状性颅内出血率为 4.9%。
+这些数据表明，低 NIHSS 评分合并大血管闭塞进行溶栓和血管内治疗虽然有一定的出血风险，但是更能获益。更多的证据还需要大样本，多中心的数据支持。
+最后总结一下，NIHSS 评分量表是脑卒中评估的一个重要工具，高效、适时和辩证施用才能够起到充分评估病情、精准决策治疗的作用。
+参考文献
+1.Urs Fischer, MD; Marcel Arnold, MD; Krassen Nedeltchev, MD et al. NIHSS Score and Arteriographic Findings in Acute Ischemic Stroke. Stroke. 2005;36:2121-2125.
+2. Mirjam R. Heldner, MD; Christoph Zubler, MD; Heinrich P. Mattle, MD et al. National Institutes of Health Stroke Scale Score and Vessel Occlusion in 2152 Patients With Acute Ischemic Stroke. Stroke. 2013;44:1153-1157.
+3. 范文平, 刘文华, 聂时南, 马敏敏, 韩云飞, 代齐良, 熊云云, 肖露露, 孙文, 李华, 李敏, 殷勤, 樊小兵, 朱武生, 刘新峰。NIHSS 评分对急性缺血性卒中患者大血管闭塞的预测价值。国际脑血管病杂志，2014 年 11 月第 22 卷第 11 期。
+4.Maas MB'Fllrie KL，Lev MH』et a1．National Institutes of Health Stroke Scale score is poorly predictive of proxhnal occlusion in acute cerebral ischemia．Stroke，2009，40：2988-2993．
+5. 戴威, 付睿, 席春江, 赵星辉, 黄栋, 张彤。急性缺血性卒中患者 NIHSS 评分与血管闭塞的相关性研究。实用医学杂志 2014 年第 30 卷第 11  期。
+6.Ohvarrfa w，Delgado I，Hoppe et a1．validity of the NIHSS in predicting arterial occlusion in cerebral infarction is time-dependent．Neurology．2011．76：62-68．
+7. Bijen Nazliel, MD; Sidney Starkman, MD; David S. Liebeskind, MD et al. A Brief Prehospital Stroke Severity Scale Identifies Ischemic Stroke Patients Harboring Persisting Large Arterial Occlusions. Stroke. 2008;39:2264-2267.
+8. Natalia Pérez de la Ossa, MD, PhD; David Carrera, MD; Montse Gorchs, BD et al. Design and Validation of a Prehospital Stroke Scale to Predict Large Arterial Occlusion The Rapid Arterial Occlusion Evaluation Scale. Stroke. 2014;45:87-91.
+9. Sidsel Hastrup, MD; Dorte Damgaard, MD, PhD; Søren Paaske Johnsen, MD, PhD et al. Prehospital Acute Stroke Severity Scale to Predict Large Artery Occlusion Design and Comparison With Other Scales. Stroke. 2016;47:1772-1776.
+10. Fabricio O. Lima, MD, MPH, PhD; Gisele S. Silva, MD, MPH, PhD; Karen L. Furie, MD, MPH et al. Field Assessment Stroke Triage for Emergency Destination A Simple and Accurate Prehospital Scale to Detect Large Vessel Occlusion Strokes. Stroke. 2016;47:1997-2002.
+11. Mirjam R Heldner,Simon Jung,Christoph Zubler et al. Outcome of patients with occlusions of the internal carotid artery or the main stem of the middle cerebral artery with NIHSS score of less than 5: comparison between thrombolysed and non-thrombolysed patients.J Neurol Neurosurg Psychiatry .2014;0:1–6.

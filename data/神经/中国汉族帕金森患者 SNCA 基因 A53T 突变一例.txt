@@ -1,0 +1,15 @@
+中国汉族帕金森患者 SNCA 基因 A53T 突变一例
+α-synuclein 基因（SNCA）是 1997 年发现的第一个家族性帕金森病（Parkinson disease，PD）遗传基因，点突变（A53T、A30P、E46K、H50Q）及拷贝数变异（二倍体、三倍体、四倍体）是其常见致病突变类型。
+全世界范围内携带此基因突变的 PD 家系及散发 PD 患者很少，目前报道约 50 个左右，多集中于意大利、希腊裔。点突变中以 A53T 最常见。亚洲人群中报道罕见，而中国人群中未见报道。
+新近报道了一例携带 SNCA A53T 突变的中国汉族散发性 PD 患者，总结了临床及家系特点。结果发表在 2016 年 7 月 J Neurol 杂志上。
+在用二代测序筛查了 91 名早发性 PD 或家族性 PD 患者 PD 相关基因后，发现一例 SNCA A53T 突变的患者，后对 200 名正常人对照的相同位点进行筛查，未发现突变。
+该患者为男性，23 岁，因「右肢震颤，行动变慢 18 个月」就诊。无 PD 家族史，起病年龄为 21 岁。查体发现面具脸，静止性震颤、肌张力增高及嗅觉减退，无明显异动。H&Y 为 3 级，MMSE29 分，各项认知评分无明显下降。头颅 MRI（-）。DAT-PET 显示双侧尾状核、壳核 DAT 结合降低（见图）。
+FDG-PET 显示典型 PD 模式，PDRP（Parkinson’s disease-related spatial covariance pattern）评分为 4.71。该患者使用美多芭和金刚烷胺治疗，效果好。
+进一步对该患者父母进行检测发现其母为 SNCA A53T 携带者，父亲未携带（见图 1）。患者母亲无 PD 症状主诉，但进一步行精细运动检测发现该携带者双上肢精细运动略差，右侧更差。其 DAT-PET 显示双侧壳核和尾状核 DAT 结合轻度下降，左侧明显，FDG-PET 显示前运动和后顶叶皮层代谢轻度下降，PDRP 模式与患者不同（见图 2），PDRP 值为 2.78。
+图 1 患者系谱图
+图 2 患者 PDRP 模式
+进一步回顾既往报道的 SNCA A53T 突变患者，均为杂合突变，大部分为高加索人，仅一例韩国人，起病年龄为 20～85 岁。大部分患者有家族史。对多巴制剂反应好。
+SNCA 突变的 PD 患者大多青中年起病，进展较快，常合并认知功能受损。点突变的外显不全在其他 SNCA 突变家系中也有报道，二倍体的外显率约为 33%，而多倍体则多为完全外显。
+本研究首次报道了中国汉族人群中 SNCA 突变的 PD 患者临床及影像特点，提示 SNCA 基因突变在中国 PD 患者中筛查的必要性。
+参考文献
+Xiong WX, Sun YM, Guan RY et al. The heterozygous A53T mutation in the alpha-synuclein gene in a Chinese Han patient with Parkinson disease: case report and literature review. J Neurol. 2016 Jul 8.

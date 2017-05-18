@@ -1,0 +1,40 @@
+老年肾脏病学 2016 年临床研究进展
+肾脏在老年共病中的作用和影响是本年度老年肾脏病学临床研究的重点方向。
+东南大学对南京地区 2452 例社区老年人的流行病学调查发现，老年共病患者占社区老年人群的 49.4%，在所调查的 6 种类型的共病中，「心血管疾病合并糖尿病及肾病」这一共病的比例最高，达 22.4%
+[1]
+。
+来自荷兰的一项对 2987 例中、老年人群（40～75 岁）的前瞻性队列研究结果表明，在整个研究人群中，微量蛋白尿与认知功能减退相关，但在老年人中，微量蛋白尿的发生和肾小球滤过率的下降与认知功能的减退均明显相关
+[2]
+。
+事实上，老年人的肾功能状态与老年共病患者的年龄、衰弱状态以及使用的多种药物均关系密切，即使是在临床上认为比较安全的治疗药物，在老年患者中应用也有可能导致肾功能的损伤。
+美国约翰×霍普金斯大学对 ARIC 研究中 eGFR>60 ml/min/1.72m2 并使用质子泵抑制剂（PPI）的 10482 例平均年龄为 63 岁的患者进行了队列研究，结果发现，在经过各种因素校正后，与未使用 PPI 制剂的人群比较，使用 PPI 的老年人发生慢性肾脏病（CKD）的危险比明显增高（HR 1.50；95% CI, 1.14-1.96）
+[3]
+，当然目前需要证实的是在限制使用 PPI 后，老年 CKD 的发生率是否会降低。
+另外一项美国多中心研究观察了长期使用他汀类药物对肾脏的影响，通过对 12684 例患者（分为使用他汀组和未使用他汀组，每组均为 6342 例）进行配对研究并随访 8.4 年，结果发现，与不使用他汀的患者比较，使用他汀的患者发生急性肾损伤（AKI）或 CKD 的几率明显增加（AKI：OR 1.30, 95% CI 1.14-1.48；CKD：OR 1.36, 95% CI 1.22-1.52），此结果提示在真实世界中患者长期使用他汀类药物与临床试验中有选择性人群的短期使用效应也许并不一致
+[4]
+，在老年人群中更应重视这一问题。
+高血压是老年共病中最多见的症候群，老年人的降压目标一直都有较大的争议。尽管 SPRINT 研究（2636 例患者，平均年龄 79.9 岁）发现将目标收缩压强化降至 120 mmHg 时，老年患者致死性和非致死性心血管事件的发生率以及全因死亡率均明显下降，但 AKI 的发生率却升高了 1.5%
+[5]
+。AKI 尤其是医院内获得性 AKI 是老年患者病死率增加的重要危险因素。
+EACH 研究对中国 9 个主要中心地区的 144232 例成人住院患者（65 岁以上者占 29.63%）AKI 的发生情况进行了研究，结果发现，该人群 AKI 的发生率为 11.6%，而在 65～79 老年患者中，AKI 的发生率为 15.44%，在 80 岁以上的老年人中 AKI 的发生率高达 22.22%。老年和高龄老年人医院内获得性 AKI 的发生率分别为 11.55% 和 15.64%，而病死率分别为 10.3% 和 19.6
+[6]
+。
+对于老年 AKI 危重患者肾脏替代治疗的时机一直有争议，不少临床研究结果均提供了相左的结论。德国的 ELAIN 研究对 231 例平均年龄在 67 岁的 AKI 患者进行了研究，结果发现，与晚期（按 KDIGO 诊断标准，诊断为 AKI 3 期 12 小时内）给予肾脏替代治疗（RRT）相比，早期（诊断为 AKI 2 期 8 小时以内）给予 RRT 者，90 天的病死率明显降低
+[7]
+。
+而法国的 AKIKI 多中心临床研究对 620 例 AKI 3 期的患者在诊断后即开始 RRT（早期）和至少出现一项严重的并发症（如高钾血症、代谢性酸中毒、肺水肿、BUN>112 mg/dl 或少尿 72 小时以上）后才开始 RRT（晚期）比较，两组的 60 天病死率并没有明显的差别，而早期 RRT 组患者发生导管相关感染的比率却明显高于晚期 RRT 组
+[8]
+。
+其实，在临床上老年 AKI 患者病因复杂，很少是肾脏单一发生功能衰竭，AKI 通常是合并有其他脏器功能的不全或衰竭，在老年共病的情况下，治疗决策必须要对患者进行全方位地考虑，治疗方案的个体化对降低患者的病死率、提高生活质量最为重要。
+程庆砾教授简介
+1986年毕业于第三军医大学。现任解放军总医院南楼临床部肾脏病科主任、主任医师、教授，博士研究生导师。兼任中华医学会老年医学分会肾病学组组长等学术职务，担任中华保健医学杂志等杂志的常委或编委。主持承担了3项国家自然科学基金和多项军队和地方的科研基金课题，以第一作者或通讯作者发表论文140余篇，主编4部、副主编3部临床专著、参编十余部专著或教材。曾获得过国家科技进步二等奖，军队科技进步一、二、三等奖及中国中西结合学会科学进步一等奖等奖项。获得过“中央保健工作先进个人”、“全军干部保健工作先进个人”、“解放军总医院临床技术能手”、“解放军医学院教学先进个人”等荣誉。两次荣立个人三等功。
+参考文献
+1，Gu J, Chao J, Chen W, et al. Multimorbidity in the community-dwelling elderly in urban China. Arch Gerontol Geriatr,2017,68:62-67
+2，Martens RJ, Kooman JP, Stehouwer CD, et al. Estimated GFR, albuminuria, and cognitive performance: the Maastricht study. Am J Kidney Dis, doi: 10.1053/j.ajkd.2016.04.017
+3，Lazarus B, Chen Y, Wilson FP, et al. Proton pump inhibitor use and the risk of chronic kidney disease. JAMA Intern Med, 2016,176(2):238-246
+4，Acharya T, Huang J, Tringali S, et al. Statin use and the risk of kidney disease with long-term follow-up (8.4-year study). Am J Cardiol,2016,117(4):647-655
+5，Williamson JD, Supiano MA, Applegate WB, et al. Intensive vs standard blood pressure control and cardiovascular disease outcomes in adults aged ≥ 75 years: a randomized clinical trial. JAMA, 2016 ,315(24):2673-2682
+6，Ge S, Nie S, Liu Z,et al. Epidemiology and outcomes of acute kidney injury in elderly Chinese patients: a subgroup analysis from the EACH study. BMC Nephrol, 2016, 17(1):136
+7，Zarbock A, Kellum JA, Schmidt C, et al Effect of early vs delayed initiation of renal replacement therapy on mortality in critically ill patients with acute kidney injury: The ELAIN randomized clinical trial. JAMA,2016,315(20):2190-2199|
+8，Gaudry S, Hajage D, Schortgen F, et al. Initiation strategies for renal-replacement therapy in the intensive care unit. N Engl J Med,2016,375(2):122-133
+点击查看 2016 年学科大咖年度回顾>>

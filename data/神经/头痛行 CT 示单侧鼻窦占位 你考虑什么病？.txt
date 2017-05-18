@@ -1,0 +1,150 @@
+头痛行 CT 示单侧鼻窦占位 你考虑什么病？
+先看一个病例
+患者女，49 岁，因「头部胀痛 2 月，头颅 CT 发现左侧鼻窦占位 2 周」收入院。患者 2 月前无明显诱因出现头部胀痛，多位于顶枕部交界处，下午重，上午轻，睡眠不佳时胀痛加重，无嗅觉减退，无鼻出血、涕中带血。于我院神经内科行头颅 CT 检查示：左侧上颌窦炎，真菌不除外。遂于我科就诊，既往高血压病史 11 年，5 年前「补牙」（双侧上列牙）病史。
+专科检查：双侧鼻腔粘膜红润，双侧各鼻道未见分泌物、新生物，鼻咽部粘膜光滑、对称，双侧上列牙无坏死、缺失，无叩痛。辅助检查：鼻窦 CT 示（图一）。半乳甘露聚糖检测（GM 实验）和 1,3-β-D 葡聚糖检测（G 实验）均为阴性。
+图 1 A 鼻窦轴位骨窗，可见左侧上颌窦内软组织密度影伴中心圆形极高密度影，周围伴伪影；B、C 分别为鼻窦矢状位和冠状位骨窗
+术前诊断：真菌性鼻窦炎，真菌球。
+专科检查排除手术禁忌后全麻下行内窥镜下上颌窦开放术+窦内病损清除术。术中见左侧上颌窦内大量棕黄色豆渣样真菌团块，团块较硬，不易冲出，抓钳多次抓取+上颌窦大量盐水冲洗，彻底清除窦内病变，钳取窦腔内一小块粘膜，取出物及粘膜均送病理。
+病理回报：坏死物为大量真菌菌丝，窦内粘膜可见慢性炎症反应，未见真菌菌丝。考虑真菌球诊断明确。术后给予抗生素预防感染、内镜下鼻腔清理、鼻腔冲洗。术后 3 天出院。
+真菌性鼻窦炎的 4 种类型
+目前真菌性鼻窦炎的分型主要根据临床表现、组织病理学特征（黏膜是否受侵以及黏膜的反应状态）、治疗方案及预后分为以下 4 种类型
+[1]
+:
+1. 急性侵袭性鼻窦炎（acute invasive fungal sinusitis）
+几乎全部发生于免疫功能低下或缺陷的病人，发病急，病程少于 4 周，病理上以血管侵袭和组织坏死为特征，病情进展迅速，短期内蔓延整个颅面部，危及病人生命，需及时手术治疗和给予抗真菌治疗；
+2. 慢性侵袭性鼻窦炎 (chronic invasive fungal sinusitis)
+多发生于免疫功能轻度异常或正常的人，病情进展较缓慢，病程大于 4 周，真菌在鼻窦内增殖并侵犯黏膜，但血管受侵轻微或缺乏，由于病变极易蔓延到眼眶或海绵窦，病人常伴有眶尖或海绵窦综合征，应手术治疗，术后需辅抗真菌药；
+3. 真菌球 (fungus ball)
+发生于全身免疫状态正常的非特应性病人，症状轻或表现为慢性鼻窦炎症状，但免疫功能下降时可转为侵袭性鼻窦炎，在黏液性基质中可找到浓聚的真菌成分，但真菌不侵犯鼻黏膜，通常仅发生于 1 个鼻窦，以上颌窦最常见，其次为蝶窦
+[2]
+，窦腔可受压扩大，但无侵袭性破坏，手术治疗为最佳治疗方法
+[3]
+；
+4. 变应性真菌性鼻窦炎 (allergic fungal sinusitis)
+多发生于免疫功能正常的特应性病人，病变特征为鼻窦内发现黏蛋白，手术为其首选治疗方法，但易复发，需辅助激素、抗真菌和免疫治疗。
+说说真菌球的事儿
+真菌球为黏膜外的真菌在一个或多个窦内聚积形成的
+[4, 5]
+。真菌球在真菌性鼻-鼻窦炎中发病率最高
+[6]
+，常发生于免疫功能正常者，中老年人偏多，文献报道发病年龄平均 64 岁，目前尚无儿童发病的报道，女性较男性稍多（2:1）
+[2, 7]
+。曲霉菌为真菌球最常见的致病菌
+[2]
+。
+1. 发病机制是什么？
+其发病机制有两种假说
+[5]
+：
+（1）真菌孢子随呼吸通过自然窦口进入，如果窦口不畅可致受累鼻窦形成适合真菌生长的（微）厌氧和偏酸环境，致使窦内真菌孢子繁殖并转变为病态聚积
+[6, 8]
+，但 Tung-Lung Tsai
+[9]
+认为上颌窦真菌球与窦口鼻道复合体的阻塞无直接关系；
+（2）医源性的口鼻窦漏或牙根坏死可引起或促进真菌在上颌窦内定植，尤其是植牙手术中过度使用填充材料
+[10, 11]
+，因填充材料里的锌元素是真菌生长（尤其是曲霉菌）重要的微量元素，且填充材料中的氧化锌可能影响上颌窦粘膜的自洁功能，从而影响了窦内真菌孢子的排出。
+真菌球与鼻腔解剖异常之间的关系不明，鼻中隔偏曲和中鼻甲反向弯曲者在真菌球患者中约占 15%
+[12]
+，与其在正常人群发生率相似。
+2. 有什么临床表现？
+真菌球患者绝大多数无特异性临床表现，国外统计
+[13]
+约 18% 的病人无症状，因此该病的诊断常常被延误，仅 29% 的病人自有症状后在 1 年内得到诊治
+[7]
+。常见症状
+[13, 14]
+与慢性鼻窦炎相似，可有反复鼻塞、脓涕、头痛、咳嗽、面部疼痛等。
+术前鼻内镜检查 52% 病人无明显异常，38% 可见脓涕
+[8]
+。真菌性蝶窦炎内镜检查常可见蝶筛隐窝粘膜水肿。血清学检查真菌皮肤点刺试验及真菌特异性 IgE 常为阴性
+[8]
+，当怀疑为变应性真菌性鼻窦炎时可行此类检查。
+3. 如何诊断？做哪些检查？
+（1）诊断真菌球，首选鼻窦 CT
+对真菌球的诊断较有意义的辅助检查首选鼻窦 CT，90%
+[5]
+真菌球的鼻窦 CT 多表现为受累鼻窦内部分或全部不均匀密度影，10% 受累鼻窦表现为均匀密度影，局部密度增高和边界清晰高密度影出现的概率分别为 50% 和 25%
+[15]
+。
+单窦受累和一侧受累分别占 94% 和 99%
+[7, 8]。
+上颌窦最常受累 94%，其次为蝶窦（4%～8%），筛窦受累多继发于上颌窦病变，额窦受累占 2%
+[7]
+。中心高密度影与受累鼻窦各壁骨质间有低密度影间隙（图 2）
+[16]
+，近 60% 受累鼻窦窦壁骨质可见硬化
+[17]
+。
+图 2
+因此，单侧受累鼻窦内占位伴高密度影及窦壁骨质硬化应高度怀疑真菌球的诊断。
+有 4%～17% 病例可见受累鼻窦骨质侵蚀性破坏，曾有学者认为其为界于侵袭性和非侵袭性之间的一种病变
+[18]
+，但在 Klossek 的研究中并未见粘膜内有真菌侵入
+[8]
+，骨质的侵蚀破坏可能与真菌生长引起来的炎症反应及继发的细菌感染有关。
+本患者鼻窦 CT 是左侧上颌窦内圆形极高密度影，形态规则，患者既往有植牙史，曾怀疑是否为金属异物，但患者否认。目前对受累鼻窦内「金属点」的本质仍有争议，Stammberger 认为其为真菌聚积及其代谢产物形成的结石
+[15]
+，其他学者认为其与牙齿根管治疗时使用过多填充材料有关
+[11, 19]
+。
+（2）核磁不是必须的，但有些情况要做
+核磁对真菌性鼻窦炎的诊断不是必须的，但当鼻窦 CT 示受累鼻窦内均匀密度影或窦壁骨质有明显破坏及伴眶内颅内侵犯时仍需行核磁检查以进一步鉴别诊断，在 T1 加权像上真菌球呈混杂偏低信号影，T2 加权像上与脑组织相比呈等或低信号影，甚至呈信号缺失，易误诊为空气，真菌周围水肿粘膜呈高信号影。
+（3）微生物培养常阴性，最终确诊靠病理
+真菌培养常呈阴性，阳性率仅 23%～50%
+[13]
+，此结果可能与真菌球内真菌低活性有关。93% 培养结果为曲霉菌
+[8]
+。
+单侧反复发作鼻窦炎症状应怀疑该病，行鼻窦 CT 检查如发现单侧鼻窦内软组织密度影，伴中心金属样高密度影，且病人无鼻腔异物史时应高度怀疑该病。因微生物培养常呈阴性结果，该病最终确诊靠组织病理学。
+Klossek
+[8]
+认为术中见到灰白色豆渣样物，术后组织病理学检查见到真菌菌丝，且粘膜内无真菌侵入，血清学检查呈阴性结果时才能诊断真菌球。
+4. 如何治疗？
+（1）手术是最佳治疗
+真菌球的最佳治疗方法是手术治疗。病人有症状伴受累鼻窦内不均匀密度影可考虑手术，当病人无症状伴受累鼻窦内均匀密度影时可先口服药物治疗，如无效则提示为非普通炎症，可能为肿瘤或真菌
+[20-22]
+，可考虑手术治疗，因有真菌球伴发肿瘤的报道
+[23]
+。
+（2）手术关键：保证受累鼻窦充分引流，彻底清除窦内真菌团块
+手术关键是保证受累鼻窦的充分引流及彻底清除窦内真菌团块，必要时上颌窦真菌可中鼻道开窗联合下鼻道开窗，额窦真菌可内外径路联合或行 DrafIII 术式。当受累鼻窦内出现牙根填充材料时需尽可能彻底清除，以避免其诱发真菌的复发或生长
+[5]
+。尽可能保留窦内粘膜，但必须抓取一小块组织送病理以排除侵袭性的可能。有学者建议术中用爱尔碘冲洗窦腔
+[24]
+。
+（3）一般不需局部或全身抗真菌治疗
+真菌球不需要接受局部或全身抗真菌治疗
+[8]
+，术中或术后有感染的可使用广谱抗生素，其他治疗包括数周的鼻喷激素和生理盐水冲洗鼻腔
+[2]
+。有学者建议免疫功能受损患者如并发真菌球，可加用全身抗真菌药
+[13]
+，尤其是伴有受累鼻窦骨质受侵患者。
+内窥镜下彻底清除真菌团块后很少复发，复发主要因窦内真菌球未彻底清除干净，可能与窦腔粘膜过度水肿，使少量真菌团块埋藏其中所致。
+本文作者：李世昌，北京大学人民医院耳鼻喉科
+References:
+[1]. Ferguson, B.J., Definitions of fungal rhinosinusitis. Otolaryngol Clin North Am, 2000. 33(2): p. 227-35.
+[2]. Dufour, X., et al., Paranasal sinus fungus ball and surgery: a review of 175 cases. Rhinology, 2005. 43(1): p. 34-9.
+[3]. DeShazo, R.D., et al., Criteria for the diagnosis of sinus mycetoma. JOURNAL OF ALLERGY AND CLINICAL IMMUNOLOGY, 1997. 99(4): p. 475-485.
+[4]. Watts, J.C. and F.W. Chandler, Fungal sinusitis. N Engl J Med, 1997. 337(22): p. 1633; author reply 1633-4.
+[5]. Grosjean, P. and R. Weber, Fungus balls of the paranasal sinuses: a review. Eur Arch Otorhinolaryngol, 2007. 264(5): p. 461-70.
+[6]. Seo, Y.J., et al., Radiologic characteristics of sinonasal fungus ball: an analysis of 119 cases. Acta Radiol, 2011. 52(7): p. 790-5.
+[7]. Barry, B., M. Topeza and P. Gehanno, [Aspergillosis of the paranasal sinus and environmental factors]. Ann Otolaryngol Chir Cervicofac, 2002. 119(3): p. 170-3.
+[8]. Klossek, J.M., et al., Functional endoscopic sinus surgery and 109 mycetomas of paranasal sinuses. Laryngoscope, 1997. 107(1): p. 112-7.
+[9]. Tsai, T.L., et al., The role of ostiomeatal complex obstruction in maxillary fungus ball. Otolaryngol Head Neck Surg, 2006. 134(3): p. 494-8.
+[10]. Nicolai, P., et al., Maxillary fungus ball: zinc-oxide endodontic materials as a risk factor. Acta Otorhinolaryngol Ital, 2015. 35(2): p. 93-6.
+[11]. Beck-Mannagetta, J., D. Necek and M. Grasserbauer, Solitary aspergillosis of maxillary sinus, a complication of dental treatment. Lancet, 1983. 2(8361): p. 1260.
+[12]. Klossek, J.M., et al., Aspergillomas of the sphenoid sinus: a series of 10 cases treated by endoscopic sinus surgery. Rhinology, 1996. 34(3): p. 179-83.
+[13]. Ferguson, B.J., Fungus balls of the paranasal sinuses. Otolaryngol Clin North Am, 2000. 33(2): p. 389-98.
+[14]. Fanucci, E., et al., Diagnosis and treatment of paranasal sinus fungus ball of odontogenic origin: case report. Oral Implantol (Rome), 2013. 6(3): p. 63-6.
+[15]. Stammberger, H., R. Jakse and F. Beaufort, Aspergillosis of the paranasal sinuses x-ray diagnosis, histopathology, and clinical aspects. Ann Otol Rhinol Laryngol, 1984. 93(3 Pt 1): p. 251-6.
+[16]. Som, P.M., et al., Hypointense paranasal sinus foci: differential diagnosis with MR imaging and relation to CT findings. Radiology, 1990. 176(3): p. 777-81.
+[17]. Ferreiro, J.A., B.A. Carlson and D.R. Cody, Paranasal sinus fungus balls. Head Neck, 1997. 19(6): p. 481-6.
+[18]. Rowe-Jones, J.M. and V. Moore-Gillon, Destructive noninvasive paranasal sinus aspergillosis: component of a spectrum of disease. J Otolaryngol, 1994. 23(2): p. 92-6.
+[19]. Legent, F., et al., The role of dental canal fillings in the development of Aspergillus sinusitis. A  report of 85 cases. Arch Otorhinolaryngol, 1989. 246(5): p. 318-20.
+[20]. Eichel, B.S., The medical and surgical approach in management of the unilateral opacified antrum. Laryngoscope, 1977. 87(5 Pt 1): p. 737-50.
+[21]. Shaw, C.L., M. McCleave and P.J. Wormald, Unusual presentations of isolated sphenoid fungal sinusitis. J Laryngol Otol, 2000. 114(5): p. 385-8.
+[22]. Kaplan, B.A. and S.E. Kountakis, Diagnosis and pathology of unilateral maxillary sinus opacification with or without evidence of contralateral disease. Laryngoscope, 2004. 114(6): p. 981-5.
+[23]. Tanaka, T., et al., Coexistence of aspergillosis and squamous-cell carcinoma in the maxillary sinus proven by preoperative cytology. Acta Cytol, 1985. 29(1): p. 73-8.
+[24]. Chobillon, M.A. and R. Jankowski, What are the advantages of the endoscopic canine fossa approach in treating maxillary sinus aspergillomas? Rhinology, 2004. 42(4): p. 230-5.

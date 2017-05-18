@@ -1,0 +1,23 @@
+2016 国际阿尔茨海默病大会热点：解析 Aβ与 Tau 的「恩怨情仇」
+在刚过去的一周中，由美国阿尔茨海默病协会（Alzheimer’s Association, AA）主办的本年度阿尔茨海默病国际会议（Alzheimer’s Association International Conference, AAIC）在加拿大多伦多顺利召开。AAIC 可说是阿尔茨海默病（AD）领域一年一度的盛会，AD 届的国际大咖们在这里分享最前沿的研究成果，本届会议吸引了来自 70 多个国家和地区的 5000 余名学者参加，中国大陆地区也有近百名专家参会。接下来，分享一些本次参会的心得体会：
+Aβ与 Tau 的「恩怨情仇」
+自 1906 年 Alzheimer 医生发现 AD 并描述其病理特征以来，Aβ与 Tau 蛋白的研究就一直是 AD 机制探索的两大方向，而多年以来，Aβ无论在基础研究、生物标志物开发、分子显像和药物研发领域，均占据主导位置。然而，随着 Aβ靶向治疗的屡屡受挫，则有些你方唱罢我登场的意味。目前认为，Tau 蛋白相关的病理改变，与 Aβ相比，其脑内播散进程与临床症状更为相关，更能反映疾病严重度。
+图 1 阿尔茨海默病进展不同阶段的淀粉样斑和纤维缠结分布
+在本次 AAIC 首日的大会发言中，来自美国圣路易斯华盛顿大学的 David M Holtzman 教授就其多年来针对 Tau 蛋白的基础研究结果作了介绍。
+他的工作主要发现，如同 Aβ一样，体内可溶性 Tau 与不可溶性 Tau 在病理情况下出现失衡，后者大大增加，导致 Tau 蛋白的聚集，而聚集状态的 Tau 有如 Prion 一样在脑内播散，激活小胶质细胞，导致神经元丢失，而损害相应脑区的神经功能。通过现代微透析技术，人们能实时监测 Tau 的动态水平，而由此衍生的主动免疫和被动免疫治疗，则已在动物实验中显现了非常乐观的前景。
+图 2 认知功能损害的 Tau-PET 显像
+目前 Tau 蛋白领域正亦步亦趋地循着 Aβ思路飞速发展，从体液标志物检测到分子 PET 显像，再到主动免疫、疫苗的开发，有关 Tau 的免疫治疗已有不少试验发表，有兴趣者可参考下列论著。
+Tau 主动免疫
+Bi, M., Ittner, A., Ke, Y.D., Gotz, J., and Ittner, L.M. (2011). PLoS One 6, e26860.
+Boimel, M., Grigoriadis, N., Lourbopoulos, A., Haber, E., Abramsky, O., and Rosenmann, H. (2010). Exp Neurol 224, 472-485.
+Asuni, A.A., Boutajangout, A., Quartermain, D., and Sigurdsson, E.M. (2007). J Neurosci 27, 9115-9129. Boutajangout, A., Quartermain, D., and Sigurdsson, E.M. (2010). J Neurosci 30, 16559-16566.
+Troquier, L., Caillierez, R., Burnouf, S., Fernandez-Gomez, F.J., Grosjean, M.E., Zommer, N., Sergeant, N., Schraen-Maschke, S., Blum, D., and Buee, L. (2012). Curr Alzheimer Res 9, 397-405.
+Tau 被动免疫
+Boutajangout, A., Ingadottir, J., Davies, P., and Sigurdsson, E.M. (2011). J Neurochem 118, 658-667.
+Chai, X., Wu, S., Murray, T.K., Kinley, R., Cella, C.V., Sims, H., Buckner, N., Hanmer, J., Davies, P., O'Neill, M.J., et al. (2011). J Biol Chem 286, 34457-34467
+而针对 Tau 异常磷酸化的药物 LMTX 已进展到 III 期临床试验，有望在不久的将来引入国内。
+图 3 Tau 蛋白相关治疗的临床研究进展
+就治疗前景而言，由于 Tau 蛋白的病理形式多样，参与多种变性疾病，因此未来可能不仅适用于 AD 的治疗，更可在 FTD(Pick 病)、进行性核上性麻痹（PSP）、皮质基底节变性（CBD）、创伤性脑病（TBI）等疾病中大展拳脚。AD 的新药研发步履维艰、沉寂多年，Tau 蛋白的再受瞩目能否开启神经退行性疾病诊断治疗的新时代，值得期待。
+参考文献：
+Yanamandra K, Kfoury N, Jiang H, Mahan TE, Ma S, Maloney SE, Wozniak DF, Diamond MI, Holtzman DM. Neuron. 2013 Oct 16;80(2):402-14.
+David M Holtzman, MD, Washington University School of Medicine, St. Louis, MO, USA; Hope Center for Neurological Disorders, Saint Louis, MO, USA; Knight Alzheimer's Disease Research Center, St. Louis, MO, USA. Preclinical to Clinical Translation for Tau Therapeutics. 2016 AAIC, Toronto, July21-28

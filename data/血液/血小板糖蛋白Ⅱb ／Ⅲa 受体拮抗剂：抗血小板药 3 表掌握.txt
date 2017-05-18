@@ -1,0 +1,123 @@
+血小板糖蛋白Ⅱb ／Ⅲa 受体拮抗剂：抗血小板药 3 表掌握
+血小板糖蛋白Ⅱb /Ⅲa 受体拮抗剂（GPI）是冠心病特别是急性冠脉综合征（ACS）的常用抗血小板药物，是唯一一种静脉药物，被誉为最强的抗血小板药物之一，而抗血小板作用越强，出血风险越高，因此如何安全使用 GPI 显得尤为重要。本文摘录和总结最新专家共识和研究，供大家参考。
+1. GPI 使用方法
+目前临床上常用的 GPI 主要有两种，分别为替罗非班和依替巴肽。
+（1）替罗非班有两种给药途径——静脉和冠状动脉。
+①静脉内用法：PCI 患者：起始 10～25 μg /kg(3 min 内) 静推，维持 0.075～0.15 μg/kg/min 静滴 36 h，可适当延长；非 PCI 患者：起始 0.4 μg/kg/min 静滴 30 min，维持 0.1 μg/kg/min 静滴 48～108 h。
+②冠状动脉内用法：冠脉造影→给药（导丝通过病变后或球囊扩张前）→支架植入。10～25 μg/kg 推注，可分次推注，后 0.075～0.15 μg/kg/min 静滴 36 h 或适当延长。注意：肌酐清除率＜30 mL/min 时以上两种给药途径剂量均减半。
+（2）依替巴肽只有一种给药途径——静脉。
+静脉内用法：ACS 患者术前 180 μg/kg 静推，2.0 μg/kg/min 维持静脉输注，直至出院或开始行冠状动脉旁路移植术 ( CABG)，总时程 72 h；ACS 患者 PCI 术前 180 μg/kg 静推，2.0 μg/kg/min 维持静脉输注，首剂静推后 10 min 再次 180 μg /kg 静推，静脉输注持续至出院，至少 12 h，最长 18～24 h。
+注意：肌酐清除率＜50 mL/mi 时以 180 μg/kg 静推，继之维持 1.0 μg/kg/min 静脉输注。
+2. GPI 特点
+（1）作用于血小板聚集的最后共同通路，抗血小板作用强；
+（2）半衰期短，需持续静脉输注；
+（3）达峰迅速，＜30 min；
+（4）与受体可逆性结合，停药后血小板功能恢复快（停药 4～8 h 后恢复）；
+（5）相对安全性高，适合反复使用。
+3. 注意事项
+（1）禁忌证：①过敏；②活动性内出血；③颅内出血史 (30d 内)；④颅内肿瘤；⑤颅内动静脉畸形及动脉瘤；⑥既往 GPI 相关的血小板减少症。
+（2）慎用：①出血体质或近期 (1 年内) 有异常活动性出血，包括胃肠道出血或有临床意义的泌尿生殖道出血；②凝血障碍、血小板异常或血小板减少病史；③血小板计数＜100×10
+9
+/mm
+3
+；④1 年内出血性卒中史；⑤1 月内大型外科手术或严重躯体创伤史；⑥1 月内硬膜外手术史；⑦壁间动脉瘤；⑧主动脉夹层；⑨严重而未控制的高血压 (收缩压 ≥ 180 mmHg 和/或舒张压 ≥ 110 mmHg)；⑩急性心包炎 (不包括心肌梗死后心包炎)；(11)出血性视网膜病⑿长期血液透析;(12)计划或已使用其它 GPI 等。
+4. 主要不良反应：出血和血小板减少
+出血和血小板减少是抗血小板药物的主要不良反应，建议：
+（1）用 CRUSADE 评分（见附表）严格评估患者出血风险
+（2）给药前、负荷剂量后 6 h 常规检测血常规，包括血小板计数、血红蛋白和红细胞压积，此后每天复查。GPI 停药后平均 2.1d 血小板计数可恢复。
+（3）如发生轻微出血（非活动性出血，有明显出血但血红蛋白下降＜30 g/L）可不必停药。
+（4）消化道出血时积极予质子泵抑制剂（PPI）治疗。
+（5）严重出血和血栓性血小板减少症，停用 GPI。如血小板计数＜10×10
+9
+/L 或发生严重出血时立即输注血小板。如血小板计数持续不恢复时可输注免疫球蛋白。
+表 1 GPI 与其他常用抗血小板药物特点比较
+表 2 GPI 临床治疗建议
+因 GPI 具有强大的抗血小板作用及其独有的药代动力学特点，已作为其他抗血小板药物的联合用药广泛应用于危重症冠心病患者，我们需要严格掌握其使用方法、禁忌证及不良反应，发挥 GPI 的最大效用。
+附表：CRUSADE 出血风险评分表
+预测因子
+范围
+分数
+基线血细胞比容（%）
+＜31
+9
+31~33.9
+7
+34~36.9
+3
+37~39.9
+2
+≥ 40
+0
+肌酐清除率（ml/min）
+≤ 15
+39
+＞15~30
+35
+＞30~60
+28
+＞60~90
+17
+＞90~120
+7
+＞120
+0
+心率（bpm）
+≤ 70
+0
+71~80
+1
+81~90
+3
+91~100
+6
+101~110
+8
+111~121
+10
+≥ 121
+11
+性别
+男性
+0
+女性
+8
+心力衰竭体征
+是
+0
+否
+7
+血管疾病病史（PAD 或脑卒
+中病史）
+是
+6
+否
+0
+糖尿病
+是
+6
+否
+0
+收缩压（mmHg）
+≤ 90
+10
+91~100
+8
+101~120
+5
+121~180
+1
+181~200
+3
+≥ 201
+5
+注：将各积分相加，极低危（≤ 20 分）、低危（21~30 分）、中危（31~40 分）、高危（41~50 分）和极高危（＞50 分）。
+参考文献
+[1]  血小板糖蛋白Ⅱb /Ⅲa 受体拮抗剂在冠状动脉粥样硬化性心 脏病治疗的中国专家共识 ( 2016) 专家组. 血小板糖蛋白Ⅱb /Ⅲa 受体拮抗剂在冠状动脉粥样硬化性心脏病治疗的中国专家共识 (2016). 心肺血管病杂志，2016，35: 923-932.
+[2] SJ S: Signaling through platelet integrin alpha IIb beta 3: inside-out，outsidein，and sideways． Thromb Haemost，1999，82: 318-325．
+[3] Hamm CW，Bassand JP，Agewall S，et al． ESC Guidelines for the management of acute coronary syndromes in patients presenting without persistent ST-segment elevation: The task force for the management of acute coronary syndromes ( ACS) in patients presenting without persistent ST-segment elevation of the European Society of Cardiology ( ESC) ． Eur Heart J，2011，32: 2999-3054．
+[4] 龚艳君，陈丽珠，洪涛，等．替罗非班对急性 ST 段抬高心肌梗死急诊介入治疗远期预后的影响．中国介入心脏病学杂志，2015，23: 80-84．
+[5] O＇Gara PT，Kushner FG，Ascheim DD，et al． 2013 ACCF /AHA guideline for the management of ST-elevation myocardial infarction: a report of the American college of cardiology foundation /american heart association task force on practice guidelines． Circulation，2013，127: e362-425．
+[6] Amsterdam EA，Wenger NK．The 2014 american college of cardiology ACC/american heart association guideline for the management of patients with non-ST-elevation acute coronary syndromes: ten contemporary recommendations to aid clinicians in optimizing patient outcomes．Clin Cardiol，2015，38: 121-123．
+[7] Roffi M，Patrono C，Collet JP，et al． 2015 ESC Guidelines for the management of acute coronary syndromes in patients presenting without persistent ST-segment elevation． Rev Esp Cardiol ( Engl Ed)，2015，68: 1125．
+[8] 冠状动脉旁路移植术围术期抗血小板治疗共识专家组． 冠状动脉旁路移植术围术期抗血小板治疗专家共识． 中华胸心血管外科杂志，2016，32: 1-8．
+[9] Andreotti F，Rocca B，Husted S，et al． Antithrombotic therapy in the elderly: expert position paper of the European Society of Cardiology Working Group on Thrombosis． Eur Heart J ，2015，36: 3238-3249．

@@ -1,0 +1,36 @@
+不按常理出牌：非典型 Wallenberg 综合征感觉障碍分型大盘点
+Wallenberg 综合征，最早由 Wallenberg 提出，中文名曰延髓背外侧综合征（lateral medullary syndrome，LMS），发生率不低，是脑干综合征里较为常见的一种，也因此是各种场合常问常考的名词之一，知名度之高，即使非神经专业的医生，也对其似曾相识。
+经典的 Wallenberg 综合征，临床表现为五大主征，即眩晕、恶心、呕吐伴眼震；交叉性感觉障碍；吞咽困难、声音嘶哑、饮水呛咳、病侧软腭麻痹以及咽反射减弱；Horner 征；小脑性共济失调。尤其是交叉性感觉障碍，简直是 Wallenberg 综合征的标配。另外，我们诲人不倦的时候，通常会认真的加上一句，该综合征不会引起肢体瘫痪或锥体束征。
+其经典病因，通常认为是小脑后下动脉或椎动脉闭塞或栓塞所致。然而，亦有少见的非经典的病因，比如延髓出血、脊髓血管畸形、动脉瘤、巨细胞动脉炎及椎动脉夹层等，在此不做赘述。
+然而，实际工作中，患者常不是以教科书方式起病。有时候，纵使我们百般揣度，仍不能明确定位，直到完善磁共振检查，疑惑才得以终结。这样的情况屡见不鲜，或许每个医生都遇见过。Kim 等人就做过统计
+[1]
+，130 例单纯延髓背外侧综合征的患者，仅有 26% 表现出典型的交叉性感觉障碍。
+因此，有了疑问，我们就要大声喊出来：除了交叉性感觉障碍，延髓背外侧综合征是否还会有其他变异的感觉障碍形式？是否会出现病灶对侧偏身感觉障碍（即同侧面部与躯体）？可否仅表现为面部感觉异常？会否类似于 Brown-Sequard syndrome 病灶对侧某一水平以下的躯体感觉障碍？更甚者，是否一定不会出现肢体瘫痪或锥体束征？
+其实，这就是我们今天所要说的，非典型 Wallenberg 综合征。
+只不过，万变不离其宗，非典型 Wallenberg 综合征，只是典型病变的加加减减。延髓那么大，血管那么复杂，谁能保证每个病人都按照 Wallenberg 医生最初的想法来发病。
+于是，就开始读读文献。竟然发现，最重要的一篇文献
+[2]
+，发表在 2008 年的 European Neurology，作者是上海长海医院神经科的张社卿教授，其归纳提出了 Wallenberg 综合征的感觉障碍分型，品读后不禁感叹国内牛人不少！下文图片，直接引自该文。本文拟就 LMS 最不能忽视的感觉障碍及发病机理与大家分享。
+典型的交叉感觉障碍
+不懂常规何以话变异？交叉性感觉障碍是指病灶同侧面部及对侧躯体感觉异常，主要表现为痛温觉减退或消失（三叉神经脊髓束、三叉神经脊束核和脊髓丘脑侧束受累，三叉丘系未受累）（图 1）。
+图 1 LMS 典型的交叉性感觉障碍：病灶同侧面部及对侧躯体感觉异常
+非典型性感觉障碍
+张社卿教授精彩的归纳总结让非典型 Wallenberg 综合征成为变异型中的典型，公诸同好，引用其图片浅谈发病机理较为直观，便于理解（图 2~5）。
+图 2 感觉障碍变异型 1：三叉神经脊髓束、三叉神经脊束核累及所致的病灶同侧面部感觉异常及脊髓丘脑侧束、三叉丘系受累所致对侧偏身感觉障碍
+图 3 感觉障碍变异型 2：脊髓丘脑侧束、三叉丘系受累所致病灶对侧偏身感觉障碍，因三叉神经脊髓束、三叉神经脊束核逃避故病灶同侧面部无感觉障碍
+图 4 感觉障碍变异型 3：部分交叉性感觉障碍--病灶同侧面部（三叉神经脊髓束、三叉神经脊束核）及对侧腰平面以下躯干、肢体感觉障碍（腰骶部脊髓丘脑侧束）
+图 5 感觉障碍变异型 4：偏中部限制性病灶所致病灶对侧面部，腰平面以上躯干、肢体感觉障碍（颈胸部脊髓丘脑侧束、三叉丘系）
+伴偏瘫、锥体束征的变异型
+1946 年，Opalski 首次提出 Opalski 综合征
+[3]
+，即延髓背外侧综合征伴病灶同侧肢体偏瘫，为 Wallenberg 综合征极为少见的变异型。
+存在同侧肢体偏瘫的原理尚有争议
+[4]
+：Opalski 认为是梗死灶的尾端累及到交叉后的皮质脊髓束所致；近期研究则认为，易导致 Wallenberg's syndrome 的椎动脉的分支与供应锥体束纤维的穿支动脉存在交叉，似乎更有助于解释 Opalski 综合征存在病灶同侧偏瘫和 Babinski 征阳性的临床表现。
+Hermann 提出 Opalski 综合征为病灶同侧肢体瘫痪伴 Babinski 征阳性及对侧感觉障碍的延髓背外侧综合征。
+最后，我们简单总结，典型和非典型 Wallenberg 综合征的类型及其损伤的解剖结构。
+参考文献
+1.	Kim JS: Pure lateral medullary infarction: clinical-radiological correlation of 130 acute, consecutive patients. Brain : a journal of neurology 2003, 126(Pt 8):1864-1872.
+2.	Zhang SQ, Liu MY, Wan B, Zheng HM: Contralateral body half hypalgesia in a patient with lateral medullary infarction: atypical Wallenberg syndrome. European neurology 2008, 59(3-4):211-215.
+3.	Kim HY, Koh SH, Lee KY, Lee YJ, Kim SH, Kim J, Kim HT: Opalski's Syndrome with Cerebellar Infarction. Journal of clinical neurology 2006, 2(4):276-278.
+4.	Kk P, R K, P C, Aiyappan SK, N D: A Rare Variant of Wallenberg's Syndrome: Opalski syndrome. Journal of clinical and diagnostic research : JCDR 2014, 8(7):MD05-06.

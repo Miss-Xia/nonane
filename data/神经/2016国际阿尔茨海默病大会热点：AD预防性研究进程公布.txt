@@ -1,0 +1,19 @@
+2016国际阿尔茨海默病大会热点：AD预防性研究进程公布
+在 7 月 27 日 AAIC 大会中有一场关于 AD 预防性研究的专题：「Prevention Trials in Alzheimer's Disease- Lessons Learned and Movement Forward」，来自哈佛大学、凤凰城 Banner AD 中心、圣路易斯华盛顿大学的大腕儿们齐聚一堂，台下座无虚席，期盼这几项世人瞩目的大样本研究透露一些先期结果。下面，来了解一下这几个「高大上」的一/二级预防研究。
+显性遗传性阿尔茨海默病试验单元（DIAN Trials Unit ，DIAN-TU）
+由华盛顿大学牵头，最初为针对 APP、PS1、PS2 突变基因的家族性 AD 的无症状携带者的观察性研究。研究对象来自 FAD 家系，由于系常染色体显性遗传，这些患者注定会发病。研究最初 2008 年有 NIA 发起，后有美国、英国、澳洲等 11 个研究机构参与。DIAN 第一阶段为观察性研究，其对于上述患者的自然史跟踪为加深人类对 AD 的理解起到了里程碑式的作用。DIAN-TU 是在此基础上衍生的临床干预试验。自 2012 年起开始在前述携带突变基因未发病的患者中使用两种抗体，罗氏公司的 gantenerumab 和礼来公司的 solanezumab 。也使用 Avid 公司的新型 PET 显像示踪剂。
+常染色体显性遗传 AD 预防启动项目（Alzheimer's Prevention Initiative Autosomal Dominant Alzheimer's disease Treatment Trial ，API）
+由亚利桑那州凤凰城的 Banner AD 中心发起，最初在一个巨大的早发 AD 哥比亚家系中进行。该家系来源于哥伦比亚 antioquia 省，携带罕见 PSEN1 突变，大约在 45 岁出现 AD 症状，是目前世界上最大的家族性 AD 家系。与 DIAN-TU 类似，API 将对该家系中未发病的年轻人进行预防性治疗，选择的是 Genentech 公司的 crenezumab。
+目前 API 已发展出多个子研究：1）API 常染色体显性遗传 AD 试验，在 200 名 PSEN1 E280A 突变携带者中使用 crenezumab。2)API APOE4 试验, 与 Novartis/Amgen 合作，在 1300 名 60～75 岁的 APOE4 纯合子携带者中使用 CAD106 主动免疫和 BACE 抑制剂 CNP520。 3) 哥伦比亚 API 注册研究：登记 AD 家系。4)AD 预防登记研究 Alzheimer's Prevention Registry (APR) (www.endALZnow.org), 是一项基于网络的登记数据库等。
+无症状期 AD 患者的抗淀粉样蛋白治疗（Anti-Amyloid Treatment for Asymptomatic AD Study，A4 Trial）
+著名的 A4 研究，由 NIA 与礼来公司共同资助，美国 AD 合作研究组织（ADCS）展开。计划在 1000 名认知正常但 PET Aβ阳性的 65 岁以上人群中使用礼来公司的 solanezumab。最近该研究也衍生出针对 Aβ阴性人群自然史观察的 LEARN (Longitudinal Evaluation of Amyloid Risk and Neurodegeneration) 研究，并将启动 BACE 抑制剂为干预的「EARLY 」("A5") 研究。
+这些研究的观察终点除了传统的痴呆发病率、认知量表变化外，更是集合了目前几乎所有热门的生物学标志物，同时也开展新标志物寻找的探索工作，同时也融入了电子化认知测评工具（如：Cogstat 等）。
+CAP 阿尔茨海默病预防高级合作研究（Cooperation Advances Alzheimer's Disease Prevention Research）
+成立于 2011 年，由 Food and Drug Administration (FDA), the National Institute on Aging (NIA), the Alzheimer's Association and F-Prime Biomedical Research Initiative (FBRI) 等斡旋，纳入了包括 DIAN-TU、API、A4、TOMMORROW 等在内的 6 项临床试验、12 个研究者，旨在整合数据，标化流程，以取长补短，充分体现了 AD 近年的大数据理念。
+鉴于 AD 干预时间窗的不断前移，从痴呆到 MCI 到无症状期。该类研究的观察期相当长，算上入组时间大多在 5 年以上，上述研究的结果预计也将到 2020 年才能揭晓。美国政府早年提出战略目标，在 2025 年之前战胜 AD，究竟是梦想还是现实，各位看官还得再耐心等上几年。
+参考文献：
+1. Prevention Trials in Alzheimer's Disease- Lessons Learned and Movement Forward．
+2. Stacie Weninger，et al. Fidelity Biosciences Research Initiative, Cambridge, MA, USA Collaboration for Alzheimer's Prevention (CAP) - Advancing the Evaluation of Preclinical Alzheimer Disease Treatments. 2016 AAIC, Toronto, July21～28.
+3. Randall Bateman, et al. Washington University School of Medicine, St. Louis, MO, USA. The Dominantly Inherited Alzheimer Network Trials Unit. 2016 AAIC, Toronto, July21～28.
+4. Reisa A. Sperling, et al. Center for Alzheimer Research and Treatment, Brigham and Womens Hospital, Harvard Medical School, Boston, MA, USA Anti-Amyloid Treatment of Asymptomatic AD - A4 and Beyond. 2016 AAIC, Toronto, July21～28.
+5. Pierre N, et al. Banner Alzheimer's Institute, Phoenix, AZ, USA. The Alzheimer's Prevention Initiative. 2016 AAIC, Toronto, July21～28.

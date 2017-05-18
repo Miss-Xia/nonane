@@ -1,0 +1,45 @@
+大脑里面「凹造型」：常见神经系统寄生虫感染影像表现
+中枢神经系统寄生虫感染临床表现多样，起病隐匿，易与其它中枢神经系统疾病混淆，造成漏诊或误诊。影像学检查作为疾病诊断的一个重要组成部分，可以显示寄生虫在中枢神经系统的位置、数目、虫种特征及中枢神经系统损害的程度，对明确疾病诊断及指导治疗有着非常重要的意义。今天我们就一起来归纳总结和学习几种常见的中枢神经系统寄生虫感染的影像表现。
+脑囊虫病
+脑囊虫病是一种因食入大量绦虫卵所致的寄生虫病，常累及中枢神经系统并引起严重的头痛、癫痫、颅内高压等症状。
+病理上可分为四期，不同时期有不同的影像表现：
+1. 活虫期：MRI 表现为长 T1 长 T2 囊性信号，增强可见环形强化，T1WI 上可见圆形低信号内小点样中等信号影，此为头节；
+2. 退变死亡期：MRI 上可见虫体周围长 T1 长 T2 水肿带，囊壁增厚，头节变小甚至消失；
+3. 单纯钙化期：CT 可见钙化灶，MRI 表现为 T1WI 等或低信号，T2WI 低信号；
+4. 混杂期：三期病灶在同一患者中同时存在。
+根据脑囊虫的病变部位可分为：
+1. 脑实质型
+图 1 a：囊内信号为头节；b：退变死亡期病灶可见环形强化，周围水肿带；c：环形强化；d：钙化灶
+图 2 多发脑实质病灶，呈满天星状
+2.  脑室型
+图 3 脑室型病灶
+3.  蛛网膜下腔型
+图 4 蛛网膜下腔病灶，可见强化
+脑裂头蚴病
+在中国基本上所有裂头蚴病是由曼氏裂头蚴感染所致。裂头蚴进入人体后，通常在皮下组织或肌肉组织形成病灶，部分进入大脑，形成脑裂头蚴病。脑裂头蚴病主要表现为隐袭性头痛、癫痫发作、肢体瘫痪等局灶神经功能受损表现。头颅 MRI 改变主要是：聚集的多发性小环状强化（「绳结征」），隧道样强化（「隧道征」）。
+图 5 可见「绳结样」强化
+图 6 可见「隧道征」
+脑包虫病
+包虫病又称棘球蚴病，是新疆地区常见的地方性寄生虫病。包虫病包括两种类型即细粒棘球蚴和泡状棘球蚴，前者因感染棘球蚴虫卵形成囊肿，后者形成局灶性病灶。
+1. 细粒棘球蚴：又称脑囊性包虫病，可单发或多发，包囊边界清晰，囊液呈长 T1 长 T2 脑脊液样信号，母囊内可见多个子囊，周围无明显水肿带；包囊破裂可见强化，及周围水肿带。
+2. 泡状棘球蚴：又称脑泡性包虫病，脑组织中浸润性生长，常误诊为恶性肿瘤，周围常有水肿带；T1WI 呈等信号，T2WI 呈「煤炭样」黑色底信号，内可见多个稍高信号的小囊泡影；可有不规则环形强化
+图 7  1～3：无破裂脑囊性包虫病；4～7：破裂的脑囊性包虫病；8～9：无破裂脑囊性包虫病； 10～16：脑泡型包虫病
+脑弓形虫病
+脑弓形虫病是人体免疫力低下时最容易并发的机会性感染之一，特别是艾滋病的广泛流行，机会性感染性脑弓形虫病呈明显上升趋势。
+脑弓形虫病变多位于灰白质交界处、基底节等区域，呈多发片状或结节状。CT 平扫一般表现为多发斑片状、片状低密度灶，部分病灶内可见点片状较高密度影，增强后呈环状或斑片状强化；MRI 中呈长 T1 长 T2 信号，周围伴水肿，增强后环状或斑片状强化，部分可见「靶征」。
+图 8 a：双侧基底节区强化；b：9 天后复查见多发片状及环状强化
+图 9 强化及 T2WI 可见「靶征」
+脑血吸虫病
+血吸虫病主要累及静脉系统引起消化道症状，但是当虫卵沉积到脑部时，则引起脑血吸虫病。虫卵主要沉积到软脑膜，皮层及皮层下部位，引起炎性细胞反应形成虫卵肉芽肿，局部组织缺血坏死等。急性期症状表现为发热、头痛、腹泻、皮疹等中毒症状；慢性期主要表现为癫痫，颅内压增高及局灶性神经功能缺损。
+影像学检查 T1WI 表现为等、低信号，T2WI 为高或稍高信号，周围有「指套样」水肿带；强化呈大小不等、结节状或环形，或呈簇状分布，中心线性强化、外周小点状结节环绕为特征性表现。
+图 10「指套样」水肿带
+图 11 簇状分布的小结节样强化
+图 12 线性及小点状结节强化
+参考文献
+1. Coyle CM. Neurocysticercosis: an update. Curr Infect Dis Rep. 2014 Nov;16(11):437.
+2. Kumar A, Goenka AH, Choudhary A, Sahu JK, Gulati S. Disseminated cysticercosis in a child: whole-body MR diagnosis with the use of parallel imaging. Pediatr Radiol. 2010 Feb;40(2):223-7.
+3. Gong C, Liao W, Chineah A, Wang X, Hou BL. Cerebral sparganosis in children: epidemiological, clinical and MR imaging characteristics. BMC Pediatr. 2012 Sep 24;12:155.
+4. 米日古丽·沙依提, 贾文霄. 脑包虫病的 MRI 表现及诊断 [J]. 中华放射学杂志,2010,44(7):700-703.
+5. Suzuki K, Masuya M, Matsumoto T, Ito N, Ohishi K, Maeda M, Katayama N. High-intensity signals in the basal ganglia from gadolinium-enhanced T1-weighted MRI as an early change in toxoplasma encephalitis in an AIDS patient. J Infect Chemother. 2010 Apr;16(2):135-8.
+6. Masamed R, Meleis A, Lee EW, Hathout GM. Cerebral toxoplasmosis: case review and description of a new imaging sign. Clin Radiol. 2009 May;64(5):560-3.
+7. Liu H, Lim CC, Feng X, Yao Z, Chen Y, Sun H, Chen X. MRI in cerebral schistosomiasis: characteristic nodular enhancement in 33 patients. AJR Am J Roentgenol. 2008 Aug;191(2):582-8.

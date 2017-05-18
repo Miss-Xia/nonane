@@ -1,0 +1,35 @@
+AAOS 2017：骨科感染，细节处见真功夫
+AAOS 会议第一天上午，安排的教育课程精彩粉呈，但人气最为火爆的毫无疑问是《All things infection: All you need to know》论坛。这个需要付费的论坛很快就挤满了来自世界各地的医生。主持人是来自费城 Rothman 研究所大名鼎鼎的 Dr Javad Parvizi。
+主要议题
+MRSA Screening and Declonization（MRSA 筛查与去定植）
+Biomakers and infection（感染诊断的生物标记物）
+Surgical treatment of infection in orthopedic：Need a sharp knife（感染治疗需彻底清创）
+Risk factors and infection（危险因素）
+Infection and cancer：Drawing a parallel（感染与癌症间的平行关系）
+Biofilm：Translating the science（来自转化医学对生物膜的认识）
+orthopedic infection：where do we need to go；putting it all together（骨科感染需整合循证医学研究）
+infection of shoulder（肩关节假体周围感染）
+infection in fracture cases（骨折感染）
+infection of the spine：what works and what dose not（脊柱感染）
+光听这些议题就让人兴奋了，涵括骨科感染方方面面，总有一款合适你。各路大腕专家纷纷登场，到底阐述了哪些最新观点与共识呢？
+细节处见真功夫
+议题当中虽不乏老生长谈，如感染诊断标准、彻底清创、MRSA 筛查与去定植等；但知易行难，在执行过程中能否按照标准流程来仍是一大问题，如：
+负面清单：病原菌未明确前不使用抗生素；X 线、MR、CT 并无诊断作用；格兰染色并无诊断价值；
+正面清单：不要用无菌拭子擦拭而应送组织培养，关节液体直接注入血培养瓶，延长培养时间至少到 14 天等。
+这些毫无疑问都会考验一个医生细心与耐心。若按标准的诊断流程，诊断成功率可高达 90%，这是非常值得大家去努力的。
+议题中不乏高屋建瓴，有充满新意的一面。如从恶性肿瘤诊断治疗角度类比骨科感染的诊断治疗，提及 T-cell homeostasis（稳态），感染与恶性肿瘤有相似的细胞通路，基于患者免疫功能状况提出新的感染诊断分型标准。
+大数据才是王道？
+有关感染的话题我们已谈论多年，是否到了山穷水复的境地？细究之下，骨科感染的真实发生率、诊断及治疗方法选择仍然缺乏强有力的证据支持。
+因无法做相关随机对照研究，来自真实世界的大数据整合变得非常有价值。但即使目前国外先进的关节登记系统也缺乏相关假体周围感染（PJI）的数据。
+Dr Haddad 在其演讲中呼吁所有骨科医生利用好信息化手段，加入到 PJI 登记数据库，为诊断治疗提供更好的循证依据。
+和以往骨科感染主要关注人工关节假体周围感染不同，今年的论坛加入了肩关节假体周围感染、骨折内固定感染、脊柱内固定感染等。也就是说，新关注的这些骨科领域并非世外桃源，感染的恶果也是灾难性的。
+骨科感染的诊治之路漫漫，诸位骨科同道仍需上下求索。
+脊柱感染诊治总结
+骨折内固定感染诊治思路
+骨折内固定感染抗生素局部使用
+内固定感染处理策略
+来自伦敦医学的 Dr Haddad 教授研究呼吁骨科医生加强合作
+报道者：彭慧明，北京协和医院骨科博士，主治医生，目前于芝加哥 Rush 医学院做 CAOS-AAHKS fellowship
+更多精彩内容，请关注
+丁香园 AAOS 2017 专题
+报道，丁香园将持续为你报道最新内容。

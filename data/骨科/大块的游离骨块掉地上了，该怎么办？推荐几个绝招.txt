@@ -1,0 +1,73 @@
+大块的游离骨块掉地上了，该怎么办？推荐几个绝招
+无论严重开放性骨折导致的大块游离骨块污染，还是术中不慎将游离骨块或韧带移植物掉落，都是非常棘手的状况。丢弃大骨块会导致骨或关节面的缺损，患者也很难接受（医原性的还会导致纠纷）；不丢弃，可能导致感染，后患无穷。即使术中掉落的无菌骨块，立即捡起以后也大约有 40% 的样本能培养出细菌，30 秒钟后甚至超过 70% 培养阳性。
+英文文献中，大概报道了 10 多个这样的临床案例，也有几篇对照研究
+[1-2]
+，这里给大家介绍一些处置方法。
+一期回植
+1. 冲洗
+污染的骨块清创后，推荐用大量（10L 以上）生理盐水脉冲式冲洗枪冲洗。
+2. 浸泡
+这是最为重要的处理方法，根据现有的文献证据，洗必泰与聚维酮碘（PVP-I）是最值得推荐的。
+有很多病例报道支持 4% 葡萄糖酸氯己定（洗必泰）浸泡 30 分钟以上
+[7]
+。包括 Molina 等
+[6]
+在内，多个学者都对掉落在手术室地板上的韧带移植物（髌腱）进行过研究，PVP-I 及其他抗菌药物溶液均不如洗必泰。前两者浸泡以后培养结果仍呈阳性。
+但是，美国学者 Bauer 等
+[1]
+曾对术中掉落在手术室地板上的骨块进行对照研究，洗必泰浸泡后骨块细胞生物活性会丧失，成了一块死骨。作者对比了 5 种消毒方式，为了平衡灭菌与残存细胞活性的要求，推荐的方法是：将骨块完全浸泡在 10% PVP 中，充分摇晃 15 秒，然后转移到另一份新的 10% PVP-I 中（8 秒），继续摇晃，共 5 个循环，约 2 分钟。然后取出骨块，沥干 15 分钟。
+美国学者 Bruce 等
+[2]
+对 162 个样本进行对照研究也发现，10% PVP-I 浸泡 5 分钟，然后用 150 mL 生理盐水冲洗 1 分钟，可以达到去污与细胞毒性的最佳平衡。
+综上，骨块严重污染时，去污、消毒方面的问题更严重，推荐选择洗必泰；骨块污染不严重时，选择 PVP-I 更合适，正如上面两项对照研究，都是以骨块掉落在手术室地板上做为场景的，相对更清洁，接触污染时间更短。
+3. 煮沸、高温高压灭菌
+早年的文章中有报道
+[4-5]
+，这种方式灭菌彻底，但骨块的生物活性全部丧失。
+经过以上处理，骨块回植以后，根据污染程度、软组织损伤等情况，可选择开放创口、置入抗生素骨水泥链珠、二期清创冲洗等措施。
+二期回植
+1. 冷冻
+游离骨块进行上述冲洗、浸泡等处理以后，放入冰箱冷冻。创口处置入抗生素链珠，待软组织情况允许，无感染迹象，二期植入冷冻的骨块
+[7]
+；
+2. 自体寄养
+如寄养在腹部。一方面让创口有处理和恢复的时间；另一方面，寄养在健康组织中，可以清除可能残存的细菌，也可以让游离骨块再血管化。详见病例三
+[8]
+。
+病例一
+[3]
+39 岁男性，体重 131 Kg，身高 190 cm，卡车司机，车祸伤。救护车上无菌冰袋包裹游离距骨入院，入院后改用冰的头孢唑林溶液浸泡
+急诊手术清创，9L 生理盐水充分灌洗创口；生理盐水及头孢唑林溶液浸泡以后，直接回植，克氏针临时固定，伤口覆盖抗生素链珠，保持开放。受伤到回植的时间为 4 小时。
+72 小时后再次清创灌洗，拔除克氏针关闭创口。术后抗菌药物治疗 7 天，10 天后出院，无术后早期并发症。10 周后部分负重，15 周后完全负重。
+2-5 年 X 线片，可见距下关节、胫距关节关节炎。距骨体逐渐出现硬化，无塌陷
+术后 2 周 MRI，没有急性炎症反应
+6 个月，有轻度信号改变，表明存在一定程度的生理活动，无骨坏死征象
+术后 2 年 MRI，弥漫性信号改变，符合早期骨坏死，但无塌陷
+5 年 MRI，弥漫性信号局限在距骨体中心部位，头颈部逐渐出现血运重建，无塌陷
+病例二
+[9]
+33 岁男性，车祸多发伤。左踝严重污染，几乎环形创口，胫骨远端 20 cm 缺损
+游离骨块生理盐水灌洗，保持湿润，4 小时内紧急手术。术中对创口和游离骨块各用 12L 生理盐水灌洗，彻底清创。外固定支架固定，创口松散地缝合
+原计划 48 小时再次灌洗，因身体情况不稳定，10 天后再次进手术室清创灌洗，方法如前；48 小时后进行了第三次灌洗，然后进行了内固定，闭合创口。
+3 个月后创口无感染迹象，骨折处无压痛
+6 个月后，骨折线模糊，独立行走
+18 个月恢复工作
+病例三
+胫骨远端开放性骨折，远端骨折块游离在体外
+游离骨块浸泡在抗生药物生理盐水溶液中
+X 线片可见骨块寄养在自体下腹部皮下
+创口清创、大量冲洗以后一期外固定支架固定，缺损区域抗生素骨水泥填充
+二期回植，更换为钢板内固定
+回植后 8 个月，骨折无感染迹象
+另一例 48 岁男性，大块的胫骨骨折块，12 周以后从腹部皮下取出骨折块，图 B，去除再血管化的软组织
+38 岁女性，肱骨长段骨缺损，10 cm 长骨块游离污染，一期抗生素骨水泥填充。回植后 10 个月骨折顺利愈合
+参考文献
+1. Bauer J, Liu RW, Kean TJ, et al. A comparison of five treatment protocols for contaminated bone grafts in reference to sterility and cell viability. J Bone Joint Surg Am. 2011;93(5):439-44.
+2. Bruce B, Sheibani-Rad S, Appleyard D, et al. Are dropped osteoarticular bone fragments safely reimplantable in vivo? J Bone Joint Surg Am. 2011;93(5):430-8.
+3. Apostle K, Umran T, Penner M. Reimplantation of a totally extruded Talus: a case report. J Bone Joint Surg Am. 2010;92:1661–1665.
+4. Canovas F, Bonnel F, Faure P. Extensive bone loss in an open tibial shaft fracture (immediate bone boiling reimplantation). Injury. 1999;30:709–710.
+5. Kao JT, Comstock C. Reimplantation of a contaminated and devitalized bone fragment after autoclaving in an open fracture. J Orthop Trauma. 1995;9:336–340.
+6. Molina ME, Nonweiller DE, Evans JA, et al. Contaminated anterior cruciate ligament grafts: the efficacy of 3 sterilization agents. Arthroscopy 2000; 16:373–378.
+7. Mazurek MT, Pennington SE, Mills WJ. Successful reimplantation of a large segment of femoral shaft in a type IIIA open femur fracture: a case report. J Orthop Trauma. 2003;17:295–299.
+8. Lindvall E1, Martirosian A, Morshed S. Autosterilization of Contaminated and Devascularized Bone Fragments Through a Subcutaneous Bone Pouch. J Orthop Trauma. 2015;29(12):558-62.
+9. Meininger AK, Figuerres BF, Parameswaran AD, et al. Extruded osteoarticular distal tibia: success at 18-month follow-up with reimplantation. J Orthop Trauma. 2010;24(11):e102-7.

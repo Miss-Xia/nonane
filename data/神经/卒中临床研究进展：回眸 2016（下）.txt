@@ -1,0 +1,64 @@
+卒中临床研究进展：回眸 2016（下）
+每个领域都会让人弄不明白的地方，但是随着技术的进步，难题终会一个又一个被攻克，雾霾终会散尽。
+在
+卒中临床研究进展：回眸 2016（上）
+中我们了解到全球脑血管病疾病危害加大、不同地区脑血管病危险因素迥异、控制血管危险因素和可预防痴呆、风险预测影像比量表更靠谱、亚洲 tPA 静脉溶拴低剂量证据不足。
+脑血管病领域究竟还攻克多少个难关？还有哪些临床事件模式随着研究发生了改变？
+六、伯仲之间：颈动脉狭窄是支架还是剥脱？
+对于重度颈动脉狭窄到底是支架置入（CAS）好还是内膜剥脱术（CEA）好，一直是有争议的问题。2016 年两项大型研究旨在解决这个问题。
+一项是发表在 N Engl J Med 上无症状颈动脉狭窄患者的 ACT1 研究（13）。这项研究共包括 1453 例无症状重度颈动脉狭窄患者，其中 1089 例患者实施 CAS，另外 364 例患者实施 CEA。主要终点采用 30 天和 1 年的卒中、心梗和死亡。结果显示，对于无症状颈动脉重度狭窄、无高危外科并发症风险的患者，颈动脉支架置入在 1 年主要复合终点与颈动脉内膜剥脱术相当。随访 5 年，两组之间的非手术相关卒中、全部卒中和生存率均无显著差异。
+图 7、ACT1 试验的主要结局
+另一项同样发表在 N Engl J Med 上的是大型研究 CREST10 年随访结果（14）。CREST 研究当时选择的病人是 2522 个症状性和无症状性颈动脉狭窄的病人，其中 1271 个人做了 CAS，1251 个人做了 CEA，这是当时随访的计划。2010 年发表时，总体疗效没区别，只是在亚组分析时发现这两个并发症不一样，其中支架组这一组卒中并发症高；剥脱术这一组心梗并发症高。今年发表的结果显示，CREST 的 10 年随访发现 CAS 和 CEA 对于围手术期卒中、心梗或死亡以及围手术期同侧卒中发生率没有任何差异。
+图 8、CREST10 年随访结果
+尚未解决的问题并不是在于手术之间本身的比较，而是手术和最佳药物治疗的比较（15）。奠定颈动脉狭窄手术治疗的时代是没有今天药物治疗的时代，颅内动脉狭窄的 SAMMPRIS 研究的结果否定了颅内动脉支架。而颈动脉狭窄是否也会有类似的结论呢？一项由佛罗里达州 Mayo 诊所的 Thomas G.Brott 牵头的研究，计划纳入 2480 个病人，随机分为三组，一组做 CEA，一组做 CAS，一组最佳药物。这项研究是值得期待的。
+图 9、CREST-3 的研究设计
+七、哲人其萎：苏格拉底试验的失败
+抗血小板治疗一直是脑血管病急性期和二级预防的基本药物，但是由于证据的原因，多少年来急性脑血管病指南只推荐阿司匹林，是否能够使用更新、更强效的抗血小板药物一直是致力探索的领域。2016 年，国际专家组完成了评价替格瑞洛和阿司匹林的苏格拉底试验（SOCRATES）（16）。研究纳入发病 24 小时内的轻型卒中（NIHSS ≤ 5）和高危 TIA（ABCD2＞3）的 13199 例病人，一半病人使用替格瑞洛，一半病人使用阿司匹林，持续 3 个月。3 个月随访结束时，对于主要终点事件（卒中、心梗和死亡），阿司匹林组发生 7.5%，替格瑞洛组发生 6.8%，两组相差 11%，但统计学上没有意义（P = 0.067）。安全性也没有问题，3 个月用药期间替格瑞洛组并不增加任何严重出血事件。研究表明，对于发病在 24 小时内的高危 TIA 和非栓塞性缺血性卒中患者，与阿司匹林相比，替格瑞洛不降低 90 天卒中、心梗和死亡的联合事件。
+图 10、SCRATES 主要结果
+在做亚组分析时不同种族对替格瑞洛的反应不同，似乎亚裔人群反应更好一些（17）。这个结论对于下一个临床试验的设计和实施重点人群至关重要。2017 年即将启动全新设计的替格瑞洛用于急性缺血性脑血管病的 THALES 试验。
+正值岁末，替格瑞洛治疗外周血管病的 EUCLID 试验公布（18），这个在外周血管病比较替格瑞洛是否优于氯吡格雷，尽管主要终点是阴性，但是卒中终点出现可喜的结果，即替格瑞洛优于氯吡格雷，这给替格瑞洛的下一个临床试验注入了兴奋剂。
+八、高歌猛进：脑血管病精准医学研究的春天
+2016 年，我国国家精准医学重点研发计划启动，承载这一使命的国家脑血管病 10 万队列正式启动。与此同时，国际顶级医学杂志《JAMA》发表个首篇脑血管病精准医学研究的原著文章（19）。
+这项研究是 CHANCE 的氯吡格雷药物基因组结果，其重要发现包括，中国人 CYP2C19 慢代谢和中间代谢的人群高达 58%，携带这一功能缺失基因可以使氯吡格雷的疗效降低 20%，但是这一基因的携带并不改变出血并发症的发生率。
+之后，在这一研究基础之上的 meta 分析再次证实（20），在缺血性卒中和 TIA 患者，携带 CYP2C19 功能缺失基因，其卒中和联合血管事件要明显高于不携带功能缺失基因者。这些发现，对于合理使用抗血小板治疗非常重要，同时提示药物基因组的干预试验的必要性（21）。
+九、甜蜜证据：控制糖代谢异常有明确的卒中二级预防效果
+糖尿病是卒中发生和复发的重要危险因素，但是迄今为止没有降糖治疗对卒中二级预防有效的直接证据。2016 年，这个僵局终于被打破，发表在 N Engl J Med 上的 IRIS 试验给出了直接二级预防有效的证据（22）。
+IRIS 试验选择的患者是发生卒中和 TIA 没有糖尿病但是有糖代谢异常的患者 3876 例，糖代谢异常的定义是 HOMA 指数大于 3（HOMA 指数是指空腹血糖×空腹胰岛素/22.5）。研究对象中 1939 例每天服用吡格列酮，另外 1937 例每天服用安慰剂。随访时间为 4.8 年，随访结束时安慰剂组卒中和心梗的发生率为 11.8%，吡格列酮组发生率 9.0%, 两组相差 24%（HR = 0.76，p = 0.007）。研究结果提示，对于新近发生卒中和 TIA 的患者，如果患者没有糖尿病但存在胰岛素抵抗，接受吡格列酮治疗，其卒中和心肌梗死的发生率低于安慰剂组。
+吡格列酮组新发糖尿病比例降低 52%(23)，但是也有严重不良反应，包括增加体重、水肿和骨折的风险。对于非糖尿病但有胰岛素抵抗的新发缺血性卒中和 TIA 患者，吡格列酮既能减少缺血事件发生的风险，也能降低新发糖尿病。在这个单一临床试验中，吡格列酮是预防缺血事件和糖尿病的首选药物。
+有其他试验支持这一结论吗？Stroke 杂志发表了包括 IRIS 在内的 3 项试验的 meta 分析（24），其他两项试验包括日本研究 J-SPIRIT 和欧洲的 PROactive。发现吡格列酮使用可以增加卒中二级预防疗效，可以多降低 32%，提示对于伴有胰岛素抵抗、糖尿病前期和糖尿病的缺血性卒中患者，吡格列酮可以显著减少缺血性卒中和主要血管事件。
+十、黯然失色：脑出血早期降压无益
+脑出血患者早期降压幅度仍然是悬而未决的话题，2016 年 N Engl J Med 发表了包括中国在内的国际多中心试验 ATACH2（25）。研究共纳入急性脑出血患者 1000 例，其中 500 人用了强化降血压，另外 500 人用了标准降压。结果发现，脑出血患者将收缩压降低到 110-139 mmHg，与降低到 140-179 mmHg 相比，不能降低死亡率和致残率。
+脑血管病的研究就像揭开一层层迷雾，让我对这类疾病的认识更为清楚，治疗也更为高效。但是，不知道北京的雾霾哪天能够完全消散？
+更多 2016 年卒中研究进展盘点请见：
+卒中临床研究进展：回眸 2016（上）
+王拥军教授简介
+王拥军，男，汉族，中国共产党党员，1962 年出生于河北省邯郸市，1982 毕业于河北医科大学临床医学专业。主任医师、教授、博士生导师。脑血管病专家，现任首都医科大学附属北京天坛医院副院长、神经病学中心主任，国家神经系统疾病临床医学研究中心副主任，国家卫计委神经内科质量控制中心主任，中华医学会神经病学分会侯任主任委员，中国卒中学会常务副会长。《Stroke and Vascular Neurology》及《中国卒中杂志》主编。
+荣获首都十大健康卫士、全国卫生系统先进个人、卫生部有突出贡献中青年专家等荣誉称号，获全国「五一」劳动奖章，享受国务院特殊津贴。2011 年入选北京市卫生系统高层次卫生技术人才领军人才，北京市科委科技北京百名领军人才，获吴阶平-保罗杨森医学药学奖，2013 年所带领的团队被科技部授予首批重点领域「创新团队」，2014 年获得「药明康德生命化学研究奖」，2015 年当选「北京学者」计划、北京市医院管理局「使命」人才计划。2016 年入选「北京市高层次创新创业人才支持计划杰出人才」。
+作为我国脑血管病中年学科带头人，在脑血管病医疗、教学、科研方面开展大量工作，尤其在严重危害生命的缺血性卒中领域做出积极贡献。
+参考文献
+1. GBD 2015 Mortality and Causes of Death Collaborators. Global, regional, and national life expectancy, all-cause mortality, and cause-specific mortality for 249 causes of death, 1980-2015: a systematic analysis for the Global Burden of Disease Study 2015. Lancet. 2016;388:1459-1544
+2. Feigin VL, Roth GA, Naghavi M, Parmar P, Krishnamurthi R, Chugh S, Mensah GA， Norrving B, Shiue I, Ng M, Estep K, Cercy K, Murray CJ, Forouzanfar MH; Global Burden of Diseases, Injuries and Risk Factors Study 2013 and Stroke Experts Writing Group. Global burden of stroke and risk factors in 188 countries, during 1990-2013: a systematic analysis for the Global Burden of Disease Study 2013. Lancet Neurol. 2016;15:913-24.
+3. Satizabal CL, Beiser AS, Chouraki V, Chêne G, Dufouil C, Seshadri S. Incidence of Dementia over Three Decades in the Framingham Heart Study. N Engl J Med. 2016 Feb 11;374(6):523-32
+4. Lyall DM, Celis-Morales CA, Anderson J, Gill JMR, Mackay DF, McIntosh AM, Smith DJ, Deary IJ, Sattar N, Pell JP. Associations between single and multiple cardiometabolic diseases and cognitive abilities in 474 129 UK Biobank participants. European Heart Journal 2016; First published online: 15 November
+5. Tosto G, Bird TD, Bennett DA, Boeve BF, Brickman AM, Cruchaga C, Faber K, Foroud TM, Farlow M, Goate AM, Graff-Radford NR, Lantigua R, Manly J, Ottman R, Rosenberg R, Schaid DJ, Schupf N, Stern Y, Sweet RA, Mayeux R; National Institute on Aging Late-Onset Alzheimer Disease/National Cell Repository for Alzheimer Disease (NIA-LOAD/NCRAD) Family Study Group. The Role of Cardiovascular Risk Factors and Stroke in Familial Alzheimer Disease. JAMA Neurol. 2016 ;73:1231-1237
+6. Amarenco P, Lavallée PC, Labreuche J, Albers GW, Bornstein NM, Canhão P, Caplan LR, Donnan GA, Ferro JM, Hennerici MG, Molina C, Rothwell PM, Sissani L, Školoudík D, Steg PG, Touboul PJ, Uchiyama S, Vicaut É, Wong LK; TIAregistry.org Investigators. One-Year Risk of Stroke after Transient Ischemic Attack or Minor Stroke. N Engl J Med. 2016;374:1533-42
+7. Yaghi S , Rostanski SK , Boehme AK , Martin-Schild S , Samai A , Silver B , Blum CA , Jayaraman MV , Siket MS , Khan M , Furie KL , Elkind MS , Marshall RS , Willey JZ. Imaging Parameters and Recurrent Cerebrovascular Events in Patients With Minor Stroke or Transient Ischemic Attack. JAMA Neurol 2016; 73: 572–578
+8. Nasr DM, Brown RD. The Challenges of Stroke Prediction Scores JAMA Neurol. 2016;73:510-511
+9. Kelly PJ, Albers GW, Chatzikonstantinou A, De Marchis GM, Ferrari J, George P, Katan M, Knoflach M, Kim JS, Li L, Lee EJ, Olivot JM, Purroy F, Raposo N, Rothwell PM， Sharma VK, Song B, Tsivgoulis G, Walsh C, Xu Y, Merwick A. Validation and comparison of imaging-based scores for prediction of early stroke risk after transient ischaemic attack: a pooled analysis of individual-patient data from cohort studies. Lancet Neurol. 2016;15:1238-1247
+10. Anderson CS, Robinson T, Lindley RI, Arima H, Lavados PM, Lee TH, Broderick JP, Chen X, Chen G, Sharma VK, Kim JS, Thang NH, Cao Y, Parsons MW, Levi C, Huang Y, Olavarría VV, Demchuk AM, Bath PM, Donnan GA, Martins S, Pontes-Neto OM, Silva F, Ricci S, Roffe C, Pandian J, Billot L, Woodward M, Li Q, Wang X, Wang J, Chalmers J; ENCHANTED Investigators and Coordinators. Low-Dose versus Standard-Dose Intravenous Alteplase in Acute Ischemic Stroke. N Engl J Med. 2016;374:2313-23
+11. Aoki J, Kimura K. Stroke: The question of alteplase dose for stroke is not resolved. Nature Reviews Neurology 2016;12:376–377
+12. Strbian D, Saposnik G. Review of the ENCHANTED Trial (Enhanced Control of Hypertension and Thrombolysis Stroke Study). How Low Can We Go With Intravenous Tissue-Type Plasminogen Activator Dose and Blood Pressure Level?. Stroke. 2016;47:3063-3064
+13. Rosenfield K, Matsumura JS, Chaturvedi S, Riles T, Ansel GM1, Metzger DC, Wechsler L, Jaff MR, Gray W; ACT I Investigators. Randomized Trial of Stent versus Surgery for Asymptomatic Carotid Stenosis. N Engl J Med. 2016;374:1011-20
+14. Brott TG, Howard G, Roubin GS, Meschia JF, Mackey A, Brooks W, Moore WS, Hill MD, Mantese VA, Clark WM, Timaran CH, Heck D, Leimgruber PP, Sheffet AJ, Howard VJ, Chaturvedi S, Lal BK, Voeks JH, Hobson RW 2nd; CREST Investigators. Long-Term Results of Stenting versus Endarterectomy for Carotid-Artery Stenosis. N Engl J Med. 2016;374:1021-31
+15. Bissacco D. Carotid Artery Stenosis: The Curse of Best Medical Therapy. Angiology. 2017;68:87-88
+16. Johnston SC, Amarenco P, Albers GW, Denison H, Easton JD, Evans SR, Held P, Jonasson J, Minematsu K, Molina CA, Wang Y, Wong KS; SOCRATES Steering Committee and Investigators. Ticagrelor versus Aspirin in Acute Stroke or Transient Ischemic Attack. N Engl J Med. 2016;375:35-43.
+17. Wang Y, Minematsu K, Wong KS, Amarenco P, Albers GW, Denison H, Easton JD, Evans SR, Held P, Jonasson J, Molina CA, Johnston SC; SOCRATES Steering Committee and Investigators. Ticagrelor in Acute Stroke or Transient Ischemic Attack in Asian Patients: From the SOCRATES Trial (Acute Stroke or Transient Ischemic Attack Treated With Aspirin or Ticagrelor and Patient Outcomes). Stroke. 2017;48:167-173.
+18. Hiatt WR, Fowkes FG, Heizer G, Berger JS, Baumgartner I, Held P, Katona BG, Mahaffey KW, Norgren L, Jones WS, Blomster J, Millegård M, Reist C, Patel MR; EUCLID Trial Steering Committee and Investigators. Ticagrelor versus Clopidogrel in Symptomatic Peripheral Artery Disease. N Engl J Med. 2016 Nov 13. [Epub ahead of print]
+19. Wang Y, Zhao X, Lin J, Li H, Johnston SC, Lin Y, Pan Y, Liu L, Wang D, Wang C, Meng X, Xu J, Wang Y; CHANCE investigators. Association Between CYP2C19 Loss-of-Function Allele Status and Efficacy of Clopidogrel for Risk Reduction Among Patients With Minor Stroke or Transient Ischemic Attack. JAMA. 2016;316:70-8
+20. Pan Y, Chen W, Xu Y, Yi X, Han Y, Yang Q, Li X, Huang L, Johnston SC, Zhao X, Liu L, Zhang Q, Wang G, Wang Y, Wang Y. Genetic Polymorphisms and Clopidogrel Efficacy for Acute Ischemic Stroke or Transient Ischemic Attack: A Systematic Review and Meta-Analysis. Circulation. 2017;135:21-33
+21. Simon T, Danchin N. Clinical Impact of Pharmacogenomics of Clopidogrel in Stroke. Circulation. 2017;135:34-37
+22. Kernan WN, Viscoli CM, Furie KL, Young LH, Inzucchi SE, Gorman M, Guarino PD, Lovejoy AM, Peduzzi PN, Conwit R, Brass LM, Schwartz GG, Adams HP Jr, Berger L, Carolei A, Clark W, Coull B, Ford GA, Kleindorfer D, O'Leary JR, Parsons MW, Ringleb P, Sen S, Spence JD, Tanne D, Wang D, Winder TR; IRIS Trial Investigators. Pioglitazone after Ischemic Stroke or Transient Ischemic Attack. N Engl J Med. 2016;374:1321-31
+23. Inzucchi SE, Viscoli CM, Young LH, Furie KL, Gorman M, Lovejoy AM, Dagogo-Jack S, Ismail-Beigi F, Korytkowski MT, Pratley RE, Schwartz GG, Kernan WN; IRIS Trial Investigators. Pioglitazone Prevents Diabetes in Patients With Insulin Resistance and Cerebrovascular Disease. Diabetes Care. 2016;39:1684-92
+24. Lee M, Saver JL, Liao HW, Lin CH, Ovbiagele B. Pioglitazone for Secondary Stroke Prevention: A Systematic Review and Meta-Analysis. Stroke. 2016 Dec 20
+25. Qureshi AI, Palesch YY, Barsan WG, Hanley DF, Hsu CY, Martin RL, Moy CS, Silbergleit R, Steiner T, Suarez JI, Toyoda K, Wang Y, Yamamoto H, Yoon BW; ATACH-2 Trial Investigators and the Neurological Emergency Treatment Trials Network. Intensive Blood-Pressure Lowering in Patients with Acute Cerebral Hemorrhage. N Engl J Med. 2016;375:1033-43
+点击查看 2016年学科大咖年度回顾>>

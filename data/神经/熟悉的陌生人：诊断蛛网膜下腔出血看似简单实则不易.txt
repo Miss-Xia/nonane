@@ -1,0 +1,109 @@
+熟悉的陌生人：诊断蛛网膜下腔出血看似简单实则不易
+近期在临床上先后碰到几例关于蛛网膜下腔出血的诊断问题，大抵都是患者临床表现疑似该病，但头颅 CT 阴性，复查头颅 CT 依然阴性，是否能诊断蛛网膜下腔出血？
+突然间发现关于蛛网膜下腔出血的诊断问题仍存在许多细枝末节，之前对它的认识也仅仅以筌为鱼。蛛网膜下腔出血的诊断较神经内科其他疾病相对简单，但临床上误诊仍不少见，直接截取相关文献更为直观
+[1]
+。以下针对蛛网膜下腔出血这个「熟悉的陌生人」的诊断问题同大家分享。
+定义
+2015 年国内最新的蛛网膜下腔出血指南定义：颅内血管破裂后，血液流入蛛网膜下腔称为蛛网膜下腔出血（SAH），临床上将 SAH 分为外伤性与非外伤性两大类。
+非外伤性 SAH
+[1]
+最主要病因为动脉瘤，约占全部病例的 85% 左右，其中约 80% 病例为动脉瘤破裂出血，而 10% 为中脑周围非动脉瘤性出血（PNSH）预后较好。
+诊断流程图
+诊断 SAH，流程图为临床医师提供了较为直观的诊断思路。然而，对比中外两张流程图（图 1a、b），是否发现其中的细小差别：
+1. 国外诊断流程图为头痛发作 6 h 以后，那么，发病 6 h 以内明确诊断的依据是什么？
+2. 国内头颅 CT 平扫阴性后直接腰椎穿刺确诊，而国外在认同头颅 CT 平扫及腰椎穿刺阴性作为排除 SAH 金标准之外，将 MRI/MRA、CTA 作为等同的协诊手段列入其中；
+3. 国内流程图中虽有 CTA/MRA 检查，但是在 CT 平扫阳性基础上进行，其目的作为蛛网膜下腔出血的病因分析。
+进行文献翻阅，发现其背后隐含的「故事」有点意思。
+图 1a
+[2]
+：2015 年中国蛛网膜下腔出血指南诊断流程图
+图 1b
+[3]
+：蛛网膜下腔出血发病 6 小时后诊断流程图
+临床表现
+蛛网膜下腔出血最为典型的临床表现为头痛，被描述为雷击样。然而，有数据显示
+[1]
+仅 10% 的雷击样头痛病因为 SAH。SAH 患者 70% 表现为单纯头痛而无神经专科定位体征，其他临床表现包括晕厥（25%）、恶心/呕吐（75%）。
+那么，诸多非特异性临床表现如何支持 SAH 的临床诊断？有研究证实
+[1]
+，Ottawa 蛛网膜下腔出血临床诊断准则（表 1）敏感性可达 100%、特异性为 7.6%、阴性预测值为 100%，可协助临床医师拟诊 SAH。
+表 1 渥太华 SAH 诊断准则
+适用于
+：年龄>15 岁新发的非创伤性头痛患者，且头痛在 1 小时内达到最高峰。
+不适用于：
+新发神经系统缺陷、动脉瘤病史、SAH 病史、颅内肿瘤、反复头痛病史（≥ 6 个月病程中有 3 或 3 次以上发作）。
+以下高危因素 ≥ 1 项应考虑 SAH
+1. 年龄 ≥ 40 岁
+2. 颈部疼痛或僵硬
+3. 确认有过意识丧失
+4. 用力时发病
+5. 雷击样疼痛（迅速达到峰值）
+6. 颈部活动受限
+头颅 CT
+临床上，疑似蛛网膜下腔出血且非外伤性头痛发作的患者首选非增强头颅 CT 来诊断 SAH。
+2016 年 STORKE 杂志刊登的一篇 META 分析得出结论
+[5]
+：起病 6h 内的 SAH 患者使用非增强头颅 CT 的敏感性可达 0.987及特异性为 0.999；阴性似然比为 0.010，当然其前提是在有经验的神经内科医师及放射科医师共同诊断下。
+由此看来，发病 6 小时内非增强头颅 CT 对诊断 SAH 有明确的价值。CT 检查中新鲜的血液在蛛网膜下腔的信号和脑组织十分接近，但由于脑脊液的循环，血液中的氧合血红蛋白转换为正铁血红蛋白，因此 CT 敏感性逐渐下降，尤其是随着时间推移蛛网膜下腔的血液会出现吸收和再分配，从而导致 CT 出现假阴性结果，致其敏感性尚未达到 100%。
+随着发病时间延长，头颅 CT 的敏感性下降，其具体数值目前暂无权威的研究使之达成一致：多项研究认为
+[6]
+SAH 起病 12 小时内头颅 CT 敏感性约 97%，24~48 小时敏感性>90%；2011 年 Perry et al
+[7]
+在 BMJ 发表的一项前瞻性研究认为 6 小时后其敏感性下降至 85.7%。
+目前无循证依据支持单纯头颅 CT 运用于 SAH 的诊断
+[6]
+，高敏感性的 6 小时内头颅 CT 的结果在 SAH 的诊断上也仅为必要而非充分条件。
+腰椎穿刺
+流程图中可见头颅 CT/腰椎穿刺（LP）是诊断 SAH 的金标准；Perry et al
+[8]
+的一项大型前瞻性研究结果得出 CT/LP 的敏感性及阴性预测值均达 100%，故腰椎穿刺在多数临床医师心中作为诊断 SAH 的必然方法。
+临床上较为熟知的 SAH 腰椎穿刺结果为脑脊液三管实验，然而肉眼结果可存在偏差，若减少误诊率仍需镜下行脑脊液检查。 Perry et al
+[9]
+2015 年再次发表在 BMJ 的一大型前瞻性研究认为收集四管脑脊液，任意一管中未见黄变（血液降解所致）且第四管脑脊液 RBC<2000X10
+6
+/L 可排除 SAH。
+脑脊液中 RBC<2000X10
+6
+/L 边界值的敏感性及特异性达 93%，其中任何一管出现黄变则其敏感性及特异性则升至 100%；单纯脑脊液黄变的敏感性仅 47%。
+欧洲指南指出，对疑似 SAH 但头颅 CT/MRI 未能明确诊断的患者必须行腰椎穿刺术（II 级推荐，B 级证据）
+[10]
+，同时较多研究者认为无论头颅 CT 是否阳性，理所当然要做 LP 检查。
+然而理想很丰满现实很骨感，LP 为侵入性诊断方式，受患者自身恐惧心理、时间限制、术后医疗性感染、潜在的医患矛盾及存在 LP 的禁忌症等众多因素，LP 不是你想做想做就能做。
+BMJ Open 近期发表了一篇很有意思的文章
+[11]
+，作者从风险－－获益角度对急诊和神经内科医师 LP 检查的完善程度进行调查：基于 UK 研究指出 LP 的漏诊率为 40%~50%，调查结果得出，至少有 40% 的急诊医师不愿意跟从指南的要求对 CT 阴性患者进一步行 LP 操作，而更愿意接受非侵入性诊断的方式，哪怕增加了误诊风险。故临床上常借助其他手段如 CTA、MRA、DSA 等进行诊断。
+此外，在何时进行腰椎穿的刺上也存在争议，有学者认为应该在头颅 CT 阴性后立即进行，而不用考虑发病时间，但这时往往存在假阴性的可能：由于脑脊液的黄变通常需要几个小时，而发病初期常无法检测出黄变，故为了避免假阴性的出现建议腰穿在起病 8 小时后执行
+[12]
+。
+CT/CTA
+约 85% 的非外伤性蛛网膜下腔出血患者的病因为动静脉畸形或动脉瘤，近期研究证实
+[6]
+64 排螺旋 CTA 对诊断>3 mm 的动脉瘤敏感性及特异性分别达 98% 和 100%，而<4 mm 的动脉瘤其敏感性会下降。
+CT/CTA 的优点在于诊断 SAH 的同时还可进行病因的诊断，但因其需血管内注入造影剂故有潜在的过敏反应或肾损伤风险。美国急诊医学研究院（AAEM）临床指南委员会给予头颅 CT 阴性而患者拒绝 LP 诊断或 LP 诊断不明的情况下完善头颅 CTA 以 B 级证据。
+MR/MRA
+MR/MRA 在临床上也用于颅内动脉瘤的诊断，其汇总灵敏度及特异性
+[1]
+分别为 95% 和 89%，2002 年一研究对比 CT 和 MR 对 SAH 的敏感性，发现 MR/MRA 对>3 mm 的动脉瘤的敏感性>95%，较 CTA 的敏感性稍低。
+MRI 被用于进一步的诊断方式优点在于患者可不用暴露在射线环境中，其次对区别其他疾病所致的头痛有较大的意义，如颅内肿瘤、多发性硬化、脑炎等，但临床上由于条件、技术的限制，其耗时较长，故临床上较少用于急性期 SAH 的进一步诊断。
+DSA
+DSA 因具有高时空分辨率的特征，因此是明确 SAH 病因及发现颅内动脉瘤的金标准，既可视为诊断手段也可作为治疗手段，较传统开颅手术对患者来说创伤小预后佳，但作为侵入性术士，具有耗时、昂贵、医师操作专业要求、造影剂的副作用等限制。
+据统计首次行 DSA 术的患者中阴性率为 20%~25%，一周后再次复查约有 1%~2% 的患者可发现之前未发现的动脉瘤，受相关风险及费所限，因此只能根据患者自身要求定夺。对于急性蛛网膜下腔出血病人 DSA 往往不耐受，容易产生伪影等表现，因此需要严格的规范程序、娴熟的操作技巧，此外当标准投照位置角度不佳时还需要特殊位置的投照位置。
+Ann Neurol 和 Radiology 的两篇 META 分析
+[13,14]
+均提示 CTA 较 DSA 同样具有较高的敏感性，但对于小于 5 mm 动脉瘤时 DSA 的敏感性更高，所以当 CTA 不能进一步诊断动脉瘤病因的情况下可选择行 DSA 明确诊断。
+所谓知己知彼方能百战不殆，以上为临床医师提供一些参考依据，权衡利弊，尽可能选择最佳性价比的诊断手段；钻尖仰高，对蛛网膜下腔出血诊断方式的认知仍有不足，这篇小文若能或仅能作为抛砖引玉的作用，也是其价值所在，与君共享。
+参考文献
+1.	Long B, Koyfman A: Controversies in the Diagnosis of Subarachnoid Hemorrhage. The Journal of emergency medicine 2016, 50(6):839-847.
+2.	中华医学会神经医学分会，中华医学会神经病学分会脑血管病学组：中国蛛网膜下腔出血诊治指南 2015. 中华神经科杂志 2016，49（03）：182-191.
+3. de Oliveira Manoel AL, Mansur A, Murphy A, Turkel-Parrella D, Macdonald M, Macdonald RL, Montanera W, Marotta TR, Bharatha A, Effendi K et al: Aneurysmal subarachnoid haemorrhage from a neuroimaging perspective. Critical care 2014, 18(6):557.
+4.	Perry JJ, Stiell IG, Sivilotti ML, Bullard MJ, Hohl CM, Sutherland J, Emond M, Worster A, Lee JS, Mackey D et al: Clinical decision rules to rule out subarachnoid hemorrhage for acute headache. Jama 2013, 310(12):1248-1255.
+5.	Dubosh NM, Bellolio MF, Rabinstein AA, Edlow JA: Sensitivity of Early Brain Computed Tomography to Exclude Aneurysmal Subarachnoid Hemorrhage: A Systematic Review and Meta-Analysis. Stroke 2016, 47(3):750-755.
+6.	Meurer WJ, Walsh B, Vilke GM, Coyne CJ: Clinical Guidelines for the Emergency Department Evaluation of Subarachnoid Hemorrhage. The Journal of emergency medicine 2016, 50(4):696-701.
+7.	Perry JJ, Stiell IG, Sivilotti ML, Bullard MJ, Emond M, Symington C, Sutherland J, Worster A, Hohl C, Lee JS et al: Sensitivity of computed tomography performed within six hours of onset of headache for diagnosis of subarachnoid haemorrhage: prospective cohort study. Bmj 2011, 343:d4277.
+8.	Perry JJ, Spacek A, Forbes M, Wells GA, Mortensen M, Symington C, Fortin N, Stiell IG: Is the combination of negative computed tomography result and negative lumbar puncture result sufficient to rule out subarachnoid hemorrhage?Annals of emergency medicine 2008, 51(6):707-713.
+9.	Perry JJ, Alyahya B, Sivilotti ML, Bullard MJ, Emond M, Sutherland J, Worster A, Hohl C, Lee JS, Eisenhauer MA et al: Differentiation between traumatic tap and aneurysmal subarachnoid hemorrhage: prospective cohort study. BMJ 2015, 350:h568.
+10.	Steiner T, Juvela S, Unterberg A, Jung C, Forsting M, Rinkel G, European Stroke O: European Stroke Organization guidelines for the management of intracranial aneurysms and subarachnoid haemorrhage. Cerebrovascular diseases 2013, 35(2):93-112.
+11.	Lansley J, Selai C, Krishnan AS, Lobotesis K, Jager HR: Subarachnoid haemorrhage guidelines and clinical practice: a cross-sectional study of emergency department consultants' and neurospecialists' views and risk tolerances. BMJ open 2016, 6(9):e012357.
+12.	Carole F, Eve M: Suspected subarachnoid haemorrhage with a negative CT head scan:What next?Emergency Medicine 2000,12: 212-217
+13.     Menke J, Larsen J, Kallenberg K: Diagnosing cerebral aneurysms by computed tomographic angiography: meta-analysis. Annals of neurology 2011, 69(4):646-654.
+14.	Westerlaan HE, van Dijk JM, Jansen-van der Weide MC, de Groot JC, Groen RJ, Mooij JJ, Oudkerk M: Intracranial aneurysms in patients with subarachnoid hemorrhage: CT angiography as a primary examination tool for diagnosis--systematic review and meta-analysis. Radiology 2011, 258(1):134-145.

@@ -1,0 +1,26 @@
+2016 国际阿尔茨海默病大会热点：解析无创、价廉的 AD 标志物
+熟悉认知障碍的同道对 ADNI 研究应该都不陌生。源自美国的 Alzheimer’s disease neuroimaging initiative 可说 AD 领域多中心研究的楷模，兴起了生物标志物 biomarker 研究的浪潮，此后世界各国也竞相效仿，开启了认知大数据时代。
+近几年来，体液和影像学生物标志物一直是 AAIC 的金牌主题，热议、争议经久不衰。目前对 AD 早期诊断具有价值的主要是两组标志物: 其一是脑脊液中的 Aβ、hTau、pTau；其二是 AD 相关 PET 分子显像，目前主要包括 Aβ显像剂 Tau 显像。这两类标志物经过大量研究验证，已确认能稳定、可靠的反映 AD 较早期的病理改变，已被纳入诸如 NIA/AA，IWG 最新诊断标准中。
+然而，脑脊液采集为有创检查、实验室间误差大、PET 分子显像技术门槛高、价格昂贵等，大大限制了上述标志物的使用。因此，科学家们从未停止寻找新颖、便捷、无创/微创、价廉、易推广的检测指标。
+在本届 AAIC 中，来自瑞典 Gothenburg 大学的 Henrik Zetterberg 博士就此展开讨论，系统回顾了过去数十年中的相关研究数据，相关结果在 Alzheimer’s Association 旗下的网站 ALZFORUM 的 AlzBiomarker database 上可检索到，结果已发表在最新一期的柳叶刀杂志上。
+作者对 1984 年～2014 年 20 年间的四千余篇有关脑脊液/血浆/血清 AD 标志物的论文进行分析，最终采纳了 231 项合格研究纳入 meta 分析。
+对于下列五类指标对于 AD 的识别和预测 MCI 转归的作用进行评价：
+1. 反映神经退行性变
+T-tau, neurofilament light protein [NFL], neuron-specific enolase [NSE], visinin-like protein 1 [VLP-1], heart fatty acid binding protein [HFABP]
+2. APP 代谢系列产物
+Aβ42, Aβ40, Aβ38,and α and β cleaved soluble amyloid precursor protein [sAPPα and sAPPβ]
+3. 与神经元纤维缠结有关
+P-tau
+4. 反映血脑屏障功能
+CSF to serum albumin ratio
+5. 反映小胶质细胞活化
+YKL-40,  monocyte chemotactic protein 1 [MCP-1], glial fibrillary acidic protein [GFAP]
+图 1 AD 和正常对照的生物标志物对比
+AD vs NC biomarker performance
+(A) in CSF ：T-tau, NFL, P-tau, and Aβ42 were significant with good effect size；NSE, VLP-1, HFABP, and YKL-40 were significant but had moderate effect size；None of the other CSF biomarkers were significant or were significant with minor effect sizes. (B) in serum and plasma: only plasma T-tau was significant.
+分析结果发现：
+1. AD  对比 正常对照，脑脊液 Aβ42、T-tau、pTau、NFL(神经丝蛋白) 有价值，外周血仅 T-tau 有鉴别作用；
+2. 对 MCI 转归的预测，仅脑脊液 Aβ42、T-tau、pTau 有价值。而其他指标则抑或未达到统计学显著水平或 OR 值太接近「1」而被「淘汰」。可见 AD biomarker 的「淘金之旅」注定还要继续下去。
+参考文献
+Henrik Zetterberg, MD, PhD, Institute of Neuroscience and Physiology, The Sahlgrenska Academy at University of Gothenburg, Gothenburg, Sweden; University College London, Institute of Neurology, London, United Kingdom. How AD-Specific Are AD CSF Biomarkers? 2016 AAIC, Toronto, July21-28.
+Bob Olsson, et al. CSF and blood biomarkers for the diagnosis of Alzheimer’s disease: a systematic review and meta-analysis. Lancet neurology, June 2016, Volume 15, No. 7, p673–684

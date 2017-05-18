@@ -1,0 +1,16 @@
+MRSA血流感染诊治前沿进展荟萃
+分子诊断学技术对于MRSA诊断的意义
+过去20年，随着社区相关性甲氧西林耐药金黄色葡萄球菌克隆的出现和传播，由其引起的疾病流行病学特点发生巨大变化，而且抗生素治疗延迟和金黄色葡萄球菌导致的血流感染死亡率的增加，都极大的促进对其快速分子学诊断技术的进展。快速分子学检测技术可以大大的减少实验室的周转时间，在某些情况下，甚至可能改善临床转归。该文主要对分子诊断的进展和金黄色葡萄球菌的类型进行阐述，尤其是对于临床的影响和基因组学技术的应用方面。Williamson DA, et al. Contemporary genomic approaches in the diagnosis and typing of Staphylococcus aureus. 2015.
+血流感染分离菌以肠杆菌科和葡萄球菌为主
+定点收集来自全国18家三级甲等医院血流分离病原菌耐药状况，共收集并测定1077株血标本来源细菌，其中革兰阳性菌38.6%(416/1077)，革兰阴性菌61.4%(661/1077)。耐甲氧西林金黄色葡萄球菌(MRSA) 和凝固酶阴性葡萄球菌(MRCNS)检出率分别为54.5% (67/123)和80.5%(107/133)。未发现对利奈唑胺和万古霉素耐药的葡萄球菌属和肠球菌属致病菌。监测结果显示血流感染分离菌呈多样性，以肠杆菌科和葡萄球菌为主，其中不乏多重耐药(MDR)菌与泛耐药(XDR)菌，甚至全耐药(PDR)菌。
+吕媛等. 卫生部全国细菌耐药监测网(Mohnarin)2011-2012年度血流感染细菌耐药监测报告.2014.
+MRSA血流感染可能合并其它多部位感染
+该回顾性研究显示，179例MRSA血流感染患者从入院到诊断的平均时间为27.5天，其中106例患者出现其它部位的感染，患者死亡率为53.1%。多因素分析结果显示，伴发肺部感染，中央静脉置管，导尿管置入及凝血酶原时间1.5倍于正常值上限等均是导致死亡的高风险因素。
+Chaiwarith R, et al. Epidemiology, clinical characteristics and treatment outcomes of healthcare- associated methicillin-resistant Staphylococcus aureus BLOODSTREAM infections at Chiang Mai University Hospital: a retrospective study. 2014.
+万古霉素仍然是血流感染的首选，且逐渐转为个体化治疗
+市场上用于MRSA感染治疗的药物种类似乎很多，尽管对于万古霉素的疗效众说纷纭，但是迄今为止万古霉素仍然是MRSA感染的有效治疗药物，尤其是基于药物PK/PD特点进行个体化治疗。同时希望未来有更好的剂量调整策略来优化万古霉素的临床使用。Holmes NE1, et al. Treatment of methicillin-resistant Staphylococcus aureus: vancomycin and beyond. 2015.
+万古霉素指南推荐剂量不会显著增加患者的肾毒性和院内死亡发生率
+一项多中心回顾性队列研究比较ICU内MRSA血流感染重症患者使用指南推荐剂量（至少15mg/kg/次）或非指南推荐剂量的万古霉素治疗后肾毒性和院内死亡率的发生率。患者年龄≥18岁，万古霉素经验性治疗≥48小时，结果显示，34%（137例）的患者使用指南推荐的剂量，多因素分析数据显示指南推荐的剂量与肾毒性和院内死亡率之间并没有显著相关性。
+Alvarez CA1, et al. Empiric weight-based vancomycin in intensive care unit patients with methicillin-resistant Staphylococcus aureus bacteremia. 2014.
+万古霉素指南推荐剂量不会显著增加老年患者的肾毒性和院内死亡发生率
+一项多中心回顾性队列研究比较ICU内MRSA血流感染重症患者使用指南推荐剂量（至少15mg/kg/次）或非指南推荐剂量的万古霉素治疗后肾毒性和院内死亡率的发生率。患者年龄≥65岁，万古霉素经验性治疗≥48小时，结果显示，46%（92例）的患者使用指南推荐的剂量，根据体重调整剂量可以增加万古霉素谷浓度≥15mg/L的患者比例（57%vs.42%），肾损伤和院内死亡率分别为32%和26%。多因素分析结果证实在老年患者中使用指南推荐的剂量与肾毒性和院内死亡率之间同样没有显著相关性。Hall RG 2nd1, et al. Impact of empiric weight-based vancomycin dosing on nephrotoxicity and mortality in geriatric patients with methicillin-resistant Staphylococcus aureus bacteraemia. 2014.

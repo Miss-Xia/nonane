@@ -1,0 +1,39 @@
+手把手教程：肾癌转移的影像评价
+肾细胞癌（RCC）大概占成人肿瘤的 5%，是第 2 大泌尿系统肿瘤，因其症状隐匿，大约 18% 的病人诊断时已发生转移，已手术病人 3 年内发生转移的概率也超过 50%。影响转移的主要因素是分期和病理类型。
+RCC 治疗效果的评价首先是形态学评价，其中应用最多的评价标准是 RECIST1.1 标准，本文予以简单介绍。
+图 1 RCC 淋巴转移途径和最常见转移部位
+上图表明肾癌淋巴转移途径，区域淋巴结（N）包括肾门淋巴结和腹膜后淋巴结（主动脉、腔静脉周围淋巴结）。纵膈、盆腔、会阴淋巴结转移都视为 M1。胸导管收集体内大多数的淋巴液汇入体循环，进入体循环的第一站就是肺，肺部也可由血液循环转移，所以肺是最常见的转移部位。
+图 2 RCC 血行转移途径（*是肠系膜下静脉）
+RCC 倾向于侵犯静脉系统，可能产生静脉血栓，进入下腔静脉后可能进入右心房，进一步向全身扩散。肾周静脉丛和腹膜后静脉丛与肾关系密切，图中显示了 2 种转移方式，可以通过结肠静脉→肠系膜下静脉→门静脉→肝脏，以及通过肾周静脉→性腺静脉→性腺。
+下面介绍几种常见的转移部位：
+图 3 RCC 肺转移
+左图显示纵膈旁转移及左肺舌段转移，较大者直径约 5 cm，可以成为「炮弹转移」（Cannonball metastasis）。右图显示双肺多发转移，其中右肺胸膜下转移灶内可见空洞。
+图 4 肺癌骨转移
+左图增强扫描肾实质期可见腰椎椎体及附件的溶骨破坏，转移灶突入椎管。右图显示该病人胸骨可见血供丰富的转移灶。
+图 5 肾癌淋巴转移
+左图显示肿大淋巴结短径超过 3 cm，位于腹膜后腹主动脉旁，病灶呈中等强化，其内可见少许坏死。右图可见高强化肿块，中心可见坏死。
+图 6 肾癌转移可能排序
+淋巴结是第 3 大转移部位，通常认为最大短径超过 1 cm 代表转移。但是肿大淋巴结不一定是转移，原发肿瘤坏死或者腔静脉瘤栓都可能导致淋巴结反应性增生。另外，高强化淋巴结常见于透明细胞 RCC。强化不均匀的淋巴结更倾向于恶性。
+图 7 RCC 肝转移
+左图显示肝 S4 可见 3 个高强化病灶，右图肾实质期该病灶未见显示。因此动脉期对于评估转移是重要的，另左图可见胰头高强化病灶。几乎所有的 RCC 肝转移患者另有其他部位转移。
+图 8 RCC 肾上腺转移
+上图双侧肾上腺肿大，静脉期可见强化，提示恶性。
+图 9 RCC 腹膜及腹膜后转移
+左图箭头所指是腹膜转移灶。右图肾周可见小转移灶（箭头），可见细小血管供血（*）。
+图 10 少见转移部位：A，B 可见动脉期脾强化灶，肾实质期未见明确显示；C 右肺底膈上转移灶；D 肾实质期可见右侧附件区强化灶；E 右乳外象限转移灶；F 皮下脂肪及肌肉转移灶
+图 11  RECIST1.1 标准简图
+RECIST1.1（Response Evaluation Criteria in Solid Tumors 1.1）标准是使用最广的实体肿瘤治疗评价标准。依据病灶在轴位的最大径评价疾病进展或缓解情况，CR、PR、SD、PD 概念被广泛接受。
+应用举例：
+图 12 患者轴位 CT 可见肝内多发强化结节
+图 13 患者接受靶向治疗后 1 月，肿瘤大小并无明显改变，依据 RECIST1.1 患者目前疾病状态是稳定（SD）
+图 14 患者接受靶向治疗 4 个月后复查，发现病灶明显缩小，缩小范围＞30%，因此依据 RECIST1.1，患者疾病状态变为部分缓解（PR）
+延伸阅读
+手把手教你看懂多囊肾
+脾脏和肾脏长在一起了，你见过吗？
+「6 H 表现」：肾上腺外嗜铬细胞瘤诊断的侦察兵
+更多精彩内容请关注微信公众号：影像时间（微信号dxy_radiol_today）
+参考文献
+[1]Brufau B P, Cerqueda C S, Villalba L B, et al. Metastatic renal cell carcinoma: radiologic findings and assessment of response to targeted antiangiogenic therapy by using multidetector CT.[J]. Radiographics A Review Publication of the Radiological Society of North America Inc, 1900, 34(1):1691-1716.
+[2] Siegel R, Deepa Naishadham MA MS, Ahmedin Jemal DVM PhD. Cancer statistics, 2012 † ‡[J]. Ca A Cancer Journal for Clinicians, 2012, 62(1):10–29.
+[3] Eisenhauer E A, Therasse P, Bogaerts J, et al. New response evaluation criteria in solid tumours: revised RECIST guideline (version 1.1).[J]. Gan to Kagaku Ryoho Cancer & Chemotherapy, 2009, 36(13):2495-501.
+[4] Bianchi M, Sun M, Jeldres C, et al. Distribution of metastatic sites in renal cell carcinoma: a population-based analysis[J]. Annals of Oncology, 2012, 23(4):973-80.

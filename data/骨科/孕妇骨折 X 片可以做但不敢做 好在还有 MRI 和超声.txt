@@ -1,0 +1,60 @@
+孕妇骨折 X 片可以做但不敢做 好在还有 MRI 和超声
+有一类患者在临床中是大部分医生都不太愿意碰到的，那就是孕妇。原因很简单，在给孕妇治病的同时，你还要时刻关注她体内的那个小生命。读研究生的时候接诊过的一个右下肢软组织挫伤的孕妇，如今我工作这么多年了，还能准确记得是右下肢，可见这个患者给我留下的印象之深刻了。
+其实很多时候孕妇这类患者最悲催还不是治疗而是诊断，什么检查都不敢做，在骨科这个问题尤其明显，简单的问题往往就这么复杂：拍个片吧，怕辐射；不拍片吧，怕漏诊；要是拍了片，骨折了倒也简单，该怎么处理就怎么处理；要是拍片没骨折，那画面太美，我不敢想象。
+虽然工作这么些年再也没有碰到过孕妇骨科就诊的，但考虑到常在河边走，需要把这个问题捋捋，看看别人都怎么做的，也好给我们借鉴借鉴。
+孕妇诊断时能不能拍片？这个答案应该是肯定的。美国妇产科医师协会（ACOG）
+[1]
+，国际放射学保护协会
+[2]
+，加拿大妇产科协会
+[3]
+等相关指南建议：X 片、CT 等影像学检查的电离辐射剂量低于胎儿损伤剂量，对有诊断需求的孕妇患者，应该实施影像学检查。
+对孕妇拍片，担忧的无非是两个问题：胎儿能够承受的射线量有多大？拍片会不会超过这个剂量？我引用 ACOG 指南里面的两个数据来解答这两个问题（当然还有其他一些相关指南对每个时期的辐射剂量进行了解读，数据不太一样，比如欧洲及加拿大介入协会的指南
+[4]
+将最大辐射剂量上限提高了不少，考虑到权威性，同时也是为了尽可能降低伤害，建议以 ACOG 指南为依据）。
+第一个问题，胎儿对射线的耐受程度可能比我们想象的更高（表格 1，数据来源于 ACOG 指南
+[1]
+）。ACOG 指南相关数据提示：第 0～2 周，胚胎所能接受的最大辐射剂量在 50～100 mGy，这一时期辐射过大往往造成一种全或无的效应：要么胚胎存活，后期无影响；要么胚胎死亡。第 2～8 周，最大辐射剂量在 200 mGy，辐射过大主要导致先天畸形。第 8～15 周，最大辐射剂量 60～310 mGy，16～25 周，最大辐射剂量 250～280 mGy，辐射过大主要影响智力发育。
+第二个问题，目前骨科医生所需要进行的常规 X 片检查，其电离辐射剂量远低于胎儿辐射损伤剂量（人体本底辐射剂量基本在 1 mGy 左右）（表格 2，数据来源于 ACOG 指南
+[1]
+）。通过表格我们可以看到，颈椎，四肢，胸片等每次照射胎儿所遭受的辐射剂量极低（均<0.001 mGy）；而腰椎（1～10 mGy），腹部平片（0.1～3 mGy）等相对高一点，但仍低于患儿损伤剂量。在常规临床实践中，骨科医生仅依据 X 线基本就能做出骨折诊断了。而即便遭遇复杂的骨盆骨折，一次 CT 检查的辐射剂量也基本在无伤害范围内（10～50 mGy）。
+上述两者结合应该足够应付临床中关于孕妇怀疑骨折是否应该进行 X 线检查的问题了，常规四肢影像学检查的辐射剂量其实并不足以对胎儿的生长造成影响。
+但即便是放射量极低，本着人道关怀精神，在孕妇进行影像学检查时仍需要采取一些措施以尽可能减少射线暴露，这方面需要骨科和放射科医生共同参与。具体措施包括但不限于
+[4]
+：
+1. 尽可能减少对腹腔及盆腔区域的直接辐射；
+2. 将球管辐射剂量调低到能显示病变的最低水平；
+3. 球管应该尽量远离患者，影像增强器应该尽可能的靠近患者；
+4. 患者身体其他部位进行检查时可以考虑防辐射衣对盆腔部位保护；
+5. 尽可能采用从后向前的方式进行投照，而不是从前向后。
+本来文章到这里就应该结束了，但中国问题永远是这样，理论上可以做不等于现实中可以做。上面讲的这些内容我相信放射科医生会比我们更专业，现实情况仍然是，孕妇受伤了，该不给拍还是不给拍。这个问题其实和前几期丁香园影像时间和神经时间里提到的心脏支架术后能不能做 MRI 是一回事。在中国这种医疗环境中，其实没办法去更多的抱怨影像科医生，毕竟他们在拒绝患者的摄片要求时其实从某种层面上也是在保护我们。
+要是不能拍片，那这篇文章不就白瞎了？不要慌，这么结尾不符合我个人严谨的作风。其实还有其他非电离辐射的方法诊断骨折，比如 MRI，比如超声。
+MRI 在临床中用于诊断骨折并不稀奇，但作为骨折首诊的方法目前仍存在较大困难，主要是因为费用较高，检查排期较长。这里介绍一下超声。
+超声我们常说可以作为骨科不愈合的一种治疗方法，但作为骨折的一种诊断手段其实也不稀奇，在上个世纪 90 年代就有学者报道过使用超声对股骨干骨折进行诊断
+[5]
+，而在某些情况下，超声诊断骨科疾病
+[6]
+可能是比 X 片更为有效的方法。
+超声诊断的潜在优势包括：无辐射，特别适合孕妇；易获取，床旁就能完成诊断；可直视下指导骨折复位。超声诊断主要针对怀疑长骨干骨折的患者
+[7]
+，但也可以包括某些其他特殊部位的骨折，比如桡骨头
+[8]
+，舟状骨
+[9]
+。采用超声进行检查会有特异性的表现，如高回声的骨皮质中断，周围软组织有肿胀，血肿形成等。
+送给大家两个福利：1. P
+ubmed 上的检索式，对此项技术感兴趣的可以通过 pubmed 检索学习：(「Fractures, Bone/diagnosis"[Majr]) AND ultrasound[Title/Abstract]。2. 在 YouTube 上有大量超声诊断骨折的视频，比如有一个「超声引导下的桡骨远端骨折复位」，感兴趣的朋友可以去看一下。
+文章到这里差不多就真的结束了，至于孕妇诊断骨折后怎么办，该怎么办就怎么办呗。对四肢骨折的患者，即便是术中透视多次也不会增加多少胎儿辐射风险；如果是骨盆骨折的孕妇，哦，我只能说祝你好运。
+「编者按」延伸阅读 -
+手把手教程：高分辨率超声诊断骨折 点击查看>>
+参考文献
+[1]Obstet Gynecol. 2016 Feb;127(2):e75-80. doi: 10.1097/AOG.0000000000001316.
+Committee Opinion No. 656: Guidelines for Diagnostic Imaging During Pregnancy and Lactation.
+[2]International Commission on Radiological Protection. Pregnancy and medical radiation. Ann ICRP 2000;30:1– 43.
+[3]J Obstet Gynaecol Can. 2015 Jun;37(6):553-74. Guidelines for the Management of a Pregnant Trauma Patient.
+[4]J Vasc Interv Radiol. 2012 Jan;23(1):19-32. doi: 10.1016/j.jvir.2011.09.007. Epub 2011 Nov 23.Radiation management for interventions using fluoroscopic or computed tomographic guidance during pregnancy: a joint guideline of the Society of Interventional Radiology and the Cardiovascular and Interventional Radiological Society of Europe with Endorsement by the Canadian Interventional Radiology Association. Dauer LT1, Thornton RH, Miller DL, Damilakis J, Dixon RG, Marx MV, Schueler BA, Vañó E, Venkatesan A, Bartal G, Tsetis D, Cardella JF; Society of Interventional Radiology Safety and Health Committee; Cardiovascular and Interventional Radiology Society of Europe Standards of Practice Committee.
+[5]Use of ultrasound in early detection of stress fractures of the medial tibial plateau.Nitz AJ, Scoville CR.Mil Med. 1980 Dec;145(12):844-6.
+[6]Foot Ankle Int. 2008 Sep;29(9):883-6. doi: 10.3113/FAI.2008.0883.Ultrasonographic examination of the deltoid ligament in bimalleolar equivalent fractures. Chen PY1, Wang TG, Wang CL.
+[7]Ultrasound-guided diagnosis of fractures of the distal forearm in children.Herren C, Sobottke R, Ringe MJ, Visel D, Graf M, Müller D, Siewe J. Orthop Traumatol Surg Res. 2015 Jun;101(4):501-5. doi: 10.1016/j.otsr.2015.02.010. Epub 2015 Apr 21.
+[8]Orthopade. 2002 Mar;31(3):268-70.[Ultrasound diagnosis of the elbow joint in fracture of the head of the radius]. [Article in German] Kessler T1, Winkler H, Weiss C, Konermann W, Gruber G.
+[9]Point-of-care ultrasound detection of acute scaphoid fracture.Tessaro MO, McGovern TR, Dickman E, Haines LE.Pediatr Emerg Care. 2015 Mar;31(3):222-4. doi: 10.1097/PEC.0000000000000385.

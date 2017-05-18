@@ -1,0 +1,35 @@
+哪种跟骨骨折做内固定时必须植骨？
+这个问题的答案是：没有哪种跟骨骨折在做内固定时必须植骨。
+昨天在丁香园论坛骨科版的
+相关帖子
+中，大家纷纷例举各种需要植骨的状况，可能很多人都不认同这个答案。
+Sanders 说
+1993 年，Sanders 等
+[1]
+在 CORR 发表了基于 CT 的跟骨骨折分型，这在跟骨骨折的手术治疗史上是具有里程碑意义的。最近，Sanders 等
+[2]
+对 120 例跟骨骨折进行了 10-20 年的长期随访，结论认为，植骨和锁定钢板都是没有必要的。
+Sanders 等1993年在 CORR 发表的跟骨骨折CT分型
+植骨主要有两大目的，其一，结构性植骨，起力学支撑作用，比如腓骨；其二，颗粒性植骨，起填充、诱导成骨作用。
+Sanders 提到，跟骨由大的皮质骨壳包裹着松质骨，移位的跟骨关节内骨折，如果皮质骨外壳能够相对复位，松质骨可以很快重建其小梁结构。Palmer 等
+[3]
+1948 年最先报道了植骨的手术方式，由于当时没有合适的内固定装置维持关节面骨折的复位。随着外侧钢板、螺钉等内固定装置不断发展，通过植骨块来实现支撑维持复位的就没有必要了。其长期临床研究也证实了这一观点。
+临床对照研究认为植骨没有必要
+Longino 等
+[4]
+等曾对 40 例移位的跟骨关节内骨折进行过前瞻性对照研究，随访至少 2 年，结果发现无论影像学还是功能结果，植骨与不植骨均没有明显差别。Gusic 等 [5] 对 143 例跟骨移位的关节内骨折进行了对照研究，也有类似的结果。
+来自 Mayo Clinic 的 Singh 等
+[6]
+对 202 例患者进行了回顾性研究，虽然植骨在 Bohler’s 角以及完全负重时间这两方面更有优势，但功能结果和并发症情况没有明显差异。
+植骨是创口并发症的风险因素
+浙医二院潘志军教授及其团队曾在 2015 年进行过一项系统评价与 meta 分析
+[7]
+，纳入了截止 2014 年电子数据库中能检索到的所有文献，包括 1559 例患者 1651 个骨折，结论认为，植骨、糖尿病、不放引流、严重的骨折会明显增加术后创口并发症的风险。
+总结起来，跟骨骨折内固定手术时，植骨并没有必要，对功能和最终结果没有帮助，反而增加创口并发症风险。
+1. Sanders R, Fortin P, DiPasquale T, et al. Operative treatment in 120 displaced intraarticular calcaneal fractures. Results using a prognostic computed tomography scan classification. Clin Orthop Relat Res. 1993;(290):87-95.
+2. Sanders R, Vaupel ZM, Erdogan M, et al. Operative treatment of displaced intraarticular calcaneal fractures: long-term (10-20 Years) results in 108 fractures using a prognostic CT classification. J Orthop Trauma. 2014;28(10):551-63.
+3. Palmer I. The mechanism and treatment of fractures of the calcaneus. J Bone Joint Surg Am. 1948;30A:2–8.
+4. Longino D, Buckley RE. Bone graft in the operative treatment of displaced intraarticular calcaneal fractures: is it helpful? J Orthop Trauma. 2001;15(4):280-6.
+5. Gusic N, Fedel I, Darabos N, et al. Operative treatment of intraarticular calcaneal fractures: Anatomical and functional outcome of three different operative techniques. Injury. 2015;46 Suppl 6:S130-3.
+6. Singh AK, Vinay K. Surgical treatment of displaced intra-articular calcaneal fractures: is bone grafting necessary? J Orthop Traumatol. 2013;14(4):299-305.
+7. Zhang W, Chen E, Xue D, et al. Risk factors for wound complications of closed calcaneal fractures after surgery: a systematic review and meta-analysis. Scand J Trauma Resusc Emerg Med. 2015;23:18.

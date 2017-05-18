@@ -1,0 +1,42 @@
+快速掌握：T 细胞淋巴母细胞性白血病
+近日，年轻演员徐婷因患 T 淋巴母细胞淋巴瘤（T-LBL）去世，一时间大家对该疾病给予了前所未有的关注，对该疾病的认识也是众说纷纭，引发不少争议。
+为此，血液时间从循证医学的角度，整理了近几年血液领域证据等级较高的相关文献（附于文后），对该疾病进行一简单介绍，以供大家参考。
+T 淋巴母细胞淋巴瘤（T-LBL）
+淋巴瘤分为霍奇金淋巴瘤（HL）和非霍奇金淋巴瘤（NHL），NHL 占所有淋巴瘤的 85%~90%，而成人淋巴母细胞淋巴瘤（LBL）仅占 NHL 的 2%，其中 90% 的 LBL 病例来源于 T 细胞，所以 T-LBL 仅占所有淋巴瘤的 1.6% 左右，是一种少见的血液系统恶性肿瘤。
+T-LBL 好发于青少年及年轻患者，诊断时中位年龄 20 岁，具有高度的侵袭性，自然病程短，预后差。因 LBL 与 ALL 极其相似，所以 2008 版 WHO 分类将 T-ALL 与 T-LBL 归为同一疾病，2016 版最新的分类未做大的调整，将其归为 T 淋巴母细胞白血病/淋巴瘤。
+T-LBL临床特点
+T-LBL 常在纵膈出现生长迅速的肿块（60%~70%），伴胸水及心包积液，甚至出现上腔静脉阻塞综合征。外周淋巴结受累占 60%~80%，常见受累部位是颈部、锁骨上及腋窝淋巴结。
+骨髓受累占 21%，中枢神经系统受累占 5%~10%，其他少见累及部位有肝、脾、膈下淋巴结、骨、皮肤及肠道等。
+T-LBL诊断
+NCCN 指南中的诊断要求必要的检查包括：
+（1）病理；
+（2）细针穿刺活检结合淋巴瘤其他诊断技术可以确诊：
+（3）免疫学检查；
+（4）细胞遗传学 ± FISH。
+诊断基于细胞形态学和流式免疫分型：
+（1）形态学上 T-LBL 细胞弥漫性生长，中等大小，少量细胞质。整个淋巴结结构全部破坏，伴被膜累积，可见「星空」现象，在副皮质区部分累积者可见残留的生发中心。大多数母细胞具有扭曲核、核分裂象数目较多等特点；
+（2）免疫表型表达 T 细胞抗原的 CD2、CD5、CD4 和 CD8 可以表达正常、减少或完全丢失，CD3+；
+（3）表达非谱系特异性不成熟标志：TdT、CD99 或 CD34。
+T-LBL治疗
+目前 T-LBL 仍缺乏标准的治疗方案，多数研究推荐使用急性淋巴细胞白血病（ALL）类似的化疗方案。
+2012 年 NCCN 治疗指南中推荐的治疗方案全部是治疗ALL的方案：BFM、CALGB、Hyper-CVAD，并认为无论是Ⅰ期还是 Ⅳ 期的 T-LBL 患者，均应以化疗为主。
+而大剂量化疗第 1 次完全缓解后进行自体或者异基因造血干细胞移植（auto- or allo-HSCT）治疗尚存在争议。
+1. 化疗方案
+Jeong SH 等的研究显示 Hyper-CVAD 方案的完全缓解率可高达 73%。美国安德森肿瘤中心推荐 Hyper-CVAD 联合奈拉滨方案作为 LBL 的一线治疗方案。
+但Kota V K 等的研究显示，Hyper CVAD/甲氨蝶呤-阿糖胞苷方案治疗，其总体预后不好，中位生存时间仅为 17.6月，2 年生存率仅为 35%，且复发率高。
+Stock W 等的研究纳入了 321 例患者，其中 CALGB 治疗组 7 年总生存 46%。
+2. 造血干细胞移植
+异基因造血干细胞移植是否适合作为一线巩固治疗方案相关报道很少，Bersvendsen 等的研究中纳入 23 例患者，经过 ALL 样强诱导方案化疗，纵隔大包块者局部放疗，完全缓解后 allo-HSCT 巩固治疗，5 年 PFS 可达到 76%。
+魏华萍等的研究纳入 14 例 LBL 患者，3 年和 5 年总生存率分别为 47. 6% 及 38. 1%，生存结果较差。allo-HSCT 对 T-LBL 的治疗有一定的参考价值。
+小结
+从现有的文献证据来看，以 Hyper-CVAD 为代表的一线治疗方案对于 T-LBL 有较为明显的疗效，完全缓解率、5 年 PFS 等均有令人欣喜的结果。
+虽然由于该病相对少见，现有的研究因为纳入对象的疾病状态、药物反应敏感性、样本数量有限等原因，仍有待进一步观察研究，但这类患者，即使基于现有的循证医学证据，制定恰当的化疗方案，获得良好结果应该不是罕见的个案。
+但是，从另一个方面而言，过于强调 T-LBL 的可「治愈」性，也不利于对该疾病的客观认识，而产生过高的预期。
+参考文献
+1. Litzow MR, Ferrando A A. How I treat T-cell acute lymphoblastic leukemia in adults[J].Blood, 2015, 126(7): 833-841.
+2. 魏华萍, 赵小利, 黄文荣, 等. 异基因外周血造血干细胞移植治疗成人 T 淋巴母细胞淋巴瘤 14 例疗效观察[J]. 中国实验血液学杂志, 2016, 2:027.
+3. 周剑峰, 黄梅. T 淋巴母细胞淋巴瘤的特征及治疗进展[J]. 临床血液学杂志, 2013 (6): 752-753.
+4. Jeong SH, Moon J H, Kim J S, et al. Multicenter analysis of treatment outcomes inadult patients with lymphoblastic lymphoma who received hyper-CVAD inductionfollowed by hematopoietic stem cell transplantation[J]. Annals of hematology,2015, 94(4): 617-625.
+5. Kota V K, Hathaway A R, Shah B D, et al. Poor Outcomeswith Hyper CVAD Induction for T-Cell Lymphoblastic Leukemia/Lymphoma[J]. Blood,2015, 126(23): 3762-3762.
+6.Bersvendsen H，Kolstad A，Blystad AK，et al． Multimodaltreatment with ALL-like chemotherapy，Auto-HSCTand radiotherapy for lymphoblastic lymphoma．Acta Onco，2014; 53(5) : 680 － 687．
+7. Stock W, La M,Sanford B, et al. What determines the outcomes for adolescents and young adultswith acute lymphoblastic leukemia treated on cooperative group protocols? Acomparison of Children's Cancer Group and Cancer and Leukemia Group Bstudies[J]. Blood, 2008, 112(5): 1646-1654.

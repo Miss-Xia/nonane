@@ -1,0 +1,23 @@
+上午下午有不同：肠道准备单次／分次给药
+结肠镜检查的成功很大程度上依赖于充分的肠道准备质量。而临床医生经常会面临肠道准备药物的单次剂量服用与分次剂量服用的选择。
+最近发表在AGJ上的一篇文章，介绍了Horton 等的一项研究，显示肠道准备分次给药（检查前一天晚上给与一半药量，检查当天再给另外一半 ）优于单次给药（检查前一天晚上一次性用药），因分次剂量给药可显著减轻排便的强度及持续时间，提高肠道准备的质量，增加无蒂锯齿状息肉的检出率，但文章中并没有将结肠镜检查分为上午结肠镜与下午结肠镜两种情况单独分析。
+因此，有医生发文称分次服用法优于单次服用法，而给阅读者造成一种分次服用优于单次服用的错误印象。其实不然，单次服用法与分次服用法的优选会根据结肠镜检查时间而不同，单次服用法也分为检查前一天晚上单次服用，与检查当天单次服用，不能一概而论。
+上午结肠镜首选分次服用法
+当结肠镜检查安排在上午进行时，临床中可用分次服用法（前一天晚上一半剂量，第二天结肠镜检查前2 h服用完另一半剂量）或者单次服用法（前一天晚上单次服用全部剂量泻药）。
+mete分析已经证实分次服用法较单次服用法有更好的肠道准备质量。且分次服用法能够增加患者重复肠道准备的意愿，并且能够降低恶心等并发症的发生率。
+Horton 等研究了分次服用法与检查前一天晚上单次服用法的区别，没有单独分析上午结肠镜或下午结肠镜，其结果显示无论结肠镜是安排在上午还是下午，分次服用法均优于前一天晚上单次服用法。虽然临床研究推荐分次服用法，但根据医院临床实践，医生还是选择前一天晚上的单次服用法，可能是为了操作的方便。
+下午结肠镜首选单次服用法
+当结肠镜在下午进行时，欧洲消化内镜协会推荐检查当天上午单次服用全部剂量聚乙二醇方案。检查当天早晨单次服用法（不是检查前一天晚上单次服用法）与分次服用法相比，前者能获得不亚于分次服用法的肠道准备质量，且其对患者睡眠的干扰更少，降低了对患者工作时间的占用，所以对于门诊病人推荐上午单次服用法。
+但是对于住院病人，单次服用大剂量泻药其患者耐受性较分次服用法差，患者更倾向于选择分次服用法。
+总结
+对于结肠镜前肠道准备泻药是分次服用还是单次服用，是分情况而定的。且单次服用也分两种类型：检查前一天晚上单次服用、检查当天上午单次服用。
+针对上午结肠镜检查，推荐使用分次服用法，即前一天晚上服用半量泻药，在检查当天服用完另半份泻药（即在上午结肠镜前至少2 h服用完）。
+针对下午结肠镜检查，推荐上午单次服用法，可以减少对患者工作以及睡眠的干扰。
+参考文献
+1. Horton N, Garber A, Hasson H, et al. Impact of Single- vs. Split-Dose Low-Volume Bowel Preparations on Bowel Movement Kinetics, Patient Inconvenience, and Polyp Detection: A Prospective Trial[J]. American Journal of Gastroenterology, 2016.
+2. Martel M, Barkun A N, Menard C, et al. Split-Dose Preparations Are Superior to Day-Before Bowel Cleansing Regimens: A Meta-analysis[J]. Gastroenterology, 2015, 149(1):79–88.33.
+3. Kilgore T W, Abdinoor A A, Szary N M, et al. Bowel preparation with split-dose polyethylene glycol before colonoscopy: a meta-analysis of randomized controlled trials[J]. Gastrointestinal Endoscopy, 2011, 73(6):1240-5.
+4. Varughese S, Kumar AR, George A et al. Morning-only one-gallon polyethylene glycol improves bowel cleansing for afternoon colonoscopies: a randomized endoscopist-blinded prospective study. Am J Gastroenterol 2010; 105: 2368–2374
+5. Matro R, Shnitser A, Spodik M et al. Efficacy of morning-only compared with split-dose polyethylene glycol electrolyte solution for afternoon colonoscopy: a randomized controlled single-blind study. Am J Gastroenterol 2010; 105: 1954–1961
+6. Longcroft-Wheaton G, Bhandari P. Same-day bowel cleansing regimen is superior to a split-dose regimen over 2 days for afternoon colonoscopy: results from a large prospective series. J Clin Gastroenterol 2012; 46: 57–61
+7. Kotwal V S, Attar B M, Carballo M D, et al. Morning-only polyethylene glycol is noninferior but less preferred by hospitalized patients as compared with split-dose bowel preparation.[J]. Journal of Clinical Gastroenterology, 2013, 48(5):414-418.

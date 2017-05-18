@@ -1,0 +1,52 @@
+《自然综述-神经病学》杂志回眸卒中 2016：卒中可治但预防是关键
+2017 年 2 月，《自然综述-神经病学》杂志刊登文章回顾了 2016 年度脑血管领域五大研究进展。
+首都医科大学附属天坛医院王拥军教授团队 CHANCE 研究的基因组亚组分析，作为唯一入选的中国本土研究，受到荷兰乌德勒支大学医学中心神经病学与神经外科系、鲁道夫·曼克奈斯脑科学中心与尤利乌斯健康科学中心 Ale Algra 教授和莱顿大学医学中心神经病学系 Marieke J. H. Wermer 教授特别推荐。他们指出「如果将这些结论应用于非中国人群，那么这将成为 TIA 患者管理的重要指南，并且基因检测将成为医疗急救的重要部分」。
+我们特邀首都医科大学附属天坛医院王拥军教授团队编译此回顾，以飨读者。
+HERMES：发病 7 小时 18 分内的卒中患者进行血管内治疗后均能获益
+2015 年，5 项具有突破意义的研究为血管再通治疗对于急性缺血性卒中的有效性提供了期待已久的证据，这些成果轰动了医学界。2016 年，在这些都尘埃落定之时，是时候开始反思并进一步完善卒中管理的时候了。
+HERMES 团队即这五项随机试验的研究者（(MR CLEAN, ESCAPE, REVASCAT, SWIFT PRIME and EXTEND-IA），共同对病例资料进行了荟萃分析，目的在于探讨在预设亚组中治疗效果随时间的变化
+1,2
+。研究收集了 1287 例大脑前动脉闭塞的卒中患者数据，主要终点是 90 天内改良 Rankin 评分（mRS）的变化情况。
+总体来说，血管内治疗降低了卒中后 90 天内的致残率（cOR 为 2.49，95%CI 1.76-3.53）（注：cOR ，common odds ratio 是指直接使用 mRS 评分作为结局时计算的比值比）。平均仅需治疗 2.6 名患者即可获得 mRS 一个水平的改善。血管内治疗在所有的预设亚组都显示出了良好的效果，包括年龄大于 80 岁的高龄组、平均发病时间超过 5 小时及静脉溶栓禁忌组。治疗效果随着从发病到开始到进行肱动脉穿刺的时间窗的延长而下降，3 小时内 cORs 2.79（95%CI 1.96-3.98），6 小时内 cORs 1.98（95%CI 1.30-3.00），8 小时内 cORs 1.57（95%CI 0.86-2.88），血管内治疗的效果在 7 小时 18 分以内都具有显著的统计学意义。
+这些研究结果不仅仅说明了血管内治疗在卒中治疗中的广泛适用性，并且强调了动脉取栓所倡导的「时间就是大脑」的理念。取栓术的实施将会对旨在为急性缺血性卒中患者提供及时治疗的医疗机构产生全球性的影响。此研究中三分之一的患者从普通的卒中中心转入了介入治疗中心，这就强调我们需要制定相应的规则来预测大血管闭塞的可能性，从而筛选需要介入治疗的患者
+3
+。症状发生到进行股动脉穿刺的时间或入院到开始股动脉穿刺的时间将成为监测医疗质量的新的指标。整个流程中，患者从发病到进入造影室的所有流程均需要简化。基于蓝牙技术的简化时间分配系统可能有助于这些中间流程的执行。扩大治疗时间窗有益于增加接受治疗的患者数量，并且有助于偏远地区推行血管内治疗。HEMRES 最终得出结论：发病 8 小时内的卒中患者进行血管内治疗后均能获益，但是发病超过 6 小时的患者数量太少以至于尚不能得出确切结论。因此，对于 6～8 小时时间间隔治疗效果需要更多的研究来证实。
+TIA 登记研究：早期有效的二级预防降低血管事件发生率
+短暂性脑缺血发作（TIA）或轻型卒中往往是脑血管事件的先兆，TIA 或轻型卒中后数天至一周内再次发生卒中的风险极高。2016 年发表的一项队列研究，即 TIA 登记研究，纳入了 4789 例 TIA 或轻型缺血性卒中
+4
+的患者，病例来自于全世界 21 个国家的 61 个分中心，由不同的神经内科医师经诊。分中心选择标准是必须有专用系统使得 TIA 患者能快速就诊。研究结果表明再发卒中的风险为：1 周内 2.1%，3 个月内 3.7%，1 年内 5.1%。1 年内所有的血管事件（卒中、急性冠脉综合征或血管性死亡）发生率为 6.2%。ABCD2 评分较高、大动脉硬化以及影像学上有多发梗死灶的患者再发卒中的风险加倍。
+相较于上世纪末中一些研究中 TIA 后 3 个月内血管事件发生率为 12%～20%，TIA 登记研究中血管事件发生率偏低。对血管事件进行早期有效的二级预防，如口服阿司匹林
+5
+、他汀类药物及降压药等，或可解释这些 TIA 登记研究的这些结果。
+CHANCE 研究亚组分析：CYP2C19 等位基因分析提示基因检测或将成为医疗急救的重要部分
+2013 年发表的 CHANCE 研究结果表明早期使用双联抗血小板治疗能预防卒中的复发
+6
+。CHANCE 研究纳入了 5170 例 TIA 或轻型卒中的中国患者，随机分为阿司匹林联合氯吡格雷治疗组及单独阿司匹林治疗组。联合应用抗血小板药物有效降低 90 天内卒中复发率。2016 年，CHANCE 研究的研究者又进行了一项重要的亚组分析，即探讨 3 种主要的 CYP2C19 等位基因对氯吡格雷在肝脏中转化为其活性代谢产物的影响
+7
+。此研究对 2933 例患者进行了基因分析，其中 1726（59%）例携带 CYP2C19 基因变异型的患者氯吡格雷活化能力降低。而对于氯吡格雷代谢能力差的患者，使用阿司匹林联合氯吡格雷效果并不优于单独使用阿司匹林 ［相对危险度减少率（RRR）7%，95%CI 为 26%～31%），而对于氯吡格雷代谢能力好的患者，联合使用阿司匹林与氯吡格雷效果非常好，甚至优于整体试验结果（RRR49%，95%CI 为 25%～65%)。亚组分析的两组治疗效果有统计学差异（P = 0.02)(FIG.1).
+图. CHANCE 研究亚组分析. 上图示阿司匹林联合氯吡格雷治疗组与单独阿司匹林治疗组 90 天内卒中复发的风险比（HRS）及 95% 置信区间（CI）。数据分别表示 CHANCE 研究全队列、CYP2C19 等位基因检测的亚组以及携带或不携带影响氯吡格雷代谢的 CYP2C19 变异型基因组。Pint 是指携带与不携带 CYP2C19 等位基因的两组之间的统计学效度。
+值得注意的是，CHANCE 研究的结果只针对于中国人群，中国人群中携带有影响氯吡格雷代谢的 CYP2C19 基因变异型占 60%，明显高于欧洲人群携带率 30%。然而，如果将这些结论应用于非中国人群，那么这将成为 TIA 患者管理的重要指南，并且基因检测将成为医疗急救的重要部分。
+INTERSTROKE 研究、全球疾病负担研究：90% 以上卒中危险因素可控
+卒中是全球性问题，每年发病人数达 1700 万人。高科技个体化诊疗方法的出现可能增加高收入地区与低收入地区间卒中管理差距。在过去的十年中，高收入国家的卒中致死率及致残率均有所下降，但在低收入国家，卒中仍然是第二致死原因。大多数人群未能接受静脉阿替普酶溶栓治疗、血管内取栓治疗、卒中单元管理或 TIA 后 24 小时监测，因此我们应该更加重视卒中的预防。
+在一项纳入了 13447 例首发卒中患者（10388 例缺血性卒中，3059 例脑出血）及 13472 例对照的大型病例对照研究中，国际卒中研究者旨在寻找潜在可控的卒中危险因子。最终找到了 10 个卒中危险因素
+8
+：高血压、吸烟、糖尿病、体力劳动、饮食、心理因素、腹型肥胖、酗酒、心脏病、及载脂蛋白异常。这 10 项危险因素共占人群归因危险度的 90%，并且其适用于世界上大部分地区、种族、性别及年龄。
+这项研究结果与全球疾病负担研究的结果相同，全球疾病负担研究旨在调查 1990—2013 年期间 188 个高收入国家、中等收入国家级低收入国家的卒中情况
+9
+。在这个亚组分析结果中，卒中相关的残疾调整生命年（DALYs）与潜在的环境因素、职业、行为、生理和代谢性危险因素及不同年龄和性别相关。再次，全球卒中负担的 90% 以上是可控的危险因素。值得注意的是，约三分之一的卒中发生是由于空气污染。
+在 2016 年，我们看到了高科技及个性化卒中管理的广阔前景，但也让我们牢记卒中预防的重要性。目前急需大力投入疾病预防部门以提高人群健康水平。而在 2016 年，世界卒中组织也提出活动口号：「卒中可治，足够重视，积极行动可大大提高生活质量」
+10
+。
+近两年来，血管内治疗在急性缺血性卒中的治疗中获得了重大突破。为了进一步推进血管内治疗，正如 2016 年所强调的一样，我们还需不断完善血管内治疗流程，包括对患者的筛选。然而，我们更应该把卒中的预防放在第一位。
+（首都医科大学附属北京天坛医院陈玮琪、张星翻译，王拥军审校）
+参考文献
+1. Goyal, M. et al. Endovascular thrombectomy after large-vessel ischaemic stroke: a meta-analysis of individual patient data from five randomised trials. Lancet 387, 1723–1731 (2016).
+2. Saver, J. L. et al. Time to treatment with endovascular thrombectomy and outcomes from ischemic stroke: a meta-analysis. JAMA 316,1279–1288 (2016).
+3. Lima, F. O. et al. Field assessment stroke triage for emergency destination: a simple and accurate prehospital scale to detect large vessel occlusion strokes. Stroke 47, 1997–2002 (2016).
+4. Amarenco, P. et al. One-year risk of stroke after transient ischemic attack or minor stroke. N. Engl. J. Med. 374, 1533–1542 (2016).
+5. Rothwell, P. M. et al. Effects of aspirin on risk and severity of early recurrent stroke after transient ischaemic attack and ischaemic stroke: time-course analysis of randomised trials. Lancet 388, 365–375(2016).
+6. Wang, Y. et al. Clopidogrel with aspirin in acute minor stroke or transient ischemic attack. N. Engl. J. Med. 369, 11–19 (2013).
+7. Wang, Y. et al. Association between CYP2C19 loss-of-function allele status and efficacy of clopidogrel for risk reduction among patients with minor stroke or transient ischemic attack. JAMA 316, 70–78 (2016).
+8. O’Donnell, M. J. et al. Global and regional effects of potentially modifiable risk factors associated with acute stroke in 32 countries (INTERSTROKE): a case–control study. Lancet 388, 761–775 (2016).
+9. Feigin, V. L. et al. Global burden of stroke and risk factors in 188 countries, during 1990-2013: a systematic analysis for the Global Burden of Disease Study 2013. Lancet Neurol. 15, 913–924 (2016).
+10. World Stroke Organisation. Campaign Resources Toolkit 2016. World Stroke Campaign http://www.worldstrokecampaign.org/get-involved/campaigntoolkit-2016.html (2016).

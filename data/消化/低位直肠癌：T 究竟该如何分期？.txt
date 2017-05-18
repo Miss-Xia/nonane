@@ -1,0 +1,38 @@
+低位直肠癌：T 究竟该如何分期？
+近期 UICC 发布结直肠癌 TNM 分期新版本（第 8 版），将于 2018 年 1 月应用于临床，然而，低位直肠癌的分期并没有被关注。
+由于低位直肠周围组织不同于高位直肠及结肠周围组织，所以它的分期不能完全套用 UICC 的 TNM 分期中的 T 分期。况且，目前临床上的各大指南（NCCN, ESMO, 中国结直肠诊疗指南）也没有给低位直肠癌明确的 T 分期标准。因而不同的文献资料对 T 分期存在不同的描述。进行 MDT 讨论时，往往外科专家和影像学专家使用的分期标准不同，对低位直肠癌的术前评估产生差异。所以，笔者认为有必要利用解剖学结合影像学对低位直肠癌 T 分期给与统一的标准。
+低位直肠癌的解剖学定义
+首先我们要明确一下低位直肠癌的定义。从解剖学角度来区分，以腹膜反折为界将直肠分为上段（高位）和下段（低位）直肠。我们这里讨论的低位直肠癌引用解剖学定义标准。
+目前，临床上低位直肠癌的术前评估最重要的是需要 MRI 和直肠腔内超声检查。其中直肠 MRI 的报告方面，影像学专家大多数采用标准的「DISTANCE」方法
+[1-3]
+。该方法对低位直肠癌「T」, 也就是 T 分期进行了描述。该标准认为：
+T1，肿瘤局限于肌层（图 1,2）
+图 1
+图 2
+T2，肿瘤侵透全肌层但未侵及括约肌间隙（图 3,4）
+图 3
+图 4
+T3，侵犯括约肌间隙并距肛提肌 1 mm 以内（图 5,6）
+图 5
+图 6
+T4，侵犯外括约肌超过肛提肌伴或不伴有临近器官侵犯（图 7,8）。
+图 7
+图 8
+其中，「DISTANCE」标准 T 分期标准中 T1，T2 与临床上采用的 AJCC/UICC 的 TNM 分期明显存在差异。临床工作者在理解上容易引起分歧。
+此外，Bamba
+[4]
+和 Battersby
+[5]
+等人的文章中对低位直肠癌 T 分期也有不同的描述。他们认为: T1：肿瘤侵犯粘膜及粘膜下层；T2：肿瘤侵至固有肌层或内括约肌，但未侵出； T3：肿瘤侵至直肠系膜内或内外括约肌间隙； T4：肿瘤侵至外括约肌、肛提肌或周围器官（见图 9）。
+图 9
+由于目前临床上对低位直肠癌分期文献很少，并且存在争议。
+笔者建议临床工作者有必要统一分期标准，结合 AJCC/UICC 的 TNM 分期标准，推荐采用 Bamba 和 Battersby 等人的标准。近期发布的《CSCO 结直肠癌诊疗指南 2016 版》较为实用，而且首次在指南中列出下段直肠癌的分期标准，基本上和 Bamba、Battersby 等人的标准相一致，值得推荐。
+参考文献
+1.Shihab OC, How P, West N, et al. Can anovel MRI staging system for low rectal cancer aid surgical planning? Dis ColonRectum 2011;54(10):1260–1264.
+2. Shihab OC, Moran BJ, Heald RJ, Quirke P,BrownG. MRI staging of low rectal cancer. Eur Radiol 2009;19(3):643–650.
+3.Nougaret S, Reinhold C, Mikhael HW, etal. The use of MR imaging in treatment planning for patients with rectalcarcinoma: have you checked the "DISTANCE"? Radiology. 2013Aug;268(2):330-44.
+4. Bamba Y, Itabashi M, Kameoka S.Preoperative evaluation of the depth of anal canal invasion in very low rectalcancer by magnetic resonance imaging and surgical indications forintersphincteric resection[J]. Surg Today, 2012,42:328-333.
+5.Battersby NJ,et al. ProspectiveValidation of a Low Rectal Cancer Magnetic Resonance Imaging Staging System andDevelopment of a Local Recurrence Risk Stratification Model: The MERCURY IIStudy. Annals of surgery.2016; 263:751-760.
+本文作者：温医一院 李绍堂，
+点此进入作者专栏
+。

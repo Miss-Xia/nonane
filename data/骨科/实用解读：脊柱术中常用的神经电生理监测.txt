@@ -1,0 +1,43 @@
+实用解读：脊柱术中常用的神经电生理监测
+刀尖上的舞者，有人这么形容脊柱外科医生。作为中轴骨，脊柱有负重、减震、保护和运动等功能（图 1），而社会的老龄化伴随着脊柱退行性疾病发病率的明显增高。脊柱退行性疾病带来了腰背痛、肩颈痛甚至是运动障碍。因此，越来越多的患者需要外科手术来进行干预。
+图 1 脊柱解剖图（引自奈特-人体解剖学图谱）
+然而，椎管内的脊髓及其发出的神经让每一个脊柱外科医生如履薄冰。再高明的舞者也可能出错，稍有不慎，万劫不复。作为一名脊柱外科医生，即使是做过成百上千次的手术，也只有等病人醒了，看到他手脚能动了，悬着的心才能放得下去。而现在，神经电生理监测的出现，则像一双厚底鞋，为脊柱外科医生提供了一份保障。大家一起来了解脊柱术中神经电生理监测的应用。
+目的及主要方法
+[1-5]
+脊柱术中神经电生理监测的目的有以下三个
+[6]
+：
+1. 反馈术中神经功能完整性的变化情况；
+2. 采取措施以避免不可逆的损害；
+3. 降低术后神经功能缺损的风险。
+其主要方法包括：
+1. 体感诱发电位（somatosensory evoked potentials，SEP）：监测上行感觉神经传导系统功能；
+2. 运动诱发电位 （motor-evoked potentials，MEP）监测下行运动神经传导系统功能；
+3. 肌电图 （electromyograph，EMG）：监测支配肌肉活动的颅神经、脊髓神经根丝以及外周神经的功能。
+体感诱发电位（SEP）
+SEP 主要的功能是监测上行感觉神经传导系统功能（图 2）。
+图 2 正常正中神经及胫后神经 SSEP 表现（图片来自 Gonzalez, A.A., et al., Intraoperative neurophysiological monitoring during spine surgery: a review. Neurosurg Focus）
+其优点是可重复性较好，可连续监测，远离手术野，对手术影响小，可操作性好。但是其缺点也同样明显：影响因素过多，无法消除，包括麻醉、体温、平均动脉压、电干扰等均会对结果造成影响，故使用有局限性。
+美国脊髓研究协会在 33000 例脊髓手术病例的回顾调查中发现，28% 的神经并发症并不能被 SEP 检测出来。且 SEP 反映脊髓损伤的时间较 MEP 滞后约 16 min，SEP 还是多个神经根传导，对神经根损伤的监测既不敏感也无特异性，故需要用 EMG 监测来取代。
+其主要观测指标是潜伏期和波幅。预警标准：波幅下降超过 50% 和（或）潜伏期延长超过 10%。SSEP 异常性改变持续 10 min 以上提示有神经损害的危险。波幅变化：<30% 属于正常变化；30%～50% 需要密切观察；>50% 则提示有神经损害（图 3）。
+图 3 图 A 是正常的情况，振幅是 0.21uv，而潜伏期是 33ms，而 B 图中振幅是 0.1uv 而潜伏期是 38ms。因此振幅下降了 52.4% 而潜伏期延长了 12%，提示有神经损害的危险
+运动诱发电位 （MEP）
+MEP 主要功能是监测下行运动神经传导系统功能。
+其优点是能够即时直接地反映运动传导通路的功能状态。其主要缺点是重复性比 SSEP 差，而且可能受到肌松药的影响。预警标准目前有一定的争议，全或无标准：只有当 MEP 全部消失才预示术后的运动障碍。波幅标准：一般认为至少 6 次有 1 次的波幅降低 80% 视为阳性变化。也有人认为波幅降低 50% 提示有风险。因为个体差异极大，所以最好有一个参照通道。
+图 4 正常股外侧肌、骨后肌群、胫骨前肌、腓肠肌等 MEP 表现（图片来自 Gonzalez, A.A., et al., Intraoperative neurophysiological monitoring during spine surgery: a review. Neurosurg Focus）
+肌电图（EMG）
+EMG 的主要功能是在脊柱手术当中主要监测神经根的情况，分为自发 EMG 和诱发 EMG（图 5）。
+图 5 神经根回缩过程中胫骨前肌的一系列活动
+自发 EMG 是指术中神经受刺激后在该神经所支配的肌肉上记录到的电活动，持续记录的信息可以及时反应对神经根的刺激。诱发 EMG 的基本原理是如果螺钉靠近一个神经根，在比较低的电流下螺钉将刺激附近的神经根而出现复合动作电位。
+其优点是能对神经根情况进行实时监控，同时能辅助判断椎弓根钉位置。其主要缺点是敏感性与特异性均不高。预警标准是暴发性电活动（图 6）；连续长时间的电活动，持续几秒到几分钟。
+图 6 XLIF 中肌电图，A 为正常自发肌电图，B 为自发肌电图爆发性电活动，提示神经根受机械刺激，C 为椎弓根螺钉固定时正常的肌电图，D 为复合动作电位，提示椎弓根破裂
+此外，诱发 EGM 还可以在术中评估椎弓根螺钉位置：刺激电量 ≤ 10mA 时引出 EMG 波形说明椎弓根钉穿破椎弓根皮质。当 10～20mA 时引出 EMG 波形说明椎弓根钉可能穿破皮质。当刺激电量>20mA 时引出 EMG 波形，说明椎弓根钉位于椎弓根皮质内。
+因此，合理地在脊柱手术中运用神经电生理监测，可以有效的减少意外发生的风险，为我们的手术保驾护航。
+作者：浙江大学医学院附属邵逸夫医院骨科 李生鋆
+参考文献
+1. Avila, E.K., et al., Intraoperative neurophysiologic monitoring and neurologic outcomes in patients with epidural spine tumors. Clinical Neurology and Neurosurgery, 2013. 115(10): p. 2147-2152.
+2. Deletis, V. and F. Sala, Intraoperative neurophysiological monitoring of the spinal cord during spinal cord and spine surgery: a review focus on the corticospinal tracts. Clin Neurophysiol, 2008. 119(2): p. 248-64.
+3. Rabai, F., R. Sessions, and C.N. Seubert, Neurophysiological monitoring and spinal cord integrity. Best Practice & Research Clinical Anaesthesiology, 2016. 30(1): p. 53-68.
+4. 王珏, et al., 多模式神经电生理监测在脊柱手术中的应用. 癫癎与神经电生理学杂志, 2014. 23(5): p. 263-266.
+5. 邱勇, 神经电生理监测在脊柱矫形术中的应用. 中华医学杂志, 2015. 95(21): p. 1642-1643.
+6. Gonzalez, A.A., et al., Intraoperative neurophysiological monitoring during spine surgery: a review. Neurosurg Focus, 2009. 27(4): p. E6.

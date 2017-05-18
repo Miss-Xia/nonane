@@ -1,0 +1,45 @@
+传奇药物二甲双胍2016热点再续
+二甲双胍 1921 年问世，因恰逢胰岛素的出现以及苯乙双胍强效降糖作用和双胍类药物乳酸中毒的副作用曝光，二甲双胍也受到了质疑。直至 1977-1997 一项随访 10 年的英国糖尿病前瞻性研究（UKPDS）奠定了它在 2 型糖尿病 (T2DM) 治疗中的关键地位。1994 年美国 FDA 批准二甲双胍用于 2 型糖尿病。
+除能有效控制血糖、乳酸酸中毒发生率较低外，越来越多研究发现二甲双胍降糖外的作用，如可降低心血管事件及某些肿瘤的发生风险，预防卵巢过度刺激综合征，减轻 T2DM 肥胖患者体重，抗衰老延长寿命等。二甲双胍现已成为全球范围最常用于 T2DM 的药物，那么在 2016 年研究者们对于二甲双胍又有哪些新发现呢？
+二甲双胍与神经退行性疾病
+目前关于二甲双胍和神经退行性疾病的研究结果存在争议，一些研究表明二甲双胍可降低认知能力下降的风险，但是也有研究显示由于缺乏维生素 B12，服用二甲双胍的患者认知能力更差，长期使用会轻度增加阿尔茨海默氏症的风险。
+2016 年 6 月美国糖尿病协会科学会议上，来自杜兰大学的 Qian Shi 博士研究发现，在排除神经病变、维生素 B12 缺乏、现有的神经退行性疾病、认知功能障碍、迟发效应的脑血管疾病、癌症、终末期肾脏疾病的 50 岁以上应用胰岛素的糖尿病患者中，二甲双胍和神经退行性疾病的保护关系在 2 年后才有统计学意义，在老年痴呆症和帕金森方面，具有类似的风险减少结果，但在其他亚型疾病中没有看到正面结果
+1,2
+。
+二甲双胍与肥胖相关性糖尿病
+目前二甲双胍的作用机制并未完全阐明，但已知路径包括 AMP 活化蛋白激酶（AMPK）的活化，这种酶在胰岛素信号转导和葡萄糖代谢过程中发挥重要作用，可增加胰岛素敏感性，还可拮抗胰高血糖素，从而降低血糖水平。在肥胖疾病中，脂肪纤维化逐渐成为白色脂肪组织是发生代谢紊乱的标志之一。脂肪组织纤维化会损伤脂肪细胞的可塑性，但是对于肥胖发生过程中，白色脂肪组织如何发生细胞外基质异常重塑的相关研究仍较少。
+2016 年 8 月，美国波士顿大学医学院华人学者 Mengwei Zang 领导的研究小组在国际学术期刊 Diabetes 上发表了一项最新研究，他们发现诱导肥胖的模型小鼠在进行了二甲双胍药物治疗后，脂肪细胞周围胶原沉积减少，一些参与纤维化形成的基因表达也出现了下降。随后研究人员进行了信号通路分析，发现二甲双胍能够通过激活 AMPK 抑制 TGF-beta1/Smad3 信号途径，抑制白色脂肪组织发生纤维化，改善脂肪组织纤维化导致的胰岛素抵抗，这一研究结果为肥胖及糖尿病治疗提供了新的信息
+3
+。
+二甲双胍与哮喘
+研究显示，胰岛素耐受、代谢综合征和糖尿病可能在「肥胖哮喘」的病理生理学过程中发挥重要作用。而动物实验表明，二甲双胍可缓解肥胖小鼠的过敏性嗜酸粒细胞气道炎症，使支气管肺泡灌洗中嗜酸细胞和肿瘤坏死因子（TNF-α）水平正常化，并恢复肺组织中的 AMPK 水平，还可以通过 AMPK 依赖性通道抑制气道平滑肌细胞增殖。那么具有改善胰岛素抵抗及肥胖的二甲双胍可否减少哮喘发生率呢？
+2016 年 10 月，一篇发表于 Respirology 的文章给出了答案：研究者利用来自于台湾国民健康保险研究数据库（NHIRD）的数据，通过回顾性队列研究方法，分析了哮喘和糖尿病患者处方二甲双胍 3 年内的数据，在调整几项临床协变量后，发现使用二甲双胍与哮喘发作风险及住院率降低显著相关，服用二甲双胍可使哮喘和糖尿病成人患者临床受益
+4
+。
+二甲双胍与癌症
+AMPK 蛋白质激酶是细胞中调节多种代谢途径、维持能量平衡的重要分子，二甲双胍的诸多药效都是通过激活 AMPK 得以实现。2016 年 10 月，厦门大学生命科学学院林圣彩教授课题组在 Cell Metabolism 上发表论文，从分子层面揭开了二甲双胍降糖作用的新机制，并且找到了该药抗癌作用相关的新线索。研究组发现二甲双胍除能激活 AMPK 外，还能够抑制一种名为 mTOR 的信号通路，其与细胞增殖密切相关，而这条通路的抑制很有可能与降低患癌风险有关
+5
+。
+二甲双胍与肠道微生物
+2015 年 12 月，Natural 上的一篇研究表明，当糖尿病患者在接受二甲双胍治疗时，其肠道细菌的组成及功能均发生了改变，细菌生成某些类型短链脂肪酸（如丁酸、丙酸）的能力增强。2016 年 11 月，一篇发表在 Diabetes Care 杂志上的文章提出，二甲双胍除能够丰富产生肠道短链脂肪酸的相关微生物（包括 Butyrivibrio、Bifidobacterium bifidum、Megasphaera）外，还可以通过增加 Akkermansia muciniphila（一种人类肠道粘蛋白降解细菌）和普氏菌的一个 OUT（Operational Taxonomic Unit）调节肠道微生物的组成，这可能也是二甲双胍为何会产生胃肠道不良反应（肠胃气胀）原因之一。但这些作用是否与二甲双胍的降糖和抗炎活性有关，以及其他降糖药物能否有改善肠道菌群的作用，仍需进一步研究证实
+6
+。
+二甲双胍与抗精神病药诱发的血脂异常
+精神分裂症患者死于心血管疾病的风险约为正常人群的两倍，这在一定程度上应归因为抗精神病药物的副作用。抗精神病药，特别是非典型抗精神病药会引起严重的不良代谢反应，如氯氮平和奥氮平易导致体重增加和胰岛素抵抗，利培酮可导致胰岛素抵抗和血脂异常。据统计，约 66% 的慢性精神分裂症在用抗精神病药治疗后有血脂异常情况，然而目前缺乏相应的干预措施来控制抗精神病药诱导的血脂异常。
+中南大学湘雅二院的赵靖平教授研究团队继 2008 年在 JAMA 杂志上发表二甲双胍在对抗精神病药诱导的体重增加和胰岛素抵抗方面比单独的生活方式干预更有效研究结论后，今年 11 月又在 Molecular Psychiatry 杂志发文指出，对于血脂异常的精神分裂症患者，二甲双胍能显著减轻体重、身体质量指数、胰岛素、胰岛素抵抗指数、总胆固醇和甘油三酯水平，并能增加 HDL-C 的水平。其中，服用二甲双胍 12 周后，开始对体重和胰岛素抵抗有效果，并在第 24 周进一步改善，对于血脂异常则在第 24 周后显效。这一研究为治疗抗精神病药物引起的代谢异常提供了新思路
+7
+。
+二甲双胍与蜜月期
+1 型糖尿病在发病初期经过胰岛素强化治疗，一部分患者进入典型缓解期，患者胰岛 β 细胞功能改善，胰岛素敏感性增加，胰岛素用量减少，部分患者甚至可以停用胰岛素，称为「糖尿病蜜月期」。一般蜜月期可持续数月至数年不等，然而目前关于延长患者蜜月期治疗方案的研究极少。
+2016 年 11 月，来自美国亚特兰大 Emory 大学医学院的 Priyathama Vellanki 研究团队开展的一项二甲双胍延长蜜月期相关研究的结果刊登在 Diabetes Care 杂志上。该研究以高血糖无复发生存期为主要观察指标，以对 β 细胞功能和胰岛素敏感性的影响为次要指标，结果发现二甲双胍组较安慰剂组复发概率明显减少，无复发生存期明显延长，二甲双胍可通过改善胰岛 β 细胞功能来预防高血糖的复发。因此，对于处于蜜月期的糖尿病患者， 二甲双胍可增加临床获益
+8
+。
+参考文献
+1. American Diabetes Association 2016 Scientific Sessions; The Effect of Metformin Exposure on Neurodegenerative Disease among Elder Adult Veterans with Diabetes Mellitus .June 11, 2016; New Orleans, Louisiana.
+2. Metformin Linked to Lower Neurodegenerative Disease Risk.Medscape.June 11, 2016.
+3. Luo T, Nocon A, Fry J, et al. AMPK Activation by Metformin Suppresses Abnormal Extracellular Matrix Remodeling in Adipose Tissue and Ameliorates Insulin Resistance in Obesity. Diabetes , 2016,65(8): 2295-2310.
+4. Forno E. Asthma and diabetes: Does treatment with metformin improve asthma? Respirology, 2016, 21(7): 1144-1145.
+5. Zhang CS, Li M, Ma T, Zong Y,et al. Metformin Activates AMPK through the Lysosomal Pathway. Cell Metab, 2016, 24(4): 521-522.
+6. Jacobo de la Cuesta-Zuluaga, Noel T. Mueller, Vanessa Corrales-Agudelo, et al. Metformin Is Associated With Higher Relative Abundance of Mucin-Degrading Akkermansia muciniphila and Several Short-Chain Fatty Acid–Producing Microbiota in the Gut. Diabetes Care, 2016, dc161324.
+7. Wu RR, Zhang FY,Gao KM, et al. Metformin treatment of antipsychotic-induced dyslipidemia: an analysis of two randomized, placebo-controlled trials. Mol Psychiatry, 2016, 21(11): 1537-1544.
+8. Priyathama Vellanki, Dawn D. Smiley, Darko Stefanovski, et al. Randomized Controlled Study of Metformin and Sitagliptin on Long-Term Normoglycemia Remission in African American Patients With Hyperglycemic Crises. Diabetes Care, 2016, 39(11): 1948-1955.

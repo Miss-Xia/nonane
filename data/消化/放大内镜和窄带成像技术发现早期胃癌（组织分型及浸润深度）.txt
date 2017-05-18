@@ -1,0 +1,45 @@
+放大内镜和窄带成像技术发现早期胃癌（组织分型及浸润深度）
+VS 经典分型在区分癌与非癌上发挥了重要作用，后期学者又进一步对 MV/MS 分型细化，以期预测组织学分型和早癌浸润深度，从而为后期内镜或外科治疗提供决策。
+在预测组织学分型上，2010 年 Akira 推出基于 MV 的胃早癌 ME+NBI 分型，即 FNP（精细网格，fine network pattern）， CSP（螺旋型，corkscrew pattern）（图 1），此前一直被定义为「未分类型」的表型被进一步细化为 IIL-1（小叶内环型-1，intra-lobular loop pattern-1），ILL-2（小叶内环型-2， intra-lobular loop pattern-2）（图 2）。
+根据研究结果，FNP 与 ILL-1 大部分为分化型腺癌，而 CSP 多为未分化型腺癌。ILL-2 主要分布于分化型腺癌，但也可在未分化腺癌中存在。此外，64% 未分化 ILL-2 腺癌中可见 CS（螺旋状）微血管（图 3），但在分化腺癌中未见此现象发生。
+图 1 FNP 与 CSP 分型。A FNP 为 MV 的精细网络状结构；B CSP 为 MV 的螺旋型结构
+图 2 ILL-1 与 ILL-2 分型。A ILL-1 为包含环形 MV 的绒毛状腺体结构；B ILL-2 为上述基础上出现腺体断裂
+图 3 IIL-2 型胃癌中出现 CS 型 MV。A 胃体中部后壁一 0-IIc 型早癌；B NBI 可见不规则茶色区域；C ME+NBI：断裂绒毛状腺体上可见 CS 型 MV；D 病理示黏膜固有层未分化腺癌
+相反，Masashi 等另辟蹊径，从癌灶周围非癌黏膜表型推测癌灶组织学类型，将癌灶周围非癌黏膜的 ME+NBI 表现分为以下四型：
+A 点状型（圆形或针眼点状）；
+B 短线状（扩张、垂直长凹痕结构）；
+C 条纹型（管样，小梁嵴样结构）；
+D 颗粒型（绒毛、乳头状结构）（图 4）。
+该分型由 sakaki 的胃黏膜 ME+NBI 七类分型简化而来。C 与 D 预测着分化型癌的组织类型，其理论基础是 C 和 D 表型为黏膜萎缩相关表型，是分化型癌（肠型）发生基础。B 型为 HP（-）炎性黏膜表型，萎缩程度较 C 和 D 轻，预测未分化型癌组织学类型，也间接反映了不同于分化型癌的发生路径。
+图 4 胃癌周围黏膜的 ME+NBI 分型。a-d 分别对应 A-D 分型
+以下为 ABCD 分型应用实例：
+图 5 A 白光下病灶经靛胭脂染色后，病变为平坦结节形高分化腺癌，周围黏膜呈细颗粒样萎缩表现；B 放大后观察，可见小绒毛状结构（D 型）
+图 6 A 胃体中部前壁可见凹陷型未分化型早癌，褪色，大小约 10 mm；B 放大观察，背景黏膜为 B 型（短线状）
+2014 年 Takashi 等通过多元逐步回归分析认为 MV 结构缺失（AMSP， absent microsurface pattern）为区分未分化癌与分化型癌重要因素，并通过 ROC 曲线判定出边界值为 50%，即 ME+NBI 观察癌灶时，若 AMSP 面积大于 50%，未分化型癌可能性大（图 7-8），此分型相对简单、直接，方便记忆。
+图 7 A 未分化胃癌 ME+NBI 下几乎不可见 MS 结构；B 病理示未分化癌
+图 8 A ME+NBI 示 DL 内可见大量分布 MCE；B 病理示为分化型胃癌。
+由于 ME+NBI 观察为黏膜表面结构，无法实施对癌灶纵深直接观察。因此对肿瘤浸润深度判断常基于一些「间接征象」。相对而言，食管的 IPCL 分型系统和结肠的 Pit pattern 分型系统已在肿瘤浸润深度预测中发挥重要作用，鉴于胃腺体结构和微血管结构复杂性，ME+NBI 在胃早癌浸润深度预测上尚处于探索阶段，部分学者已作出尝试。
+Daisuke 等以 ME+NBI 观察到的扩张血管 DV，作为评价黏膜下浸润早癌预测因子，DV 定义为癌灶出现直径大于其余不规则血管直径 3 倍血管，其诊断准确性、敏感性和特异性分别为 81.5%，37.5% 和 88.3%。该因子优点在于简单、适用，缺点在于敏感度低，需结合其他因素共同判断。
+图 9 A 贲门后壁可见大小约 1.5 cm 0-IIa+IIc 型病变；B ME+NBI：可见较病变其余血管粗 3 倍 DV（黄色箭头所示）
+Hideki 等则以三个因子赋值方式（每项赋值为 1）预测凹陷型浸润深度达 SM2 的早癌，各因子分别为：
+（1）黏膜结构缺失：放大下直接观察或醋酸染色后观察可见无腺管区域（图 10）；
+（2）散在血管：模糊黏膜结构上可见 2 条以上散在血管（图 11）；
+（3）粗血管：癌灶内出现 2 倍以上直径的扭曲或扩张性癌性血管。
+当我们判断凹陷型早癌时，如赋值之和 ≥ 2 时，SM2 早癌可能性大，已超出内镜治疗适应症。
+图 10 黏膜结构缺失示意图；A 白光下大小约 1 cm 红色胃 0-IIc 型病变；B ME+NBI：示部分区域腺管结构模糊；C 醋酸染色后该区域黏膜更加模糊，直至形成「无腺管结构」。切除后此区域病理示 SM2 癌
+图 11 散在血管示意图。A 白光镜下胃窦处大小 1.5 cm0-IIc 型糜烂；B ME+NBI（×60）示：局部区域腺体模糊（红圈），其上有 2 条以上散在血管（红箭头）。切除后此区域病理示 SM2 癌
+图 12 粗血管示意图。A 白光镜下胃角前壁可见大小 2.5 cm IIc 癌，钛夹为外科切除前定位之用；B ME+NBI 示：异常扭曲、扩张粗肿瘤血管、直径大于周围血管 2 倍以上。切除后此区域病理示 SM2 癌
+韩国 Kyung-sun 等认为 MS 可分为管状（Oval）、乳头状（Papillary）、损毁状（Destrutive）、缺失状（Absent）（图 13），而其中损毁型最与 SM 癌息息相关。
+图 13 常见 MS 分型
+图 14 A 胃体中部可见 0-IIa+IIc 病变；B 放大下可见 MV 为 FNP，MS 局部可见 Destructive 型；C 病理提示：高分化腺癌伴 SM 深部浸润
+总结
+放大胃镜实现了在活体上观察黏膜的微细结构，起到类似「活检」作用，为我们发现和判断早癌提供了利器。然而，放大内镜有其局限性，虽能近距离观察黏膜表面，但对黏膜下组织结构却浑然不知，仅凭一些「征象」间接判断，不能完成对早癌的全面衡量，需借助 EUS 以及 CT 等影像学加以判断，其最终结局仍靠病理定夺。
+此外，更要重视普通白光镜的作用，对放大及非放大镜下表现进行综合判断，避免出现「不识早癌真面目，只缘身在放大中」这一现象。
+本文作者：济南军区总医院消化科 吴文明 刘晓峰 孙自勤
+参考文献
+1. Yokoyama A， Inoue H， Minami H， et al. Novel narrow-band imaging magnifying endoscopic classification for early gastric cancer[J]. Dig Liver Dis， 2010， 42（10）: 704-708.10.1016/j.dld.2010.03.013.
+2. Kawamura M， Abe S， Oikawa K， et al. Magnifying endoscopic findings of the surface structure of non-cancerous mucosa surrounding differentiated and undifferentiated gastric carcinoma[J]. Dig Endosc， 2011， 23（1）: 37-42.10.1111/j.1443-1661.2010.01041.x.
+3. Kanesaka T， Sekikawa A， Tsumura T， et al. Absent microsurface pattern is characteristic of early gastric cancer of undifferentiated type: magnifying endoscopy with narrow-band imaging[J]. Gastrointest Endosc， 2014， 80（6）: 1194-1198 e1191.10.1016/j.gie.2014.08.021.
+4. Kikuchi D， Iizuka T， Hoteya S， et al. Usefulness of magnifying endoscopy with narrow-band imaging for determining tumor invasion depth in early gastric cancer[J]. Gastroenterol Res Pract， 2013， 2013: 217695.10.1155/2013/217695.
+5. Kobara H， Mori H， Fujihara S， et al. Prediction of invasion depth for submucosal differentiated gastric cancer by magnifying endoscopy with narrow-band imaging[J]. Oncol Rep， 2012， 28（3）: 841-847.10.3892/or.2012.1889.
+6. Ok KS， Kim GH， Park do Y， et al. Magnifying Endoscopy with Narrow Band Imaging of Early Gastric Cancer: Correlation with Histopathology and Mucin Phenotype[J]. Gut Liver， 2016， 10（4）: 532-541.10.5009/gnl15364.

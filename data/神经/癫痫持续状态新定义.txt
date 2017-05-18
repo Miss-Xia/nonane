@@ -1,0 +1,38 @@
+癫痫持续状态新定义
+癫痫持续状态（status epilepicus，SE）是常见的急危重症，Trinka E、Cock H 等 2015 年 10 月发表在 Epilepsia 的一篇文章更新了定义，这次我们一起学习一下。
+既往定义
+凡一次癫痫发作持续 30 分钟以上，或反复发作而间歇期意识不能恢复超过 30 分钟者，均称为癫痫持续状态。
+新定义
+1. 国际抗癫痫联盟定义：持续时间超过大多数同种发作类型患者绝大部分发作的时长而无停止征象或反复发作、期间意识状态不能恢复至基线的发作。
+2. 癫痫持续状态是由于终止癫痫的机制失灵或有了新的致痫机制导致了异常久（t1 时间后）的痫性发作。癫痫持续状态可能有长期后果（t2 时间后），依发作类型和发作持续时间不同，造成的长期损伤不同，包括：神经元死亡、神经元损伤、神经元网络改变。
+不同发作类型的 t1 和 t2 值
+新定义提出了 t1 和 t2 的概念，而不同发作类型 t1 和 t2 又不同，目前已经定义都发作类型 t1 和 t2 值如下表，这些时间是基于当前的证据制定的，将来有可能会出现变化，而其它发作类型的 t1 和 t2 时间尚未确定。
+发作类型
+t1( 可能导致持续发作时间）
+t2（可能导致长期后果时间）
+强直-阵挛发作
+5 分钟
+30 分钟
+伴意识受损的局灶性发作
+10 分钟
+＞60 分钟
+失神性癫痫持续状态
+10～15 分钟
+未确定
+分类
+1. 非惊厥性 SE（NCSE）
+NCSE 是指持续脑电发作导致的非惊厥性临床症状，通常定义为发作>30 min｡诊断 NCSE 需具有明确的、可证实的超过 30 min 的行为、意识状态或感知觉改变；并具有脑电图持续或接近持续的阵发性放电。
+由于 NCSE 症状隐匿，病因多样，临床未能得到足够认识和重视，尚缺乏统一治疗规范指南。其主要治疗方案是寻求病因，进行针对性干预，其余治疗原则同惊厥性 SE，只是治疗可相对保守｡
+2. 全面性惊厥性癫痫持续状态进行分类
+（1）早期 SE，癫痫发作>5 min；
+（2）确定性 SE，癫痫发作>30 min；
+（3）难治性 SE，发作通常>60 min，对二线药物治疗无效，需全身麻醉治疗；
+（4）超级难治性 SE，全身麻醉治疗 24 小时仍不能终止发作，其中包括减停麻醉药物过程中复发｡
+《美国癫痫协会 2016 年癫痫持续状态指南》诊治流程
+惊厥处理流程 1：
+惊厥处理流程 2：
+总结
+SE 提出新的的定义是为了避免因 SE 的定义延误对 SE 早期干预和治疗，更符合临床工作实践。新分类以 SE 的症状为轴，试图个体化的评估每个癫痫持续状态患者。SE 治疗目的是尽快中止发作，保护神经元免受发作损伤。SE 治疗应按照治疗方案循序给药。
+参考文献
+1. Tracy Glauser, MD,Shlomo Shinnar, MD, PhD,David Gloss, MD et al. Evidence-Based Guideline: Treatment of Convulsive Status Epilepticus in Children and Adults: Report of the Guideline Committee of the American Epilepsy Society[J]. Epilepsy Currents, 2016, 16(1): 48-61.
+2. Trinka E,Cock H,Hesdorffer D,et al. A definition and classification of status epilepticus--Report of the ILAE Task Force on Classification of Status Epilepticus. Epilepsia2015 Oct;56(10):1515-23. doi: 10.1111/epi.13121. Epub 2015 Sep 4. Review

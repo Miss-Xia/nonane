@@ -1,0 +1,41 @@
+各个击破：视神经脊髓炎谱系疾病脑内病灶的 7 种强化模式
+视神经脊髓炎（NMO）是中枢神经系统急性或亚急性炎性脱髓鞘性疾病。以往的 NMO 诊断标准要求视神经和脊髓受累，但临床也可能出现较局限的或较广泛的 CNS 受累。
+2007 年 Wingerchuk 等提出了视神经脊髓炎谱系疾病（NMOSD）的概念。2015 年国际 NMO 诊断小组（IPND）制定了新的 NMOSD 诊断标准，取消了 NMO 的单独定义，将 NMO 整合入更广义的 NMOSD 疾病范畴中。自此，NMO 与 NMOSD 统一命名为 NMOSD，是一组主要由体液免疫参与的抗原-抗体介导的 CNS 炎性脱髓鞘疾病谱。
+NMOSD 有 6 组核心临床症候，其中视神经炎、急性脊髓炎、延髓最后区综合征的临床及影像表现最具特征性。不强化的脑内病灶在 NMOSD 中更为常见，先前的一些研究报道 9%~36% 的患者头颅 MRI 上可出现病灶强化，可能与血脑屏障破坏有关，其有一定的特征性，或有助于本病的诊断，下面我们就来梳理下 NMOSD 可能出现的几种脑内强化模式。
+脑实质片状强化（「云雾状」强化）
+为 NMOSD 脑内病灶最常见的强化模式，表现为多发边界不清、模糊的片状强化，如同云雾，由 Ito 等于 2009 年首先报道。这有助于与多发性硬化鉴别，后者多为结节性或环形强化，边界清楚。「云雾状」强化有时伴有室管膜周线状强化，是 NMOSD 更具特征性的表现，形似「火焰」（图 1）或「口中冒烟（smoke coming out of mouth）」（图 2）。
+图 1 「云雾状」强化。57 岁女性，AQP-4 抗体阳性的 NMOSD。T1 增强可见片状，边界不清的脑实质强化病灶 [箭]；同时可见脊髓受累 [箭头]
+图 2 「云雾状」强化伴室管膜周线状强化。62 岁男性，AQP-4 抗体阳性的 NMOSD。T1 增强可见室管膜周强化伴边界不清的脑实质轻度强化，看上去像「口中冒烟」
+室管膜周线状强化
+表现为环绕侧脑室，三脑室，四脑室和（或）导水管的较细的线状强化（铅笔杆样病灶）。可能与室管膜细胞富含 AQP-4 有关。疾病复发时上述区域常出现强化，较有特征性。常伴有脑室周围 FLAIR 上线状高信号。
+室管膜周线状强化以及 FLAIR 上脑室周围线状高信号可能反映了疾病的更早期过程。随着病情进展，室管膜周线状强化可变粗，形态可不规则，甚至延伸累及脑实质。室管膜周强化的鉴别诊断包括感染性脑室炎以及淋巴瘤和结节病等。
+图 3 室管膜周线状强化。A、C：FLAIR；B、D：T1 增强；A-B：21 岁女性，AQP-4 抗体阳性的 NMOSD。可见沿侧脑室前角的室管膜周线状高信号和线状强化 [箭]；C-D：35 岁女性，AQP-4 抗体阳性的 NMOSD。可见环导水管的室管膜周线状高信号和线状强化 [箭]
+图 4 25 岁男性 NMOSD 患者。a：T2WI；b-d：T1 增强；可见胼胝体线状强化；侧脑室室管膜表面较细的线状强化
+图 5 室管膜周线状强化。A：FLAIR；B：T1 增强；73 岁男性，NMOSD 后期复发时可见较厚的室管膜周线状强化
+软脑膜强化
+软脑膜强化可能与软脑膜和软脑膜下表面 AQP-4 功能受损有关，可表现为线状或较粗的，弥漫的病灶。脑干周围的软脑膜强化近期也有报道。软脑膜强化需除外感染性疾病，肉芽肿性疾病（如结节病）以及肿瘤性疾病等。表现为软脑膜强化的 NMOSD 患者可有脑病样症状，使得临床上诊断难度加大，需小心鉴别。
+图 6 28 岁女性，AQP-4 抗体阳性的 NMOSD。A：T2WI 可见右侧大脑半球皮质高信号，脑沟显示不清，无白质病变；B：T1 增强提示较粗的软脑膜和皮质强化
+图 7 1 例 NMOSD 患者 T1 增强可见脑桥周围软脑膜强化
+脑干、下丘脑和锥体束病灶强化
+除了脑室旁区域，下丘脑，四脑室延髓底部，极后区等也富含 AQP-4。因此，这些部位的病灶也是 NMOSD 的特点之一。下丘脑受累在 NMOSD 患者中较急性播散性脑脊髓炎和多发性硬化更为常见。近来研究发现，双侧下丘脑受累有助于 NMOSD 与多发性硬化的鉴别。上述区域病灶通常轻度强化，边界不清。
+皮质脊髓束受累可为单侧或双侧，病灶可能从大脑半球深部的白质通过内囊后肢延伸至中脑的大脑脚或者脑桥。这些病灶连续，常为长节段，沿锥体束分布。
+一些关于 NMOSD 患者的队列研究报道，约 23-44% 的患者存在皮质脊髓束的病灶，在其他研究中也偶有发现。有意思的是，和脑室周围不同，皮质脊髓束并不是 AQP-4 高表达的区域，因此至今尚不清楚 NMOSD 患者这一区域常累及的原因。锥体束受累目前尚无病灶强化的报道。
+图 8 双侧下丘脑受累。A：FLAIR；B：T1 增强；21 岁女性，AQP-4 抗体阳性的 NMOSD。可见下丘脑高信号病灶呈边界模糊的轻微强化 [箭]
+图 9 延髓背侧病灶。A：FLAIR；B：T1 增强；28 岁女性，AQP-4 抗体阳性的 NMOSD。可见延髓背侧高信号病灶呈边界模糊的轻微强化 [箭]
+脑实质血管周围强化
+此种强化模式罕见报道，可能也与软脑膜和软脑膜下表面 AQP-4 功能受损有关。表现为脑实质线状和（或）点状强化。血管周围强化的鉴别诊断包括各种病因引起的血管炎，感染和肿瘤等。
+图 10 49 岁女性 NMOSD 患者。A：FLAIR 上可见右侧颞叶线状高信号 [箭]；B-C：T1 增强可见线状强化 [箭]；D：同侧视神经增粗强化 [箭]
+图 11 A：FLAIR 上可见半卵圆中心线状，点状高信号 [箭]；B：T1 增强可见对应区域点状强化，沿血管周围分布
+孤立的、环形或开环样强化
+孤立强化，环形或开环强化，更多时候是多发性硬化的特征性表现，罕见于 NMOSD，但仍有报道，特别是 AQP-4 抗体阴性的 NMOSD 患者。
+图 12 2 例 AQP-4 抗体阳性的 NMOSD 患者 T1 增强上呈现多发性硬化样强化。A：57 岁女性，可见脑桥孤立的边界清楚的结节样强化病灶；B：65 岁男性，可见开环强化病灶
+视神经和视交叉强化
+NMOSD 和多发性硬化均可有视神经炎，其临床影像学表现相似。但是长节段强化病灶，延伸累及视交叉甚至视束，双侧均有受累更多提示 NMOSD 的诊断。
+图 13 44 岁女性，视神经和视交叉强化。A：FLAIR 上可见视神经后段，视交叉和视束高信号 [箭]，同时可见导水管周围高信号 [箭头]；B：T1 增强可见病灶明显强化 [箭]
+参考文献
+1. 中国免疫学会神经免疫学分会, 中华医学会神经病学分会神经免疫学组, 中国医师协会神经内科分会神经免疫专业委员会. 中国视神经脊髓炎谱系疾病诊断与治疗指南. 中国神经免疫学和神经病学杂志.2016 年 3 期。
+2. Kim HJ, Paul F, Lana-Peixoto MA, Tenembaum S, Asgari N, Palace J, Klawiter EC, Sato DK, de Seze J, Wuerfel J, Banwell BL, Villoslada P, Saiz A, Fujihara K, Kim SH; Guthy-Jackson Charitable Foundation NMO International Clinical Consortium & Biorepository.MRI characteristics of neuromyelitis optica spectrum disorder: an international update.Neurology. 2015 Mar 17;84(11):1165-73.
+3. Pekcevik Y, Orman G, Lee IH, Mealy MA, Levy M, Izbudak I.What do we know about brain contrast enhancement patterns in neuromyelitis optica?Clin Imaging. 2016 May-Jun;40(3):573-80.
+4. Pekcevik Y, Izbudak I.Perivascular Enhancement in a Patient with Neuromyelitis Optica Spectrum Disease during an Optic Neuritis Attack.J Neuroimaging. 2015 Jul-Aug;25(4):686-7.
+5. Sahraian MA, Moghadasi AN, Owji M, Naghshineh H, Minagar A.Neuromyelitis optica with linear enhancement of corpus callosum in brain magnetic resonance imaging with contrast: a case report.J Med Case Rep. 2015 Jun 10;9:137.
+6. Long Y, Chen M, Zhang B, Gao C, Zheng Y, Xie L, Gao Q, Yin J.Brain gadolinium enhancement along the ventricular and leptomeningeal regions in patients with aquaporin-4 antibodies in cerebral spinal fluid.J Neuroimmunol. 2014 Apr 15;269(1-2):62-7.

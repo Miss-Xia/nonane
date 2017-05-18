@@ -1,0 +1,46 @@
+各个击破：脊柱结核的诊断与鉴别诊断
+关于脊柱结核最早的病例见于 5000 年之久的埃及木乃伊，现代历史上，首例脊柱结核于 1779 年 [1] 由一名英国外科医师 Percival Pott 所描述，如是，脊柱结核亦称为 Pott 病。亦有 1782 年报道之说 [2]。一个世纪之后，德国医生、微生物学家 Robert Koch 分离出了结核杆菌，并因此获得了 1905 年的诺贝尔奖 [2]。
+发生于脊柱的结核，特称为脊柱结核病（Pott disease）。脊柱结核为肺结核之外最严重而又最常见的结核，占所有骨关节结核的 50%[3, 4]。脊柱的任何节段皆可发病，胸椎和上腰椎为最常见之脊柱结核部位。由于部位之特殊性，常可致神经损害，后凸畸形，甚至瘫痪。
+脊柱结核主要见于发展中国家，在我国发生率和致病率很高 [4]。值得注意的是，近年来，全球结核发生率有所增高，归因于人口的迁移，艾滋病感染者的增多，耐药菌株和其它因素。
+脊柱结核由结核杆菌引起，特征为冷脓肿，椎间盘和邻近椎体之破坏，脊柱结构之塌陷，前柱楔形变而致后凸。
+脊柱结核特征
+肉芽组织和干酪样坏死，引起骨破坏和邻近组织坏死，形成冷脓肿，可沿前后纵韧带，椎旁软组织，椎间盘或椎管流注；椎旁包块可较大，硬膜外软组织包括见于 60% 到 93% 的脊柱结核病例，可致硬膜囊移位，压迫脊髓或马尾神经。向远端流注成瘘亦常见。
+后柱结构，尤其是单独出现，较少见。68% 的成人，85% 的儿童可见椎弓根受累。相邻椎体间扩散首要之途径为韧带下蔓延，椎间盘破坏为区分脊柱结核和化脓性感染之经典标准。
+一般而言，鉴于神经轴上压力缓慢增加，脊柱结核神经损害发生较晚；诚然，脊柱结核引起不稳或血管损害之时，尽管无明显后凸，亦可致神经损害。
+临床表现
+一项 694 例脊柱结核的研究表明：最常见就诊症状为瘫痪和/或脊柱畸形（70%），背痛和发热占 20%。儿童症状缺乏特异性，如斜颈，不愿负重，跛行，疼痛和可触及的包块。如是，儿童背痛，应视为红色警戒，应行 MRI 检查。
+影像检查
+传统的 X 线片，超过 50% 的椎体破坏，方能明晰可见，而此过程往往自感染之日起，耗时 6 月余；寰枕，颈胸和腰骶交界处，X 线片所见往往欠清晰（图 1）。
+图 为 16 岁儿童，轻微外伤后瘫痪。（A）T1～T4 椎板欠清晰，椎旁软组织影。（B）颈胸段侧位看不清，印象为驼背。（C）MRI 所见：驼背，脊髓压迫和信号改变。
+相比而言，CT 在骨性结构受累和软组织改变、钙化方面优于 X 线；MRI 应作为脊柱结核的标准推荐检查，且应行全脊柱 MRI 以免遗漏多节段非连续脊柱结核。鉴于不到 50% 的脊柱结核患者合并肺部结核，建议 MRI 扫描时 T2 相冠状面应广范围扫描以获取肺部信息 [2]。
+特殊类型脊柱结核
+多节段非连续脊柱结核（Multilevel noncontiguous spinal tuberculosis，NSTB）：为不典型脊柱结核，定义为脊柱两处病灶间不少于 2 个椎体正常，发生率为 1.1% 到 16.3%（图 1）。2014 年，国内中南大学湘雅医院的学者报道了自 2005 年至 2011 年间，所收治的 27 例 NSTB 之情况（27/550；4.91%），其中 4 例保守治疗，23 例手术治疗，平均年龄 44.6 岁，平均随访 52.5 月。无论保守还是手术治疗，NSTB 皆取得了较为满意的疗效，体现为 ODI[5]。
+图 2 NSTB 示意图
+诊断与鉴别诊断
+脊柱结核的早期诊断，对于及时有效的治疗，避免神经损害和脊柱畸形，至关重要。2011 年，Lancet 上发表了关于 Xpert MTB/RIF 检验确定结核的经典文章 [6]。GeneXpet，自动化 PCR 检验，可同时检测结核和利福平之耐药性，且已为 WHO 认证。
+2014 年，Held 等率先对 GeneXpert 检验脊柱结核之功效进行了研究，敏感性 95.6%，特异性 96.2%，48 小时内结果可得，短于培养平均所需之 35 天；且能确定多药耐药之结核菌，此类结核菌占 5.8%[7]。
+脊柱结核需与下列疾病加以鉴别：
+1. 化脓性脊柱炎：最常见于腰椎，累计 2 个椎体和其间的椎间盘，椎间隙往往变窄，MRI T2 相椎间盘中心和软骨终板信号延长，增强。不连续椎体和椎弓根受累罕见。
+2. 布氏杆菌病：主要累及腰椎，平片上可见椎体前方骨赘（鹦鹉嘴）。驼背畸形罕见，三分之一患者可见椎间盘内空气。
+3. 脊柱真菌感染：虽然罕见，但难与脊柱结核区分。几乎均见于免疫低下患者，表现为椎间盘侵袭不明显，跳跃病变，椎旁脓肿（图 3）。
+图 3 多种免疫缺陷者，活检证实为烟曲霉菌。（A）T8～T10 楔形变，椎间盘完好，硬膜外 T2 相低信号包括压迫脊髓。（B）造影前包括等信号。（C）增强扫描后信号增强。
+4. 脊柱转移瘤：常累及多个不连续椎体，椎间隙完好，后柱累及多于椎弓根。动态增强磁共振成像可提供一定的鉴别诊断价值 [8]。
+5. 淋巴瘤：可累及单一椎体，椎弓根或后方结构，常合并 T2 相低信号之椎旁包块（图 4）。
+图 4（A）淋巴瘤累及椎弓根：T2 相低信号椎旁包块大，皮质破坏，侵及椎管。（B）结核，椎弓根侵及，但未破坏低密度骨皮质边缘。
+对于扁平椎，则应考虑组织细胞增多症（图 5）。
+图 5（A）28 岁病例，病理证实为朗格汉斯组织细胞增多症，MRI 上无法与结核区分；（B）10 岁病例，扁平椎，朗格汉斯组织细胞增多症
+6. Modic 变：作为椎间盘退变之表型，I 型 Modic 变可见软骨终板信号改变和椎间盘高度丧失。
+治疗
+抗痨治疗为目前脊柱结核的主要治疗，手术在脊柱结核的治疗中仍起着重要功效。关于手术治疗的时机，新近研究表明：短至 2 周的抗痨治疗后手术，亦安全有效 [3]。手术治疗之方式多种多样，在此不再一一赘述。
+「参考文献」
+1.	Momjian R, George M. Atypical imaging features of tuberculous spondylitis: case report with literature review. J Radiol Case Rep. 2014;8:1-14.
+2.	Kilborn T, Janse van Rensburg P, Candy S. Pediatric and adult spinal tuberculosis: imaging and pathophysiology. Neuroimaging Clin N Am. 2015;25:209-31.
+3.	Zhang P, Shen Y, Ding WY, Zhang W, Shang Z. The role of surgical timing in the treatment of thoracic and lumbar spinal tuberculosis. Arch Orthop Trauma Surg. 2014;134:167-72.
+4.	He D, Zhang X, Gao Q, et al. Correlation between Serum Level of Monocyte Chemoattractant Protein-1 and Postoperative Recurrence of Spinal Tuberculosis in the Chinese Han Population. PLoS One. 2015;10:e0125756.
+5.	Huang J, Zhang H, Zeng K, Gao Q. The clinical outcomes of surgical treatment of noncontiguous spinal tuberculosis: a retrospective study in 23 cases. PLoS One. 2014;9:e93648.
+6.	Boehme CC, Nicol MP, Nabeta P, et al. Feasibility, diagnostic accuracy, and effectiveness of decentralised use of the Xpert MTB/RIF test for diagnosis of tuberculosis and multidrug resistance: a multicentre implementation study. Lancet. 2011;377:1495-505.
+7.	Held M, Laubscher M, Zar HJ, Dunn RN. GeneXpert polymerase chain reaction for spinal tuberculosis: an accurate and rapid diagnostic test. Bone Joint J. 2014;96-B:1366-9.
+8.	Lang N, Su MY, Yu HJ, Yuan H. Differentiation of tuberculosis and metastatic cancer in the spine using dynamic contrast-enhanced MRI. Eur Spine J. 2015;24:1729-37.
+更多精彩文章请点击
+王海强专栏
+查看

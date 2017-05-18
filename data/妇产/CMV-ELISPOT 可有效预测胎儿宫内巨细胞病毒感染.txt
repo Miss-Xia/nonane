@@ -1,0 +1,13 @@
+CMV-ELISPOT 可有效预测胎儿宫内巨细胞病毒感染
+在全球，每年大约有 0.7% 的新生儿发生先天性巨细胞病毒感染（Congenital CMV infection ，cCMV），这一比例还是相当大的。患儿出生时 CMV 感染的后遗症可谓多种多样，主要跟患儿母亲的血清学状态，以及怀孕期间胎儿发生先天感染的时间有关。
+了解 CMV 感染母婴传播的危险因素和相关的生物标志物是 cCMV 诊断和治疗的首要任务。
+最近有研究发现母亲巨细胞病毒的细胞免疫能力（CMV cell-mediated immunity，CMI）在决定胎儿是否发生 cCMV 中起关键作用。目前已有许多检测方法可以评价 CMI，这些方法大多是以γ干扰素释放试验（interferon-γ release assays ，IGRAs）为基础。
+近日，来自意大利帕瓦多大学妊娠感染中心的 Forner 教授等进行了一项研究，比较了两种 IGRAs 方法（CMV-ELISPOT 和 CMV-QuantiFERON）预测 cCMV 的能力，结果发表在近期的 Journal of Clinical Microbiology 杂志上。
+两种方法都是检测抗原刺激后外周血单个核细胞（PBMC）释放的γ干扰素，主要的不同在于 ELISPOT 使用的重组刺激抗原能够活化 CD4+和 CD8+T 细胞，两种细胞均参与免疫应答，而 QuantiFERON 方法使用的抗原仅刺激活化 CD8+T 细胞。此外，CMV-ELISPOT 检测的是约 2x105 个 PBMC 释放的γ干扰素总量，而 CMV-QuantiFERON 检测约 1 ml 外周静脉全血释放的γ干扰素。
+最近有研究发现不同患者 CMV-ELISPOT 和 CMV-QuantiFERON 的结果可能存在很大差异。为了更全面的了解母体因素对 cCMV 的影响，该研究还分析了其他母体因素与 cCMV 的关系，如孕妇年龄、血液和尿液中的病毒负荷，以及 CMV-IgG 抗体亲和力等。
+该研究共纳入 2012 年至 2013 年到帕多瓦医学中心妊娠的 57 例原发性及 23 例非原发性 CMV 感染的孕妇。原发性 CMV 感染的定义是指原来血清学病毒检测由阴性转为阳性或者血清中检测到 CMV IgM 抗体合并存在低亲和力（<25%）的 IgG 抗体。非原发感染指的是 CMV IgG 阳性（孕 14 周以内出现 CMV IgG 抗体亲和力>45%）的孕妇出现 CMV 病毒尿症。
+原发 CMV 感染主要发生在妊娠第六周，一般在第八周进行 CMV-ELISPOT 和 CMV-QuantiFERON 检测。在 57 例原发感染的孕妇中有 16 名将病毒传播给了胎儿，19 例出现病毒血症，43 例出现病毒尿症。而 23 例非原发感染的孕妇没有一例传播给了下一代，也没有出现病毒血症，但是都存在病毒尿症。胎儿或婴儿 CMV 感染主要是通过孕 20-21 周羊水或者出生时尿液中的 CMV-DNA 确定。
+Spearman’s 分析发现 CMV-ELISPOT 和 CMV-QuantiFERON 之间存在正相关关系，但仅 CMV-ELISPOT 与 cCMV 存在相关关系。此外，研究还发现 cCMV 与母体血液和尿液中的病毒载量呈正相关，而与 CMV-IgG 抗体亲和力呈负相关，换句话说，血液中或者尿液中病毒的含量越高，CMV-IgG 抗体的亲和力越低，发生 cCMV 的概率也就越大。而孕妇的年龄和 CMV-QuantiFERON 与 cCMV 之间没有明显的相关关系。
+CMV-ELISPOT 诊断能力的曲线下面积（AUC）为 0.805，诊断界值为 185 spots / 2x105 PBMC。而 CMV-QuantiFERON 的 AUC 仅 0.42，比参考值 0.5 还低，因此没有诊断价值。联合 CMV-ELISPOT 和 CMV-QuantiFERON 的 AUC 为 0.778，也并没有提高整体的诊断性能。
+研究人员推测或许是由于 CMV 特异的 CD4+ T 细胞免疫（由 CMV-ELISPOT 检测而并非 CMV-QuantiFERON）促进 cCMV 感染的发生。CMV 特异性 T 细胞持续分泌γ-干扰素，造成了胎盘附近的炎症状态，而在这种状态下，胎盘表达不典型的受体或分子促进 CMV 从胎盘转移至胎儿，从而导致 cCMV 的发生。
+从该研究我们可以看出，CMV-ELISPOT 对预测 cCMV 发挥着重要的作用，对临床怀疑胎儿可能存在 cCMV 感染的孕妇推荐优先使用 ELISPOT 明确。

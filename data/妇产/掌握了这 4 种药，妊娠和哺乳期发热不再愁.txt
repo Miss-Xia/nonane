@@ -1,0 +1,69 @@
+掌握了这 4 种药，妊娠和哺乳期发热不再愁
+对乙酰氨基酚
+可应用于妊娠各个阶段的镇痛和退热，常用剂量为 300～500 mg，若发热持续，可每隔 4～6 小时给药 1 次，连续使用一般不超过 3 天。虽然药物可通过胎盘，但治疗剂量下短期应用比较安全。
+需要注意的是, 近年的研究显示孕期暴露对乙酰氨基酚可能与儿童哮喘有关，但目前仍有争议
+[1]
+。单次或多次大剂量应用可导致孕妇肝细胞损伤甚至继发肝衰竭，胎儿宫内窘迫、流产、死胎的也可能发生
+[2]
+。美国食品药品监督管理局 (FDA) 已限制对乙酰氨基酚每单剂量处方中含量不超过 325 mg 。
+对乙酰氨基酚分泌至乳汁中的浓度很低。乳汁中的药物浓度峰值约出现在服药后 1～2 小时，用药 1000 mg 胎儿可以吸收的最大剂量约为母亲的 1.85%
+[3]
+。美国儿科学会将对乙酰氨基酚列为哺乳期可以使用的药物
+[4]
+。
+布洛芬
+常用剂量为 200～400 mg，3 次/日，连续使用一般不超过 3 天。在妊娠早期和晚期使用存在风险（因不同的研究中对于妊娠早期和晚期的时间设定并不完全一致，在妊娠周期的前、后三分之一使用均应谨慎）。1985～1992 年， 美国密歇根州大样本监测数据发现，孕早期暴露于布洛芬的婴儿发生大的出生缺陷的比例为 4.5%
+[5]
+。2003 年的一项调查研究发现，孕期使用非甾体类抗炎药的妇女，自然流产的风险增加了 80%（不包括对乙酰氨基酚）
+[6]
+。
+从药理作用讲，妊娠期间使用前列腺素合成酶抑制剂可导致胎儿动脉导管收缩。在妊娠晚期使用则可导致新生儿出现持续性肺动脉高压
+[7]
+。同时，在人和动物中，前列腺素合成酶抑制剂抑制临产，延长产程
+[8]
+。准备怀孕的女性也不可使用该类药物，因为动物模型显示包括布洛芬在内的前列腺素合成酶抑制剂抑制胚泡的植入
+[9]
+。
+布洛芬在乳汁中的分泌量甚微，约为母体剂量的 0.0008%
+[10]
+。美国儿科学会将布洛芬列为哺乳期适用的药物
+[4]
+。
+阿司匹林
+常用剂量为 300～500 mg，若发热持续，可每隔 4～6 小时给药 1 次，连续使用一般不超过 3 天。人类资料提示孕早、晚期使用存在风险。
+妊娠期使用阿司匹林可导致母亲贫血、产前或产后出血，过期妊娠和产程延长 [8]。大剂量阿司匹林对胎儿的影响包括围产儿死亡率增加、宫内发育受限、先天性水杨酸盐毒性和白蛋白结合力下降，孕晚期使用可导致胎儿动脉导管过早关闭。尽管有研究显示对于妊娠期高血压、子痫前期、子痫和胎儿宫内生长受限的患者，小剂量阿司匹林可能有益，但研究结果并不一致，仍需更多的研究来证明
+[11, 12]
+。和布洛芬一样，阿司匹林也可抑制胚泡植入，因此，准备怀孕的女性应当避免使用。
+阿司匹林在乳汁中有低浓度的分泌，但由于潜在的水杨酸盐毒性，美国儿科学会建议哺乳期慎用
+[4]
+。
+双氯芬酸
+国内多使用栓剂，常用剂量为 50 mg, 1～2 次/日，连续使用一般不超过 3 天。人类资料提示孕早、晚期使用存在风险。
+双氯芬酸可通过人类胎盘。动物实验提示，双氯芬酸可抑制胚胎着床和胎盘形成
+[13]
+。人类的研究提示孕期暴露于双氯芬酸可能与胎儿心血管畸形、唇裂等先天性畸形有关
+[14]
+。孕晚期使用双氯芬酸对胎儿的副作用主要为动脉导管过早闭合和肺动脉高压
+[15]
+。和其他非甾体类抗炎药一样，双氯芬酸也可抑制胚泡植入，因此，准备怀孕的女性应当避免使用。
+双氯芬酸在哺乳期的应用研究甚少，但鉴于其在成人血液中的半衰期很短且与其他类似药同用时并不增加毒性，美国儿科学会认定为哺乳期可以使用
+[4]
+。
+本文作者：张崇
+作者简介：张崇，药理学硕士，襄阳市第一人民医院主管药师，主要从事发育毒理学研究，已发表领域内论文近 10 篇，其中 SCI 收录 2 篇。
+参考文献
+[1] Scialli A R, Ang R, Breitmeyer J, et al. Childhood asthma and use during pregnancy of acetaminophen. A critical review[J]. Reprod Toxicol,2010,30(4):508-519.
+[2] Thiele K, Kessler T, Arck P, et al. Acetaminophen and pregnancy: short- and long-term consequences for mother and child[J]. J Reprod Immunol,2013,97(1):128-139.
+[3] Notarianni L J, Oldham H G, Bennett P N. Passage of paracetamol into breast milk and its subsequent metabolism by the neonate[J]. Br J Clin Pharmacol,1987,24(1):63-67.
+[4] Transfer of drugs and other chemicals into human milk[J]. Pediatrics,2001,108(3):776-789.
+[5] Gerald G., Briggs Roger K., Freeman Summer J., 妊娠与哺乳期用药 (中文版)[M], 609-611.
+[6] Li D K, Liu L, Odouli R. Exposure to non-steroidal anti-inflammatory drugs during pregnancy and risk of miscarriage: population based cohort study[J]. BMJ,2003,327(7411):368.
+[7] Van Marter L J, Hernandez-Diaz S, Werler M M, et al. Nonsteroidal antiinflammatory drugs in late pregnancy and persistent pulmonary hypertension of the newborn[J]. Pediatrics,2013,131(1):79-87.
+[8] Olson D M. The role of prostaglandins in the initiation of parturition[J]. Best Pract Res Clin Obstet Gynaecol,2003,17(5):717-730.
+[9] Dawood M Y. Nonsteroidal antiinflammatory drugs and reproduction[J]. Am J Obstet Gynecol,1993,169(5):1255-1265.
+[10] Walter K, Dilger C. Ibuprofen in human milk[J]. Br J Clin Pharmacol,1997,44(2):211-212.
+[11] Xu T T, Zhou F, Deng C Y, et al. Low-Dose Aspirin for Preventing Preeclampsia and Its Complications: A Meta-Analysis[J]. J Clin Hypertens (Greenwich),2015,17(7):567-573.
+[12] Bujold E, Roberge S, Lacasse Y, et al. Prevention of preeclampsia and intrauterine growth restriction with aspirin started in early pregnancy: a meta-analysis[J]. Obstet Gynecol,2010,116(2 Pt 1):402-414.
+[13] Carp H J, Fein A, Nebel L. Effect of diclofenac on implantation and embryonic development in the rat[J]. Eur J Obstet Gynecol Reprod Biol,1988,28(3):273-277.
+[14] Antonucci R, Zaffanello M, Puxeddu E, et al. Use of non-steroidal anti-inflammatory drugs in pregnancy: impact on the fetus and newborn[J]. Curr Drug Metab,2012,13(4):474-490.
+[15] Auer M, Brezinka C, Eller P, et al. Prenatal diagnosis of intrauterine premature closure of the ductus arteriosus following maternal diclofenac application[J]. Ultrasound Obstet Gynecol,2004,23(5):513-516.

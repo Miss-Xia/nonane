@@ -1,0 +1,30 @@
+「马力」足、更清楚：浅析 7T 磁共振在神经科的应用
+临床工作中，除了影像科以外，恐怕没有另一个临床科室像神经科一样钟爱磁共振，也不会有其他科室的临床医生像神经科医生一样执着于将临床与影像，尤其是磁共振相结合，曾经有放射科的老师开玩笑说：「最不喜欢的就是你们神经科的大夫，你们自己看头颅磁共振的水平几乎等同于同年资的放射科医生，并且你们还掌握了更全面的临床资料，让我们压力很大」。
+随着科技的进步，影像设备也在迅速的进步中，磁共振的场强越来越大，从曾经的 0.5T 到 1.5T、3.0T，现在 7T 场强磁共振渐渐进入我们的视野。继中科院之后，浙江大学也引入了国内第二台 7T 磁共振设备。目前该设备正在进行伦理审查，相信不久之后便可以投入使用。
+今天就让我们一起来看一看目前 7T 磁共振会给神经科的临床和科研带来哪些惊喜吧。
+难治性局灶性癫痫
+对于药物难治性局灶性癫痫，手术是一种可行的治疗方案，术前评估时需要明确致痫灶，常规场强的磁共振检查常常不能发现致痫灶，故目前临床常常须结合神经电生理检查（包括深部电极）、PET 扫描、脑磁图检查等综合分析来定位。现有研究表明，对可疑部位行 7T 磁共振扫描可以提高病变的发现率。
+图 1 局灶性难治性癫痫患者在常规场强 MR 下未见明显异常，对其行 7T 磁共振扫描，上图为 GRE 图像。图 D 为右侧大脑半球，E 为图 D 中感兴趣区的放大图。图 G 为左侧大脑半球，F 同样为其放大图。可以发现右侧颞叶和岛回灰白质分界清楚。而在 F、G 图中，可以发现左侧颞叶前部和岛回中灰白质分界不清。对该部位进行手术，病理显示 FCD IIa（局灶性皮质发育不良 IIa 级）
+图 2 图为同一患者的 MR 扫描，F 及 J 为 1.5T FLAIR，G 及 K 为 3T FLAIR，H 及 L 为 7T GRE，I 及 M 为 7T FLAIR。1.5T 和 3T 影像中提示了可疑的 transmantle 征（穿通征，局灶性皮质不良的 MRI 表现，表现为局灶性皮层增厚、灰白质分界不清）。在 H 和 L 中可以见到明确的皮层增厚、皮质内的低信号层、灰白质分界不清、皮层锥形突向脑室等改变。I 和 M 虽然提供了较少的皮质信息，但是更清晰的显示了灰白质分界不清以及 transmantle 征
+多发性硬化
+MS 和 MNO 因为其临床症状以及影像表现皆有诸多相似之处，但其治疗方法却有不同，故其鉴别一直是临床上一件重要却又十分困难的事情。7T MRI 可能为这两种疾病的鉴别诊断及 MS 的病理生理研究提供一种新的思路。有研究表明磁敏感加权成像以及 MR 定量磁敏感图（QSM）可能对鉴别此两种疾病有所帮助。
+病灶在磁敏感加权成像上显示低信号，在 QSM 上显示高信号被定义为铁负载（iron-laden）病灶，约半数 MS 患者存在铁负载病灶，而 MNO 患者中不会出现铁负载病灶。另外，借助 QSM，还有研究发现 MS 患者基底节区的改变。
+图 3 上一排图像显示的是以侧脑室下角邻近小静脉为中心的一个典型的 MS 病变。该病灶在 T2 相高信号，T1 相上低信号，在磁敏感加权成像上呈现等/低信号，病灶中间穿行一条明显的静脉。该病灶在 QSM 上为高信号。而对应的，MNO 患者的病灶无法观察到穿行于病灶中的静脉，在 QSM 中不显示病灶
+烟雾病（moyamoya 病）
+7T TOF-MRA 能发现传统较低场强磁共振不能发现的微动脉瘤。这对我们了解烟雾病的病理生理机制提供了更多证据。
+图 4 两个不同的角度观察 3 个患者的 7T 磁共振 TOF-MRA 影像（AB、CD、EF 分别对应同一病人），可以发现脑室内的侧支血管形成了微动脉瘤（箭头所示）
+图 5 同一患者的 7T 磁共振 TOF-MRA 影像，A～C 为搭桥手术前，D～F 为搭桥手术完成后 6 个月。可以发现术前三脑室的脉络膜后动脉的一根侧支血管上存在一个直径 560μm 的微动脉瘤（箭头所示）。搭桥手术 6 个月后，该微动脉瘤消失
+肌萎缩侧索硬化
+肌萎缩侧索硬化（ALS）作为一种发病机制目前尚不明确、预后差的神经系统疾病，7T 磁共振仍有可能对其研究产生一定的推动作用。研究发现，ALS 患者的初级运动皮质深层在 7T 磁共振下可以显示萎缩以及信号改变。
+图 6 上排为健康对照组，下排为 ALS 患者的 SWI 图像。B 为 A 的示意图，E 为 D 的示意图。图 D 显示 ALS 患者的中央前回和中央后回。可以见到 ALS 患者的皮质表层（点表示）的深层（花括号表示）显著薄于正常对照，且信号更低
+另外还有借助 7T 磁共振对血流参数的测量、对局部结构体积及信号测定等来进一步研究肿瘤、神经退行性疾病（如 AD）、精神疾病（如精神分裂症、抑郁症等）、预测血管瘤破裂危险因素等，目前都在国外展开，随着国内设备的引入，相信国内也很快会有各种研究开始展开。
+要想一句话简单概括 7T 磁共振会给我们带来什么也并不难，那就是「看到原来看不到的，看清原来看不清的，测到原来测不到的」，但是 7T 磁共振究竟会给神经系统的研究及神经科的临床带来什么成果，现在谁也无法预测。
+而国内想要进行 7T 磁共振的科研和临床应用，首先要面对的是其安全问题，曾经有物理学专家将磁共振比喻为一台「微波炉」，设备对局部组织的热效应是我们不能忽视的，但对磁共振线圈进行更好地优化、设计可以将发热控制在安全范围内。
+另外，参考国外 600 美元/小时的检查费用，有朝一日该设备应用于临床时，其检查费用必然不会便宜。而目前，我们只能怀着开放的心态面对新的技术以及这项技术给我们带来的改变。谁知道呢，也许不久以后 7T 磁共振检查会成为神经科临床诊断中一项重要的武器也说不定。
+参考文献
+1. De Ciantis A, Barba C, Tassi L, et al. 7T MRI in focal epilepsy with unrevealing conventional field strength imaging[J]. Epilepsia,2016,57(3):445-454.
+2. Chawla S, Kister I, Wuerfel J, et al. Iron and Non-Iron-Related Characteristics of Multiple Sclerosis and Neuromyelitis Optica Lesions at 7T MRI[J]. AJNR Am J Neuroradiol,2016.
+3. Schmalbrock P, Prakash R S, Schirda B, et al. Basal Ganglia Iron in Patients with Multiple Sclerosis Measured with 7T Quantitative Susceptibility Mapping Correlates with Inhibitory Control[J]. AJNR Am J Neuroradiol,2016,37(3):439-446.
+4. Matsushige T, Kraemer M, Schlamann M, et al. Ventricular Microaneurysms in Moyamoya Angiopathy Visualized with 7T MR Angiography[J]. AJNR Am J Neuroradiol,2016.
+5. Cosottini M, Donatelli G, Costagli M, et al. High-Resolution 7T MR Imaging of the Motor Cortex in Amyotrophic Lateral Sclerosis[J]. AJNR Am J Neuroradiol,2016,37(3):455-461.
+6. Matsushige T, Chen B, Ringelstein A, et al. Giant Intracranial Aneurysms at 7T MRI[J]. AJNR Am J Neuroradiol,2016,37(4):636-641.

@@ -1,0 +1,10 @@
+距肛缘 10~15 cm 的直肠癌应定义为结肠癌
+来自莱顿大学医学中心的 Velde 教授在肿瘤学年报上发表了关于结直肠癌分类更新的建议，探讨是否应该将肿瘤距肛缘 10~15 cm 的直肠癌定义为结肠癌。
+结肠和直肠肿瘤的生物学特性存在差异，制定划分的明确标准对于科学研究和临床治疗都是非常必要的。
+Breugom 等在 Lancet Oncol 发表的系统综述提示 II~III 期直肠癌患者 TME 术前放化疗，术后再行辅助化疗不能延长总生存（OS）、无病生存（DFS）和远隔部位复发率，但肿瘤距肛缘 10~15 cm 的患者可能受益（1）。
+Andre 等的研究显示 III 期和高风险 II 期结肠癌患者受益于辅助化疗（2），因此有争议是否将肿瘤距肛缘 10~15 cm 的直肠癌划归为结肠癌。
+Breugom 等在 PROCTOR/SCRIPT 临床试验中对这部分患者进行了研究，这是一项 III 期临床试验， 接受了术前放化疗和 TME 手术的 II~III 期直肠癌患者被随机分入辅助化疗或观察组，共计 437 人，中位随访期为 5.5 年，其中肿瘤距肛缘 10~15 cm 的患者 DFS 显著改善，而肿瘤距肛缘<5 cm 和 5~9.9 cm 的患者无显著改善。
+基于上述系统综述和临床试验的结果，Velde 教授建议应将距肛缘 10~15 cm 的直肠癌定义为结肠癌。
+(1)    Breugom AJ, Swets M, Bosset JF et al. Adjuvant chemotherapy after preoperative (chemo)radiotherapy and surgery for patients with rectal cancer: a systematic review and metaanalysis of individual patient data. Lancet Oncol 2015; 16: 200-207.
+(2)    Andre T, de Gramont A, Vernerey D et al. Adjuvant Fluorouracil, Leucovorin, and Oxaliplatin in Stage II to III Colon Cancer: Updated 10-Year Survival and Outcomes According to BRAF Mutation and Mismatch Repair Status of the MOSAIC Study. J Clin Oncol 2015; 33: 4176-4187.
+(3)    Breugom AJ, van Gijn W, Muller EW et al. Adjuvant chemotherapy for rectal cancer patients treated with preoperative (chemo)radiotherapy and total mesorectal excision: a Dutch Colorectal Cancer Group (DCCG) randomized phase III trial. Ann Oncol 2015; 26: 696-701.

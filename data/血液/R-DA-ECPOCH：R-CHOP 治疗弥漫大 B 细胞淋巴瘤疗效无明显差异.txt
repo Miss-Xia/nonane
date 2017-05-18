@@ -1,0 +1,23 @@
+R-DA-ECPOCH：R-CHOP 治疗弥漫大 B 细胞淋巴瘤疗效无明显差异
+弥漫大 B 细胞淋巴瘤（DLBCL）是非霍奇金淋巴瘤（NHL）中最常见的类型，并且是一组在临床表现、组织形态和预后等多方面具有很大异质性的恶性肿瘤。超过 80% DLBCL 起源于生发中心 B 细胞（GCB）和活化 B 细胞（ABC）。
+R-CHOP 方案并不适合所有 DLBCL
+5 年前，R-CHOP 方案是治疗 DLBCL 的一线疗法，利妥昔单抗的加入大大改善了患者生存，但由于 DLBCL 的异质性非常大，部分患者也会很快复发。近 1～2 年来 DLBCL 的治疗发生了变化，正迅速转向分层医疗、精准治疗，R-CHOP 方案并不适合所有的 DLBCL 患者。
+DA-EPOCH 方案预后：GCB 组优于 ABC 组
+GCB 组和 ABC 组的发病机制不同。GCB 组主要是 BCL6 基因的异常，主要和细胞损伤的修复及细胞周期相关，而 ABC 组主要是 NF-KB 通路异常，主要和抗凋亡有关系。GCB 组 75% 以上都有 BCL6 基因高表达。
+图 1 GCB：non-GCB 发病机制：GCB 亚型为 BCL-6 高表达，ABC 亚型为 NF-Κb 通路异常
+美国学者 2013 年在 ASH 发表的 2 期临床数据表明，R-DA-EPOCH 方案好于 R-CHOP 方案。无论是 GCB 组还是 ABC 组，疗效都有提高；但 GCB 组患者无疾病生存期接近 100%。当时与会的部分学者觉得太夸张了，因为临床中确实也有 DLBCL GCB 亚型患者复发，疗效也有不好的，但不得不承认 R-DA-EPOCH 方案确实对 GCB 亚型患者非常有效。
+图 2 GCB：non-GCB 患者 PFS
+为什么 DA-EPOCH 方案为 GCB 亚型疗效如此之好，主要与 GCB 亚型的发病机制相关。
+GCB 组的发病机制主要是 BCL-6 基因的高表达，从下图我们可以看到 GCB 组 BCL6 mRNA 的表达明显高于 ABC 组和原发纵膈弥漫大 B 细胞淋巴瘤（PMBL），DA-EPOCH 方案中含有 VP-16，随着 VP-16 剂量的增加对 BCL-6 基因抑制非常明显，再加上四种药物连续 24 小时静滴增加了药物间的相互作用，从而更强的杀伤肿瘤细胞。
+从此之后谈到 DLBCL 的治疗不再首选 R-CHOP 方案，对于身体条件好、能耐受的可以选择 R-DA-EPOCH 方案。
+图 3
+ABC DLBCL、GCB DLBCL、PMBL 及其他未分类淋巴瘤的 BCL-6 mRNA 表达情况
+图 4 依托泊苷（VP-16）抑制 BCL-6 的效用随剂量的增加而增强
+3 期临床试验却是阴性结果
+既然 2 期临床试验显示 R-DA-EPOCH 方案对 GCB 亚型效果这么好，肯定是要开展 3 期的。前段时间 ASH 在网上放出了今年会议的全部摘要，北部中心肿瘤治疗协助组（CALGB）公布了 R-CHOP：R-DA-EPOCH 一线治疗 DLBCL 的临床研究结果。
+2005 年 5 月至 2013 年 5 月期间，研究人员共纳入 524 例 Ⅱ 期及以上确诊 DLBCL 患者，随机接受 6 个疗程的 R-CHOP 和 R-DA-EPOCH 方案化疗，有中枢侵犯风险患者 3～6 个疗程期间用甲氨蝶呤进行鞘内注射预防，主要研究终点是无疾病生存期。
+中位随访 5 年左右，两组患者 PFS 和 OS 均无明显差别，且 R-DA-EPOCH 方案较强，试验过程中许多患者无法耐受，这一阴性结果让医生对 DA-EPOCH 方案寄予的希望破灭，或许对患者进行亚组分析比如分为 GCB 组和 ABC 组有好的结果。
+参考文献
+1. Wilson W H, Jung S H, Porcu P, et al. A Cancer and Leukemia Group B multi-center study of DA-EPOCH-rituximab in untreated diffuse large B-cell lymphoma with analysis of outcome by molecular subtype[J]. Haematologica, 2012, 97(5): 758-765.
+2. Phan R T, Saito M, Kitagawa Y, et al. Genotoxic stress regulates expression of the proto-oncogene Bcl6 in germinal center B cells[J]. Nature immunology, 2007, 8(10): 1132-1139.
+3. Phase III Randomized Study of R-CHOP Versus DA-EPOCH-R and Molecular Analysis of Untreated Diffuse Large B-Cell Lymphoma: CALGB/Alliance 50303. 2016ASH Abstract.

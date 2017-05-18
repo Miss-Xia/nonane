@@ -1,0 +1,50 @@
+股骨髋臼撞击症：骨科医生应该了解的 X 线表现
+自瑞士骨科医生 Ganz 教授等首次提出股骨髋臼撞击症（Femoroacetabular impingement，FAI）的概念以来
+[1]
+，近十年这一领域的研究成果呈逐年递增趋势
+[2]
+。X 线平片作为辅助诊断 FAI 的方法之一，在临床实践中直观且重要。本文旨在归纳 FAI 典型的 X 线表现，让各位看官面对 FAI 手握利器，心中有数。
+FAI 是指由于股骨头颈结合部或髋臼解剖形态异常，两者发生撞击，导致髋臼盂唇及软骨反复损伤，引发髋关节疼痛及活动受限，特别是在屈曲和内旋髋关节时疼痛加重。继发髋关节退行性病变，严重可导致髋关节骨性关节炎
+[3]
+。
+分型
+根据股骨头颈结合部或髋臼异常解剖形态，FAI 可分为三种
+[4]
+（图 1）：
+凸轮型（Cam type）：常见于股骨近端畸形或前部、前上部股骨头颈结合处骨质异常突起
+钳夹型（Pincer type）：常见于髋臼内陷，髋臼后倾等导致的髋臼过度包容
+混合型（mixed type）
+图 1 股骨髋臼撞击症分型示意图（引自：BMC Musculoskelet Disord 2015;16:64）
+发病机制
+凸轮型和钳夹型的发病机制详见图 2。
+图 2 股骨髋臼撞击症发病机制流程图
+X 线摄片方法
+通过 X 线平片有效地获取诊断 FAI 的重要信息依赖于标准的摄片方法。因此，标准的摄片方法尤其值得骨科医生及影像科医生的关注。常规诊断 FAI 的摄片方法如图 3 所示，一般包括骨盆前后位片（图 3A）及股骨近端轴位片（图 3B）。摄片时应保持患者平卧，下肢内旋 15°，以代偿股骨前倾并更好地展示股骨头颈结合处的外侧轮廓。
+图 3 股骨髋臼撞击症 X 线摄片方法（引自：AJR Am J Roentgenol. 2007; 188: 1540-1552.）
+凸轮型（Cam type）X 线表现：
+1. 非圆形的股骨头，股骨头颈结合处外侧及前上部异常骨性突起，呈现「枪柄样」畸形（Pistol-grip deformity），继发髋臼唇硬化，髋臼缘骨赘，关节间隙变窄（图 4）；
+2. 股骨头颈偏心距（Offset）减小（<10 mm），α 角增大（>50°）
+[5,6]
+（图 5）；
+图 4 凸轮型股骨髋臼撞击症 X 线表现。（A）股骨头呈非圆形，黄色箭头可见股骨头颈结合处前上部骨性突起，髋臼唇硬化，骨赘生成；（B）股骨头颈结合处大量异常骨性突出，呈现出「枪柄样」畸形，同时可见关节间隙变窄，继发性骨性关节炎的表现（引自：Uptodate）
+图 5 凸轮型股骨髋臼撞击症 X 线表现。α 角：以股骨头中心 O 为圆心做圆，与股骨头颈结合处骨质的交点为 A，直线 OA 与股骨颈中轴线 OB 的交角，大于 50°应考虑股骨髋臼撞击症。偏心距：轴位平片上股骨头前缘切线与股骨颈前缘切线之间的距离，小于 10 mm 时应考虑股骨髋臼撞击症（引自：J Med Case Reports. 2011; 5: 143.）
+钳夹型（Pincer type）X 线表现：
+1. 髋臼过深，过度包容：髋关节中心边缘角（Center-edge angle, CEA）>39°
+[7]
+，髋臼窝线位于髂坐线内侧（图 6）；
+2. 髋臼后倾，8 字征（Figure-8 configuration）阳性（图 7）；
+3. 髋臼后壁突出，后壁征（Posterior wall sign）阳性（图 8）；
+图 6 钳夹型股骨髋臼撞击症 X 线表现。（1）中心边缘角为股骨头中心 O 与髋臼最外侧缘 E 连线 OE 与垂直线的夹角。若中心边缘角大于 39°，表明髋臼有过度包容的倾向。（2）经股骨头最外缘 N 和髋臼最外侧缘 E 分别垂直线，前者位于后者内侧，股骨头全部包容于髋臼内部，提示髋臼过度包容。（3）髋臼窝线位于髂坐线内侧，提示髋臼过深
+图 7 钳夹型股骨髋臼撞击症 X 线表现。髋臼前缘（白色虚线）投影部分位于髋臼后缘（黑色虚线）投影外侧，两者相交叉呈 8 字征，提示髋臼后倾，易发生前外侧撞击（引自：Sports Health. 2010; 2: 321-333.）
+图 8 钳夹型股骨髋臼撞击症 X 线表现。髋臼后缘投影位于股骨头中心 O 外侧，后壁征阳性，提示髋臼后壁突出，易发生后外侧撞击（引自：AJR Am J Roentgenol. 2007; 188: 1540-1552.）
+综上，以患者病史、典型症状及体格检查为基础，熟练掌握 FAI 典型的 X 线表现不仅可以使 FAI 的诊断事半功倍，更重要的是可以让 FAI 发病机制直观易懂，为接下来的治疗提供依据。各位看官都记住了吗？
+本文作者：
+刘安，博士研究生在读，师从浙江大学附属第二医院骨科主任严世贵教授，从事关节疾病的基础和临床研究。
+参考文献
+1. Ganz, R., et al., Femoroacetabular impingement: a cause for osteoarthritis of the hip. Clin Orthop Relat Res, 2003: 112-120.
+2. Duong, A., et al., Authorship in the field of femoroacetabular impingement: an analysis of journal publications. Knee Surg Sports Traumatol Arthrosc, 2016.
+3. Khan, M., et al., New perspectives on femoroacetabular impingement syndrome. Nat Rev Rheumatol, 2016; 12: 303-310.
+4. Investigators, F., A multi-centre randomized controlled trial comparing arthroscopic osteochondroplasty and lavage with arthroscopic lavage alone on patient important outcomes and quality of life in the treatment of young adult (18-50) femoroacetabular impingement. BMC Musculoskelet Disord, 2015; 16: 64.
+5. Tannast, M., et al., Femoroacetabular impingement: radiographic diagnosis--what the radiologist should know. AJR Am J Roentgenol, 2007; 188: 1540-1552.
+6. Mascarenhas, V.V., et al., Imaging prevalence of femoroacetabular impingement in symptomatic patients, athletes, and asymptomatic individuals: A systematic review. Eur J Radiol, 2016; 85: 73-95.
+7. Tonnis, D. , et al., Acetabular and femoral anteversion: relationship with osteoarthritis of the hip. J Bone Joint Surg Am, 1999; 81: 1747-1770.

@@ -1,0 +1,66 @@
+胸腰段骨折手术入路的选择：具体情况具体分析
+作为脊柱骨折中最为常见的类型，胸腰段骨折的诊断、分类和治疗一直存在争议。过去几十年间，学界常以 Denis 三柱理念评估受损脊柱的稳定情况，近来，又以胸腰段损伤严重度评分（TLISS）决定适宜的治疗方式。
+对于稳定的胸腰椎爆裂骨折，越来越多的研究表明采用非手术的自然疗法可取得良好效果
+[1～5]
+。近期英国学者 Jaffray  等报道了其长期随访研究结果，提示无神经症状的胸腰椎爆裂骨折，不手术、早期活动，自然恢复效果良好（
+点击查看：无神经损伤的胸腰椎爆裂骨折：保守治疗效果良好
+）
+关于胸腰段骨折稳定与否的判断标准，目前尚存在争议。一般认为，后凸 15 到 35 度，椎体高度丧失 40% 到 60%，以及后柱的骨折/脱位，为胸腰段骨折不稳的标准。对于不稳定的胸腰段骨折，则需手术治疗。本文主要介绍胸腰段骨折的手术治疗。
+胸腰段骨折手术治疗的目的在于提供足够的稳定，防止复位丢失和促进愈合，并充分减压为神经恢复创造积极有利的条件。全球而言，脊髓损伤发生率为每百万人 3.6 到 195.4 人不等
+[5]
+。对于脊髓损伤重、全瘫的胸腰段骨折，即使经过手术减压和固定，神经恢复的希望亦十分有限（与患者及家属良好沟通很有必要）；而对于不全瘫痪的骨折，则应争取早期减压，为神经恢复创造最佳条件。
+不稳定性胸腰段骨折手术有后路、前路或前后联合手术，但哪个是最佳选择仍存在争论。前柱重建可直接恢复椎体高度，但存在入路相关并发症。后路手术更常用于减压固定，而非重建前柱。
+后路手术
+随着椎弓根螺钉技术的普及，后路减压、内固定恢复矢状曲度和椎体高度，被广为认可。固定节段包括伤椎上下各 2～3 个节段固定，称为长节段后路固定。然而固定脊柱 5 个节段以上可限制活动度，引起邻近节段退变，而演变为伤椎上下各 1 个节段固定，称为短节段后路固定（两组螺钉+棒），然而存在内固定失败和进行性矢状面畸形的高发率。为此，演变为伤椎置钉。
+1. 生物力学依据
+美国 Norton 等进行的一项尸体腰 1 骨折模型生物力学研究，提示带伤椎的三组椎弓根钉固定更牢靠
+[6]
+。
+于脊柱节段施加外力而造成 L1 椎体高度压缩至少 50% 的轴向负荷骨折，后以万向椎弓根螺钉（Expedium, Depuy）固定。固定方案为两种，一种为固定 T12 和 L2 的两组结构，另一种为固定 T12、L1 和 L2 的三组结构（图 1）。
+图 1 在生物力学仪器上检测的尸体 T12～L2 标本
+结果显示，在尸体腰 1 轴向负荷骨折模型中，伤椎置钉的三组椎弓根钉+固定棒系统，比跨越伤椎的两组椎弓根钉系统，在生物力学上更为牢靠。
+Bakhsheshian 等
+[7]
+对该研究进行了高度评价，他们提供了伤椎置钉的生物力学依据。总体而言，该生物力学研究结果很有临床意义，如减少破坏更多的运动节段，降低短节段固定失败发生率。而且，采用经皮椎弓根钉固定技术可最大限度的提高生物力学稳定性。
+2. 临床依据
+土耳其学者 Kose 等进行的研究，提示短节段椎弓根钉内固定联合单根伤椎螺钉可有效治疗胸腰段 A 型骨折 [8]。
+该回顾性研究纳入使用该技术治疗的 39 例胸腰段骨折的病例，其骨折 AO-Magerl 分类为 A 型，平均年龄 35.1 岁，平均随访时间 22.9 月。结果显示，采用短节段联合伤椎椎弓根钉固定，后凸矫枉过正的技术，为治疗胸腰段压缩骨折的安全、有效的治疗方法。该研究中，以直径 5 mm、长度为 30～35 mm 的万向椎弓根钉固定伤椎，能提供 80% 的刚度和 60% 的抗拔出强度。
+前路手术
+关于胸腰段爆裂骨折的前路手术治疗，由于手术入路相关并发症，报道不多，Dunn 于 1984 年首先报道前路固定治疗胸腰段骨折
+[9]
+，开启了前路手术之先河。以 2009 年戴力扬教授等于 Spine 的报道较为经典
+[10]
+。对于极不稳定的胸腰段爆裂骨折，他们认为前路减压、重建加固定优于后路手术。
+该研究纳入 65 例胸腰段爆裂骨折行单纯前路手术的病例，以 McCormack 法对骨折的应力分担分类（图 2），应力分担高于 7 分，Denis 分类为 A 类，B 类或 C 类。分为自体髂骨（三面皮质骨）支撑和钛网（以切除的椎体充填）支撑两组。
+手术采用左侧腹膜后入路，行椎体次全切除，前方和对侧椎体骨壁予以保留。内固定采用 Z-plate。
+图 2 应力分担分类
+结果表明，所有病例均获得牢固愈合，神经功能改善，且无明显矫形丢失。两组间无明显差异。
+尽管文献中不乏前路手术成功治疗胸腰段爆裂骨折的报道，但单纯前路能否为粉碎重的骨折提供牢靠稳定，存在争议，尤其对于中柱和后柱损伤的骨折。于是，有学者提出前后联合手术治疗。
+前后联合手术
+总体而言，前后联合手术治疗胸腰段爆裂骨折，在临床实践中并未得到广泛认同。前后联合手术的优点在于提高了初期稳定性，复位效果好及术后复位丢失减少，尤其对于三柱损伤、不全瘫的病例
+[11]
+。缺点在于手术创伤大、时间长，入路相关并发症多。
+德国学者 Schnake 等进行的前瞻性研究表明：前后联合+可延伸钛网可成功治疗胸腰段粉碎骨折，长期随访结果良好
+[12]
+。
+该研究共纳入使用该技术治疗的 80 例胸腰段骨折（T4～L5）、不稳的连续病例，其骨折 AO-Magerl 分类为 A.3、B 或 C 型，其中 45 例随访时间达 5 年，平均年龄 44 岁。所有病例先行后路 USS 或 USS-II 固定，继而行前路骨折椎体次全切除，植入可延伸钛网 VBR（局部椎体松质骨填充），L1 以上开胸，以下则腹膜外入路。
+结果显示，开胸相关的并发症发生率高，为 26%，无融合器相关并发症。1 例因开胸血肿而需翻修手术。术后矫形丢失由于钛网的轻微下沉而导致，平均为 2.4 度。CT 提示 41 例（91%）骨性融合（图 3），96% 患者走动自如，脊柱各向活动度受限轻微。71% 病例无需镇痛药，67% 能上班，平均 Oswestry 残障指数为 12。31% 的患者有前路手术相关的并发症。
+图 3 L1 粉碎骨折病例，术后 5 年随访，X 线及 CT 示牢固愈合
+因此，前后联合手术治疗胸腰段粉碎骨折，尽管临床和影像学长期随访效果满意，然而，近三分之一的病例存在前路开胸相关的并发症，为前后联合手术的缺点。
+要点回顾
+1. 越来越多的证据表明：稳定的胸腰段爆裂骨折，无神经症状，可保守治疗，早期下地，即使不佩戴支具，自然病程乐观。
+2. 不稳定的胸腰段爆裂骨折，抑或合并神经损伤，一般需手术治疗，以利神经功能、矢状位和椎体高度之恢复。
+3. 前路、后路和前后联合手术，各有其适应证和优缺点，具体如何抉择，需结合临床具体情况，综合考虑。总体原则为最小的创伤和经济代价，获得最大的功能恢复。
+参考文献
+1. Knight RQ, Stornelli DP, Chan DP, Devanny JR, Jackson KV. Comparison of operative versus nonoperative treatment of lumbar burst fractures. Clin Orthop Relat Res. 1993 Aug;(293):112-21. PubMed PMID: 8339471.
+2. Weinstein JN, Collalto P, Lehmann TR. Thoracolumbar "burst" fractures treated conservatively: a long-term follow-up. Spine (Phila Pa 1976). 1988 Jan;13(1):33-8. PubMed PMID: 3381135.
+3. Bailey CS, Urquhart JC, Dvorak MF, Nadeau M, Boyd MC, Thomas KC, Kwon BK, Gurr KR, Bailey SI, Fisher CG. Orthosis versus no orthosis for the treatment of thoracolumbar burst fractures without neurologic injury: a multicenter prospective randomized equivalence trial. Spine J. 2014 Nov 1;14(11):2557-64.
+4. Jaffray DC, Eisenstein SM, Balain B, Trivedi JM, Newton Ede M. Early mobilisation of thoracolumbar burst fractures without neurology: a natural history observation. Bone Joint J. 2016 Jan;98-B(1):97-101.
+5. Jazayeri SB, Beygi S, Shokraneh F, Hagen EM, Rahimi-Movaghar V. Incidence of traumatic spinal cord injury worldwide: a systematic review. Eur Spine J. 2015 May;24(5):905-18. doi: 10.1007/s00586-014-3424-6. Epub 2014 Jun 21. Review. PubMed PMID: 24952008.
+6. Norton RP, Milne EL, Kaimrajh DN, Eismont FJ, Latta LL, Williams SK. Biomechanical analysis of four- versus six-screw constructs for short-segment pedicle screw and rod instrumentation of unstable thoracolumbar fractures. Spine J. 2014 Aug 1;14(8):1734-9. doi: 10.1016/j.spinee.2014.01.035. Epub 2014 Jan 23. PubMed PMID: 24462814.
+7. Bakhsheshian J, Dahdaleh NS, Patwardhan AG, Smith ZA. Comment on the biomechanical analysis of four- versus six-screw constructs for short-segment pedicle screw and rod instrumentation of unstable thoracolumbar fractures. Spine J. 2014 Aug 1;14(8):1810-1. doi: 10.1016/j.spinee.2014.03.036. PubMed PMID: 25085725.
+8. Kose KC, Inanmaz ME, Isik C, Basar H, Caliskan I, Bal E. Short segment pedicle screw instrumentation with an index level screw and cantilevered hyperlordotic reduction in the treatment of type-A fractures of the thoracolumbar spine. Bone Joint J. 2014 Apr;96-B(4):541-7. doi: 10.1302/0301-620X.96B4.33249. PubMed PMID: 24692625.
+9. Dunn HK. Anterior stabilization of thoracolumbar injuries. Clin Orthop 1984;189:116–24.
+10 Dai LY, Jiang LS, Jiang SD. Anterior-only stabilization using plating with bone structural autograft versus titanium mesh cages for two- or three-column thoracolumbar burst fractures: a prospective randomized study. Spine (Phila Pa 1976). 2009 Jun 15;34(14):1429-35.
+11. Vaccaro AR, Lehman RA Jr, Hurlbert RJ, et al. A new classification of thoracolumbar injuries: the importance of injury morphology, the integrity of the posterior ligamentous complex, and neurologic status. Spine 2005;30: 2325–33.
+12. Schnake KJ, Stavridis SI, Kandziora F. Five-year clinical and radiological results of combined anteroposterior stabilization of thoracolumbar fractures. J Neurosurg Spine. 2014 May;20(5):497-504. PubMed PMID: 24606000.

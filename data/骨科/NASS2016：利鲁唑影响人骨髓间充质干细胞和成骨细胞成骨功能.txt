@@ -1,0 +1,14 @@
+NASS2016：利鲁唑影响人骨髓间充质干细胞和成骨细胞成骨功能
+本文作者：周子斐，同济大学附属东方医院留美在读博士。
+北美脊柱外科协会（The North American Spine Society，NASS）第 31 届年会于美国当地时间 2016 年 10 月 26～29 日在马萨诸塞州的波士顿召开。
+在本次 NASS 年会上，来自 Rothman Institute Thomas Jefferson University 的 Gregory D. Schroeder 汇报了关于 Riluzole（利鲁唑）在人骨髓间充质干细胞和成骨细胞的成骨作用。利鲁唑（2-氨基-6-三氟甲氧基-苯并噻唑）属苯噻唑类化合物，是一种新型的谷氨酸释放抑制剂，应用于治疗肌萎缩性脊髓侧索硬化症的治疗。
+该研究团队在三人的股骨头提取骨髓间充质干细胞 （MSCS）和成骨细胞 （OBs），并对这两种细胞采用 50ng/mL，150ng/mL，450ng/mL 进行处理。
+Riluzole 处理 2 天和 7 天后检测细胞生存率，处理 7、14、21 和 28 天后检测碱性磷酸酶 (ALP) 和茜素红表达。
+同时，该研究团队还对成骨相关基因进行了 q-RTPCR 检测，在 50ng/mL 和 450ng/mL 两个浓度 Riluzole 处理 7，21 和 28 天后，分别检测 I 型胶原蛋白，ALP 和 RUNX2 的表达情况。
+细胞增殖实验说明 Riluzole 不影响 MSCs 和 OBs 的增殖。值得注意的是，150ng/mL 的 Riluzole 处理 MSCs 处理 14 天后 ALP 活性提高了 30%（p = 0.035），150ng/mL 的 Riluzole 处理 MSCs 处理 21 天后 ALP 活性提高了 2.5 倍 （p<0.01），450ng/mL 的 Riluzole 处理 MSCs 处理 21 天后 ALP 活性提高了 1.9 倍 （p = 0.01）。
+成骨细胞经过 150ng/mL 和 450ng/mL 浓度的 Riluzole 处理 14 天后，ALP 活性升高了 2~2.5 倍。
+然而，450ng/mL 浓度 Riluzole 长时间处理 MSCs 和 OBs 均引起了成骨相关基因的低表达。50ng/mL 浓度 Riluzole 不影响成骨相关基因的表达。
+因此，该团队认为 Riluzole 不影响 MSCS 和 OBs 的增殖，但是长时间的高浓度 Riluzole 会影响 MSCs 和 OBs 的成骨功能。
+图为笔者在 NASS 2016 会场
+图文发自波士顿。
+点此查看：NASS 2016 精华荟萃 >>

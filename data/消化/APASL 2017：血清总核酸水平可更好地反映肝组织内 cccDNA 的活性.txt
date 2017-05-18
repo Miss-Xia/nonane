@@ -1,0 +1,9 @@
+APASL 2017：血清总核酸水平可更好地反映肝组织内 cccDNA 的活性
+在第二十六届亚太肝病学会年会上，来自北京大学基础医学院病原生物学系暨感染病中心鲁凤民教授课题组的黄鸿鑫就慢性 HBV 感染者血清总核酸水平可以更好地反映肝组织内 cccDNA 的活性内容做了壁报展示。
+由于肝细胞内共价闭合环状 DNA（cccDNA）与慢性乙型肝炎（慢乙肝）的临床治愈率很低，停药后复发率较高相关，故 cccDNA 的定量检测在临床上意义重大。但由于肝穿在操作上存在限制，故迫切需要一种替代的、可以反映肝组织内 cccDNA 状态的病毒学指标。
+本研究通过比较分析慢性乙型肝炎病毒（HBV）感染者血清中 HBV RNA、HBV DNA、HBV RNA 与 HBV DNA 的总和（HBV RNA+HBV DNA），HBV 表面抗原（HBsAg）以及肝组织 HBV cccDNA 等指标的相关性，揭示使用血清学指标 HBV RNA+HBV DNA 来反映肝组织内 cccDNA 活性的可能性及其潜在临床意义。
+本研究共有 84 例未经治疗的慢性 HBV 感染者纳入了本研究中，并且将这些慢性感染者根据慢性 HBV 感染的自然进程分成四个时期，分别为 9 例免疫耐受期，53 例免疫清除期，6 例低复制期和 16 例再活动期慢性 HBV 感染者。
+基于实验室前期建立的 Taqman 探针荧光定量 PCR 方法，我们定量检测了这 84 例慢性 HBV 感染者血清 HBV RNA 的水平，并且通过 Pearson 或 Spearman 相关性分析，探究血清 HBV RNA，HBV DNA，HBV RNA+HBV DNA 及 HBsAg 水平与肝组织内 cccDNA 水平之间的相关性。
+研究发现，处于不同感染进程的慢性 HBV 感染者中，血清 HBV RNA，HBV DNA，HBV RNA+HBV DNA，HBsAg 及肝组织内 cccDNA 的动态变化情况相近。因此我们探究这几个指标之间是否存在着相关性。通过对 84 例慢性 HBV 感染者总体进行探究，我们发现，血清 HBV RNA，HBV DNA，HBV RNA+HBV DNA 及 HBsAg 水平均与肝组织内 cccDNA 水平正相关，且 HBV RNA+HBV DNA 与 cccDNA 水平之间的相关性要由于单独的血清 HBV RNA 或 HBV DNA 水平。
+当按不同感染进程单独分析各指标之间的相关性时，我们仅在免疫清除期感染者中发现血清 HBV RNA，HBV DNA，HBV RNA+HBV DNA 及 HBsAg 水平与肝组织内 cccDNA 之间存在正相关，且 HBV RNA+HBV DNA 与 cccDNA 水平之间的相关性要优于单独的血清 HBV RNA 或 HBV DNA 水平。另外，各指标之间的相关性在低复制期和再活动期中并没有被发现。
+因此，本研究认为血清 HBV RNA 本身可以反映肝组织内 cccDNA 的活性。血清 HBV RNA+HBV DNA 在反应肝组织内 cccDNA 活性方面要优于单独的血清学指标 HBV RNA 或 HBV DNA，因此血清 HBV RNA+HBV DNA 可以作为一个易于检测的病毒指标从而反映 HBV 的复制水平和肝组织内 cccDNA 的活性。

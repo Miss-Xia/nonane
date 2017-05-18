@@ -1,0 +1,58 @@
+「心脑相连」：这些神经系统疾病可致心血管并发症
+多种中枢神经系统疾病（CNS）可直接或间接引起心血管系统疾病，我们称其为脑源性心脏病。其中常见的心血管系统表现有：心律失常、应激性心肌病或心脏自主神经功能紊乱，较少见的心血管系统表现有：心力衰竭、收缩或舒张功能障碍、心肌梗死（MI）、高血压、肺动脉高压
+[1]
+。
+CNS 疾病导致的心律失常包括室性或室上性心律失常，可引起心悸、头昏、眩晕、晕厥、濒死状态甚至心源性猝死以及癫痫中不明原因的猝死（SUDEP）。CNS 疾病导致的心肌病主要是 Takotsubo 综合征（TTS）。 可并发 TTS 的 CNS 疾病包括癫痫、缺血性脑卒中、蛛网膜下腔出血、可逆性后部脑病综合征等。心脏自主神经功能紊乱可表现为心率变异性的升高或降低
+[2]
+。
+今天，我们就一起来总结下神经系统疾病可致的心血管并发症。
+缺血性卒中
+研究表明缺血性脑卒中可诱发心血管疾病。脑梗死后出现的心血管并发症包括心律失常、TTS、MI 突发性高血压以及自主神经功能紊乱
+[3]
+。脑梗死患者常出现的心电图异常包括：T 波、Q 波异常、ST 段压低、ST 段抬高、QT 间期延长以及显著的 U 波。
+研究发现，急性脑梗死后 24 h 内出现窦性心动过缓及窦性心动过速的概率增高。在一项急性脑梗死患者的研究中发现，QT 间期延长仅见于右侧大脑中动脉供血区脑梗死的患者
+[4]
+。缺血性脑卒中中右侧岛叶皮质缺血性脑卒中容易出现心血管事件，刺激左侧岛叶皮质可引起心血管的副交感神经反应，而刺激右侧岛叶皮质可引起心血管的交感神经反应。
+脑卒中患者在病程 1 个月左右猝死风险较大，与其引起的自主神经功紊乱不稳有关，卒中后心率变异性（HRV）的分维值（FD）能预测猝死风险，FD ≤ 1.05 的脑卒中患者猝死风险较大，电刺激小脑顶核处理，使卒中患者的 HRV 改善，FD 提高，预防脑卒中患者脑源性猝死的危险，可有效防治脑梗死患者心脏自主神经功能紊乱。
+蛛网膜下腔出血
+卒中后心脏表现较多，特别与蛛网膜下腔出血患者有关，蛛网膜下腔出血的心血管并发症包括心律失常、心力衰竭、收缩功能障碍、舒张功能障碍、TTS、非 ST 抬高型 MI 或肺动脉高压
+[5]
+。
+并发心律失常包括窦性心动过缓、窦性心动过速、房室传导阻滞、QT 间期延长、ST-T 异常、室性期前收缩、室性心动过速或心脏停搏
+[6]
+。蛛网膜下腔出血导致心律失常或其他心血管并发症，可能是由于儿茶酚胺释放增加导致心肌应激性增强所致。
+蛛网膜下腔出血并发心脏病大多数属良性，很少危及生命，但部分患者因心脏并发症可致命，因此所有疑为 SAH 患者应住院监测，并给予处理。
+脑内出血
+脑内出血的心血管并发症包括心律失常、TTS、心力衰竭、收缩功能减退、MI 以及室壁运动异常
+[8]
+。住院期间心房颤动及既往 MI 病史是脑出血患者在住院期间出现严重心血管并发症的独立危险因素。后颅窝出血可并发 T 波异常。在脑出血患者中，QT 间期延长是远期死亡率增高的独立危险因素。脑出血患者也可出现心脏收缩功能障碍而不表现出明显的心力衰竭症状
+[7]
+。
+癫痫发作
+癫痫发作对心血管系统有严重的影响，这种影响甚至决定癫痫患者的转归。癫痫发作主要的心血管并发症是：严重的心律失常、SUDEP、TTS、高血压以及心肌细胞受损。癫痫发作可出现多种类型的心电图异常，包括室性心动过速、心源性猝死。
+强直阵挛发作患者心电图异常是由癫痫发作时、发作后、以及发作间期的心脏自主神经功能紊乱所致。在一项 35 例癫痫持续状态患者的研究中发现，其中 63% 的患者出现心肌损伤，66% 出现窦性心动过速，50% 出现窦性心动过缓
+[7]
+。在发作癫痫的患者中，有 1% 发生癫痫发作期心脏停搏和晕厥，癫痫发作可能出现心脏停搏或心动过缓而导致晕厥
+[8]
+。
+难治性癫痫患者可能出现心脏的交感神经反应性及活性增高，而副交感神经的反应性与活性减弱。虽然 SUDEP 不排除有肺源性因素的可能，但其心血管机制更显合理。
+帕金森病
+帕金森病和其他运动障碍性疾病均可并发心血管疾病。最常见的并发症是心血管系统自主神经功能紊乱。
+研究发现，多系统萎缩和进行性核上性麻痹的压力反射敏感性显著下降，所有帕金森病患者均表现出心电图异常。若干帕金森综合征特别是突触核蛋白病可引起自主神经功能障碍，系由于周围自主神经系统或其脑调节区，如岛叶、扣带回、下丘脑及额基底皮质的变性所致。
+纯自主神经衰竭患者有心脏交感神经丧失，平卧时血浆去甲肾上腺素水平降低。自主神经功能障碍的表现，包括直立性低血压及心动过速。多到 60% 的 PD 患者发生自主神经功能障碍。高达 25% 的患者会有自主神经障碍。
+颅脑外伤
+颅脑外伤的心血管并发症包括心律失常、心源性猝死、TTS、收缩功能障碍、MI、心力衰竭、高血压及自主神经功能紊乱
+[9]
+。颅脑外伤常并发的心电图异常包括 ST 段抬高，是神经源性心肌功能障碍的表现。脑外伤较少见的心血管合并症包括高血压、心肌收缩功能障碍以及心源性猝死。
+脑膜炎或脑炎
+膜炎或脑膜炎出现心血管并发症的研究相对较少，多见于一些病例报告，包括心律失常、心源性猝死、TTS、MI、收缩功能障碍、以及自主神经紊乱。
+参考文献
+[1]Pataka A, Renata LR. Continuous positive airway pressure and cardiovascular events in patients with obstructive sSleep apnea. Curr Cardiol Rep, 2013,15:385.
+[2] Xiong L, Leung HW, Chen XY et al. Autonomic dysfunction in different sub types of post-acute is chemic stroke[J]J Neurol Sci, 2014, 337:141-6.
+[3]Mathias TL, Albright KC, Boehme AK, et al.The Impact of Myocardial Infarction vs. Pneumonia on Outcome in Acute Ischemic Stroke[J]. J Cardiovasc Dis,2014,2: 1-3.
+[4] Simula, S; Muuronen, AT; Taina, M, at al.Effect of middle cerebral artery territory ischemic stroke on QT interval[J]. J Stroke Cerebrovasc Dis,2014,23: 717-723.
+[5] Kilbourn KJ, Levy S, Staff I, etal .:Clinical characteristics and outcomes of neurogenic stress cadiomyopathy in aneurysmal subarachnoid hemorrhage .Clin Neurol Neurosurg,2013,115: 909-914.
+[6] Ahmadian A, Mizzi A,  Banasiak M, et al. Cardiac manifestations of subarachnoid hemorrhage[J]. Heart Lung Vessel,2013,5(3): 168-178.
+[7] Hocker S, Prasad A, Rabinstein AA. Cardiac injury in refractory status epilepticus[J]. Epilepsia, 2013,54: 518-522.
+[8] Nguyen‐MichelVH, Adam, etal .Characterization seizure-induced syncopes: EEG , ECG and clinicalfeatures[J]. Epilepsia, 2014, 55 :146-155.
+[9] Riera M, Llompart‐Pou JA, Carrillo A, et al .Head injury and inverted Takotsubo  cardiomyopathy[J]. J Trauma,2010,68: e13-e15.
